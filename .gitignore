@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+output/player_profiles.json
+data/cache/profiles_raw.json
