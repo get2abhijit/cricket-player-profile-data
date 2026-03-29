@@ -1,5 +1,15 @@
 .venv/
 __pycache__/
-*.pyc
-output/player_profiles.json
+*.py[cod]
+.pytest_cache/
+
+# Local runtime/state
+pipeline_run.log
+data/enrichment_state.json
+
+# Scrape cache
 data/cache/profiles_raw.json
+
+# Generated outputs
+output/player_profiles.json
+output/dashboard_data.json
