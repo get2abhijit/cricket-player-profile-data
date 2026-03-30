@@ -1,11 +1,11 @@
 {
   "metadata": {
     "format": "firstname_lastname",
-    "created": "2026-03-29T20:15:13.162060+00:00",
+    "created": "2026-03-30T04:47:51.469794+00:00",
     "description": "Player registry with best-available full names and enrichment state",
     "total_players": 1237,
-    "enriched": 1157,
-    "missing": 80
+    "enriched": 1188,
+    "missing": 49
   },
   "teams": {
     "Bulgaria": {
@@ -288,14 +288,14 @@
       "registry_name": "AA Senn",
       "slug": "aa_senn",
       "espn_id": "256969",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1460871",
       "teams": [
         "Cyprus"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/aa-senn-256969",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Spin",
+      "source_url": "https://www.cricbuzz.com/profiles/1460871",
       "last_attempted": "2026-03-29T20:09:20.081825+00:00"
     },
     "9244df4b": {
@@ -496,14 +496,14 @@
       "registry_name": "Abdul Majid Abbasi",
       "slug": "abdul_majid_abbasi",
       "espn_id": "1361960",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "41725",
       "teams": [
         "Bahrain"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/abdul-majid-abbasi-1361960",
+      "enriched": true,
+      "batting_hand": "LHB",
+      "bowling_type": "Spin",
+      "source_url": "https://www.cricbuzz.com/profiles/41725",
       "last_attempted": "2026-03-29T20:09:21.484887+00:00"
     },
     "e3fbe553": {
@@ -640,14 +640,14 @@
       "registry_name": "Abdur Rahman Sudais",
       "slug": "abdur_rahman_sudais",
       "espn_id": "335850",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "44490",
       "teams": [
         "Sweden"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/abdur-rahman-sudais-335850",
+      "source_url": "https://www.cricbuzz.com/profiles/44490/abdur-rahman-sudais",
       "last_attempted": "2026-03-29T20:09:26.268833+00:00"
     },
     "4e7d882f": {
@@ -1744,14 +1744,14 @@
       "registry_name": "Ali Naqi",
       "slug": "ali_naqi",
       "espn_id": "1204642",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15695",
       "teams": [
         "Portugal"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/ali-naqi-1204642",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/15695",
       "last_attempted": "2026-03-29T20:09:34.730443+00:00"
     },
     "deef8879": {
@@ -1776,14 +1776,14 @@
       "registry_name": "Ali Nayyer",
       "slug": "ali_nayyer",
       "espn_id": "469203",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "26717",
       "teams": [
         "Switzerland"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/ali-nayyer-469203",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/26717/ali-nayyer",
       "last_attempted": null
     },
     "1a710f40": {
@@ -1968,14 +1968,14 @@
       "registry_name": "A Manousis",
       "slug": "a_manousis",
       "espn_id": "520081",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "28353",
       "teams": [
         "Greece"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/a-manousis-520081",
+      "source_url": "https://www.cricbuzz.com/profiles/28353",
       "last_attempted": "2026-03-29T20:09:39.960167+00:00"
     },
     "a22b4f3f": {
@@ -2464,14 +2464,14 @@
       "registry_name": "A Orfila",
       "slug": "a_orfila",
       "espn_id": "1046617",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15680",
       "teams": [
         "Gibraltar"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/a-orfila-1046617",
+      "source_url": "https://www.cricbuzz.com/profiles/15680",
       "last_attempted": null
     },
     "fa308279": {
@@ -2592,14 +2592,14 @@
       "registry_name": "A Randhawa",
       "slug": "a_randhawa",
       "espn_id": "469212",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "26493",
       "teams": [
         "Austria"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/a-randhawa-469212",
+      "source_url": "https://www.cricbuzz.com/profiles/26493/a-randhawa",
       "last_attempted": "2026-03-29T20:09:50.994175+00:00"
     },
     "838bc6ab": {
@@ -2688,14 +2688,14 @@
       "registry_name": "Arjun Vinod",
       "slug": "arjun_vinod",
       "espn_id": "469193",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "26682",
       "teams": [
         "Switzerland"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/arjun-vinod-469193",
+      "source_url": "https://www.cricbuzz.com/profiles/26682/arjun-vinod",
       "last_attempted": "2026-03-29T20:09:56.334633+00:00"
     },
     "e957b38f": {
@@ -2864,14 +2864,14 @@
       "registry_name": "A Sarma",
       "slug": "amith_sarma",
       "espn_id": "1046605",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "14834",
       "teams": [
         "Germany"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/amith-sarma-1046605",
+      "source_url": "https://www.cricbuzz.com/profiles/14834",
       "last_attempted": "2026-03-29T19:33:43.926328+00:00"
     },
     "ed47a68b": {
@@ -3408,14 +3408,14 @@
       "registry_name": "Azam Khalil",
       "slug": "azam_khalil",
       "espn_id": "515185",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "26395",
       "teams": [
         "Sweden"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/azam-khalil-515185",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/26395",
       "last_attempted": "2026-03-29T20:10:11.994049+00:00"
     },
     "880133fb": {
@@ -5072,14 +5072,14 @@
       "registry_name": "DE Martel",
       "slug": "de_martel",
       "espn_id": "1036579",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "25182",
       "teams": [
         "Guernsey"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/de-martel-1036579",
+      "source_url": "https://www.cricbuzz.com/profiles/25182/de-martel",
       "last_attempted": "2026-03-29T20:10:42.400372+00:00"
     },
     "8c911414": {
@@ -5120,14 +5120,14 @@
       "registry_name": "Dharmendra Manani",
       "slug": "dharmendra_manani",
       "espn_id": "1236494",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "48235",
       "teams": [
         "Romania"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/dharmendra-manani-1236494",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/48235",
       "last_attempted": "2026-03-29T20:10:43.890522+00:00"
     },
     "f8c72766": {
@@ -5600,14 +5600,14 @@
       "registry_name": "D Svilicic",
       "slug": "d_svilicic",
       "espn_id": "580999",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1466309",
       "teams": [
         "Croatia"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/d-svilicic-580999",
+      "source_url": "https://www.cricbuzz.com/profiles/1466309",
       "last_attempted": "2026-03-29T20:10:56.431038+00:00"
     },
     "6d9aa10a": {
@@ -5760,14 +5760,14 @@
       "registry_name": "E Kahamker",
       "slug": "e_kahamker",
       "espn_id": "1046629",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "27732",
       "teams": [
         "Israel"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/e-kahamker-1046629",
+      "source_url": "https://www.cricbuzz.com/profiles/27732",
       "last_attempted": "2026-03-29T20:11:01.276136+00:00"
     },
     "95bd9407": {
@@ -6096,14 +6096,14 @@
       "registry_name": "Fakhrul Mohon",
       "slug": "fakhrul_mohon",
       "espn_id": "1204636",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "27669",
       "teams": [
         "Portugal"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/fakhrul-mohon-1204636",
+      "source_url": "https://www.cricbuzz.com/profiles/27669",
       "last_attempted": null
     },
     "821a412e": {
@@ -6128,14 +6128,14 @@
       "registry_name": "Fanyan Mughal",
       "slug": "fanyan_mughal",
       "espn_id": "492687",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "43349",
       "teams": [
         "Malta"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/fanyan-mughal-492687",
+      "source_url": "https://www.cricbuzz.com/profiles/43349",
       "last_attempted": "2026-03-29T20:11:11.061400+00:00"
     },
     "4233080d": {
@@ -6320,14 +6320,14 @@
       "registry_name": "F Khaliq",
       "slug": "f_khaliq",
       "espn_id": "520289",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "14842",
       "teams": [
         "Belgium"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/f-khaliq-520289",
+      "source_url": "https://www.cricbuzz.com/profiles/14842/f-khaliq",
       "last_attempted": "2026-03-29T20:11:22.354277+00:00"
     },
     "69e53eb3": {
@@ -6336,14 +6336,14 @@
       "registry_name": "F Stoman",
       "slug": "f_stoman",
       "espn_id": "1204644",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15691",
       "teams": [
         "Portugal"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/f-stoman-1204644",
+      "source_url": "https://www.cricbuzz.com/profiles/15691/f-stoman",
       "last_attempted": "2026-03-29T20:11:25.390794+00:00"
     },
     "b601c362": {
@@ -7984,14 +7984,14 @@
       "registry_name": "Imran Khan",
       "slug": "imran_khan",
       "espn_id": "1204641",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15690",
       "teams": [
         "Portugal"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/imran-khan-1204641",
+      "enriched": true,
+      "batting_hand": "LHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/15690",
       "last_attempted": "2026-03-29T20:11:41.693332+00:00"
     },
     "da3b91fd": {
@@ -10097,14 +10097,14 @@
       "registry_name": "LA Collado",
       "slug": "la_collado",
       "espn_id": "572235",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15679",
       "teams": [
         "Gibraltar"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/la-collado-572235",
+      "source_url": "https://www.cricbuzz.com/profiles/15679",
       "last_attempted": "2026-03-29T20:12:18.237232+00:00"
     },
     "f50433e9": {
@@ -11281,14 +11281,14 @@
       "registry_name": "M Kristensen",
       "slug": "m_kristensen",
       "espn_id": "1036595",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "44399",
       "teams": [
         "Denmark"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/m-kristensen-1036595",
+      "source_url": "https://www.cricbuzz.com/profiles/44399",
       "last_attempted": "2026-03-29T20:12:37.610446+00:00"
     },
     "9818cc88": {
@@ -11297,14 +11297,14 @@
       "registry_name": "M Kyriacou",
       "slug": "m_kyriacou",
       "espn_id": "520026",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1424804",
       "teams": [
         "Cyprus"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "LHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/m-kyriacou-520026",
+      "source_url": "https://www.cricbuzz.com/profiles/1424804",
       "last_attempted": "2026-03-29T20:12:43.081266+00:00"
     },
     "79e23cc5": {
@@ -12529,14 +12529,14 @@
       "registry_name": "Najjam Shahzad",
       "slug": "najjam_shahzad",
       "espn_id": "1204631",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15686",
       "teams": [
         "Portugal"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/najjam-shahzad-1204631",
+      "source_url": "https://www.cricbuzz.com/profiles/15686",
       "last_attempted": "2026-03-29T20:12:57.155581+00:00"
     },
     "362fde0f": {
@@ -14209,14 +14209,14 @@
       "registry_name": "Rahel Khan",
       "slug": "rahel_khan",
       "espn_id": "1046655",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1425821",
       "teams": [
         "Sweden"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "LHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/rahel-khan-1046655",
+      "source_url": "https://www.cricbuzz.com/profiles/1425821",
       "last_attempted": "2026-03-29T20:13:21.131446+00:00"
     },
     "a9fd6ca3": {
@@ -14401,14 +14401,14 @@
       "registry_name": "Ravinder Gill",
       "slug": "ravinder_gill",
       "espn_id": "1493472",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1461869",
       "teams": [
         "Romania"
       ],
-      "enriched": false,
-      "batting_hand": null,
-      "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/ravinder-gill-1493472",
+      "enriched": true,
+      "batting_hand": "RHB",
+      "bowling_type": "Pace",
+      "source_url": "https://www.cricbuzz.com/profiles/1461869",
       "last_attempted": "2026-03-29T20:13:31.292974+00:00"
     },
     "f80682f8": {
@@ -16065,14 +16065,14 @@
       "registry_name": "S Bogdos",
       "slug": "s_bogdos",
       "espn_id": "469224",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "28327",
       "teams": [
         "Greece"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/s-bogdos-469224",
+      "source_url": "https://www.cricbuzz.com/profiles/28327",
       "last_attempted": "2026-03-29T20:13:54.228226+00:00"
     },
     "b24e0ffd": {
@@ -16257,14 +16257,14 @@
       "registry_name": "S Gasteratos",
       "slug": "s_gasteratos",
       "espn_id": "469226",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "1427702",
       "teams": [
         "Greece"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "LHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/s-gasteratos-469226",
+      "source_url": "https://www.cricbuzz.com/profiles/1427702",
       "last_attempted": "2026-03-29T20:13:59.538115+00:00"
     },
     "622be0d9": {
@@ -16450,14 +16450,14 @@
       "registry_name": "Shahzeb Choudhry",
       "slug": "shahzeb_choudhry",
       "espn_id": "1046653",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "44515",
       "teams": [
         "Sweden"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/shahzeb-choudhry-1046653",
+      "source_url": "https://www.cricbuzz.com/profiles/44515",
       "last_attempted": "2026-03-29T20:14:02.100327+00:00"
     },
     "eaa3b1b2": {
@@ -17554,14 +17554,14 @@
       "registry_name": "Sumit Singh",
       "slug": "sumit_singh",
       "espn_id": "1376779",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "44469",
       "teams": [
         "Finland"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/sumit-singh-1376779",
+      "source_url": "https://www.cricbuzz.com/profiles/44469",
       "last_attempted": "2026-03-29T20:14:28.520867+00:00"
     },
     "ef141f36": {
@@ -19858,14 +19858,14 @@
       "registry_name": "Ziaur Rehman",
       "slug": "ziaur_rehman",
       "espn_id": "1194055",
-      "cricbuzz_id": null,
+      "cricbuzz_id": "15220",
       "teams": [
         "Finland"
       ],
-      "enriched": false,
-      "batting_hand": null,
+      "enriched": true,
+      "batting_hand": "RHB",
       "bowling_type": null,
-      "source_url": "https://www.espncricinfo.com/cricketers/ziaur-rehman-1194055",
+      "source_url": "https://www.cricbuzz.com/profiles/15220/ziaur-rehman",
       "last_attempted": "2026-03-29T20:14:54.848524+00:00"
     },
     "fea7cf2e": {

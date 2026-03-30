@@ -288,12 +288,14 @@ function renderSummary() {
   const pace = players.filter(p => p.bowling_type === 'Pace').length;
   const spin = players.filter(p => p.bowling_type === 'Spin').length;
   const unfound = DATA.unfound_players ? Object.values(DATA.unfound_players).reduce((s, a) => s + a.length, 0) : 0;
+  const ignored = DATA.ignored_players ? Object.values(DATA.ignored_players).reduce((s, a) => s + a.length, 0) : 0;
   const el = document.getElementById('summary');
   el.innerHTML = [
     `<div class="stat-pill"><strong>${total}</strong> players</div>`,
     `<div class="stat-pill"><strong>${DATA.teams.length}</strong> teams</div>`,
     `<div class="stat-pill">🟢 <strong>${enriched}</strong> enriched</div>`,
-    `<div class="stat-pill">⚠️ <strong>${unfound}</strong> missing</div>`,
+    `<div class="stat-pill">⚠️ <strong>${unfound}</strong> missing (actionable)</div>`,
+    `<div class="stat-pill">🗂️ <strong>${ignored}</strong> ignored</div>`,
     `<div class="stat-pill">🏏 <strong>${rhb}</strong> RHB | <strong>${lhb}</strong> LHB</div>`,
     `<div class="stat-pill">⚡ <strong>${pace}</strong> Pace | 🌀 <strong>${spin}</strong> Spin</div>`,
   ].join('');
@@ -347,7 +349,7 @@ function buildCard(p) {
 
   const espnLink = p.source_url
     ? `<a href="${esc(p.source_url)}"
-          target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;text-decoration:none;">ESPN ↗</a>`
+        target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;text-decoration:none;">Profile ↗</a>`
     : '';
 
   return `
@@ -430,38 +432,107 @@ let missingSearchQuery = '';
 function renderMissing() {
   const container = document.getElementById('missing-content');
   const unfound = DATA.unfound_players || {};
+  const ignored = DATA.ignored_players || {};
   const teams = Object.keys(unfound).sort();
+  const ignoredTeams = Object.keys(ignored).sort();
   const q = missingSearchQuery.toLowerCase();
 
-  if (teams.length === 0) {
+  if (teams.length === 0 && ignoredTeams.length === 0) {
     container.innerHTML = '<p style="text-align:center;color:var(--muted);padding:2rem;">No missing players recorded.</p>';
     return;
   }
 
-  let html = '';
+  let html = '<div style="margin-bottom:1.25rem;padding:0.8rem 0.9rem;border:1px dashed var(--border);border-radius:8px;background:#fff7ed;color:#7c2d12;font-size:0.8rem;">Actionable missing players appear first. Ignored players are listed separately with a reason.</div>';
+  const actionableTotal = Object.values(unfound).reduce((s, a) => s + a.length, 0);
+  html += `<h3 style="font-size:1rem;font-weight:700;color:var(--green-dark);margin-bottom:0.7rem;">Actionable Missing Players <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${actionableTotal})</span></h3>`;
+
+  let actionableHtml = '';
   for (const team of teams) {
     let players = unfound[team] || [];
     if (q) players = players.filter(p => (p.name || '').toLowerCase().includes(q));
     if (players.length === 0) continue;
 
-    html += `<div style="margin-bottom:1.5rem;">`;
-    html += `<h3 style="font-size:1rem;font-weight:700;color:var(--green-dark);margin-bottom:0.5rem;border-bottom:2px solid var(--border);padding-bottom:0.3rem;">${esc(team)} <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${players.length})</span></h3>`;
-    html += `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:0.6rem;">`;
+    actionableHtml += `<div style="margin-bottom:1.2rem;">`;
+    actionableHtml += `<h4 style="font-size:0.95rem;font-weight:700;color:var(--green-dark);margin-bottom:0.5rem;border-bottom:2px solid var(--border);padding-bottom:0.3rem;">${esc(team)} <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${players.length})</span></h4>`;
+    actionableHtml += `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:0.6rem;">`;
 
     for (const p of players) {
       const espnUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
-      const espnLink = espnUrl ? `<a href="${esc(espnUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">ESPN ↗</a>` : '';
-      html += `<div style="background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:0.6rem 0.9rem;">`;
-      html += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
-      html += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
-      if (p.espn_id) html += ` &bull; ESPN: ${esc(p.espn_id)}`;
-      html += ` ${espnLink}</div>`;
-      html += `</div>`;
+      const espnLink = espnUrl ? `<a href="${esc(espnUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
+      actionableHtml += `<div style="background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:0.6rem 0.9rem;">`;
+      actionableHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
+      actionableHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
+      if (p.espn_id) actionableHtml += ` &bull; ESPN: ${esc(p.espn_id)}`;
+      if (p.t20i_matches != null) actionableHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
+      actionableHtml += ` ${espnLink}</div>`;
+      actionableHtml += `</div>`;
     }
-    html += `</div></div>`;
+    actionableHtml += `</div></div>`;
   }
 
-  if (!html) {
+  if (!actionableHtml) {
+    html += '<p style="color:var(--muted);padding:0.4rem 0 1.2rem;">No actionable missing players match the search.</p>';
+  } else {
+    html += actionableHtml;
+  }
+
+  const ignoredTotal = Object.values(ignored).reduce((s, a) => s + a.length, 0);
+  html += `<h3 style="font-size:1rem;font-weight:700;color:#92400e;margin:0.8rem 0 0.7rem;">Ignored Players <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${ignoredTotal})</span></h3>`;
+
+  const ignoredByReason = {};
+  for (const team of ignoredTeams) {
+    for (const p of ignored[team] || []) {
+      if (q && !(p.name || '').toLowerCase().includes(q)) continue;
+      const reason = p.ignore_reason || 'Ignored by filter';
+      if (!ignoredByReason[reason]) ignoredByReason[reason] = {};
+      if (!ignoredByReason[reason][team]) ignoredByReason[reason][team] = [];
+      ignoredByReason[reason][team].push(p);
+    }
+  }
+
+  const ignoredReasonOrder = ['No T20 appearance', 'No match since 2020-01-01', 'No profile available'];
+  let ignoredHtml = '';
+  for (const reason of ignoredReasonOrder) {
+    const teamsForReason = ignoredByReason[reason] || {};
+    const reasonTeams = Object.keys(teamsForReason).sort();
+    const reasonCount = reasonTeams.reduce((s, team) => s + teamsForReason[team].length, 0);
+    if (reasonCount === 0) continue;
+
+    ignoredHtml += `<div style="margin-bottom:1.2rem;">`;
+    ignoredHtml += `<h4 style="font-size:0.98rem;font-weight:700;color:#92400e;margin-bottom:0.6rem;">${esc(reason)} <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${reasonCount})</span></h4>`;
+
+    for (const team of reasonTeams) {
+      const players = teamsForReason[team];
+      ignoredHtml += `<div style="margin-bottom:1rem;">`;
+      ignoredHtml += `<h5 style="font-size:0.9rem;font-weight:700;color:#92400e;margin-bottom:0.45rem;border-bottom:2px solid #fcd34d;padding-bottom:0.3rem;">${esc(team)} <span style="font-weight:400;color:var(--muted);font-size:0.82rem;">(${players.length})</span></h5>`;
+      ignoredHtml += `<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:0.6rem;">`;
+
+      for (const p of players) {
+        const profileUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
+        const profileLink = profileUrl ? `<a href="${esc(profileUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
+        ignoredHtml += `<div style="background:#fffaf0;border:1px solid #fcd34d;border-radius:8px;padding:0.6rem 0.9rem;">`;
+        ignoredHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
+        ignoredHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
+        if (p.espn_id) ignoredHtml += ` &bull; ESPN: ${esc(p.espn_id)}`;
+        if (p.t20i_matches != null) ignoredHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
+        if (p.latest_match_date) ignoredHtml += ` &bull; Last match: ${esc(p.latest_match_date)}`;
+        ignoredHtml += ` ${profileLink}</div>`;
+        ignoredHtml += `</div>`;
+      }
+
+      ignoredHtml += `</div></div>`;
+    }
+
+    ignoredHtml += `</div>`;
+  }
+
+  if (!ignoredHtml) {
+    html += '<p style="color:var(--muted);padding:0.4rem 0 0;">No ignored players match the search.</p>';
+  } else {
+    html += ignoredHtml;
+  }
+
+  if (!actionableHtml && !ignoredHtml) {
     html = '<p style="text-align:center;color:var(--muted);padding:2rem;">No missing players match the search.</p>';
   }
 

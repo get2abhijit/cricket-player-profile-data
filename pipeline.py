@@ -25,6 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional, Set
 
+from dashboard_payload import build_dashboard_payload
 from generate_dashboard import generate_dashboard
 from match_loader import load_teams_from_matches
 from normalizer import classify_bowling_style, normalize_batting_hand
@@ -289,7 +290,7 @@ def run_pipeline(
 
     _write_json(OUTPUT_PATH, output)
     # Also write a flat list for the dashboard (easier to consume client-side)
-    _write_json(DASHBOARD_DATA_PATH, _build_dashboard_payload(output))
+    _write_json(DASHBOARD_DATA_PATH, build_dashboard_payload(output))
     _write_json(CACHE_PATH, cache)
     save_state(enrichment_state)  # Save enrichment tracking state
     generate_dashboard()
@@ -302,56 +303,6 @@ def run_pipeline(
     print(f"  Output         : {OUTPUT_PATH}")
 
     return output
-
-
-def _build_dashboard_payload(output: Dict) -> Dict:
-    """
-    Flatten into a form that is convenient for the JavaScript dashboard:
-    { teams: ["Bulgaria", ...], players: [{ ...flat fields... }], unfound_players: {...} }
-    """
-    flat_players = []
-    unfound_by_team: Dict[str, List[Dict]] = {}
-    
-    for pid, record in output["players"].items():
-        bowling = record.get("bowling") or {}
-        batting = record.get("batting") or {}
-        
-        # Check if enriched (has batting hand OR bowling type)
-        is_enriched = bool(batting.get("hand") or bowling.get("type"))
-        
-        player_flat = {
-            "id": pid,
-            "name": record.get("name"),
-            "teams": record.get("teams", []),
-            "batting_hand": batting.get("hand"),
-            "bowling_arm": bowling.get("arm"),
-            "bowling_type": bowling.get("type"),
-            "bowling_subtype": bowling.get("subtype"),
-            "bowling_mechanism": bowling.get("mechanism"),
-            "role": record.get("role"),
-            "espn_id": (record.get("external_ids") or {}).get("espn"),
-            "cricbuzz_id": (record.get("external_ids") or {}).get("cricbuzz"),
-            "source_url": record.get("source"),
-            "raw_batting": (record.get("raw") or {}).get("batting_style"),
-            "raw_bowling": (record.get("raw") or {}).get("bowling_style"),
-        }
-        
-        if is_enriched:
-            flat_players.append(player_flat)
-        else:
-            # Track unfound players by team
-            for team in record.get("teams", []):
-                if team not in unfound_by_team:
-                    unfound_by_team[team] = []
-                unfound_by_team[team].append(player_flat)
-
-    team_names = sorted(output.get("teams", {}).keys())
-    
-    return {
-        "teams": team_names,
-        "players": flat_players,
-        "unfound_players": unfound_by_team,
-    }
 
 
 # ---------------------------------------------------------------------------
