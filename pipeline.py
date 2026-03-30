@@ -27,6 +27,12 @@ from typing import Dict, List, Optional, Set
 
 from dashboard_payload import build_dashboard_payload
 from generate_dashboard import generate_dashboard
+from manual_overrides import (
+    apply_manual_overrides_to_output,
+    infer_is_wicketkeeper,
+    load_manual_overrides,
+    sync_manual_override_placeholders,
+)
 from match_loader import load_teams_from_matches
 from normalizer import classify_bowling_style, normalize_batting_hand
 from registry_loader import PlayerRecord, load_registry
@@ -98,9 +104,11 @@ def _build_player_record(
         },
         "bowling": classify_bowling_style(bowling_style),
         "role": role,
+        "is_wicketkeeper": infer_is_wicketkeeper(role),
         "raw": {
             "batting_style": batting_style,
             "bowling_style": bowling_style,
+            "role": role,
         },
         "source": source_url,
         "last_updated": datetime.now(timezone.utc).isoformat(),
@@ -125,6 +133,8 @@ def run_pipeline(
     limit: Optional[int] = None,
     match_players_only: bool = True,
     skip_espn: bool = False,
+    no_fetch: bool = False,
+    retry_empty_cache: bool = False,
 ) -> Dict:
     """
     Build the player intelligence dataset.
@@ -171,16 +181,19 @@ def run_pipeline(
     scraper = EspnScraper()
     cache: Dict = _load_json_dict(CACHE_PATH)
     enrichment_state: Dict = load_state()
+    manual_overrides = load_manual_overrides()
 
-    # Purge stale empty cache entries so they get re-fetched
-    stale_keys = [
-        k for k, v in cache.items()
-        if not any(v.get(f) for f in ("batting_style", "bowling_style", "role"))
-    ]
-    if stale_keys:
-        for k in stale_keys:
-            del cache[k]
-        print(f"Purged {len(stale_keys)} stale empty cache entries for retry")
+    # Optionally purge empty cache entries so they get re-fetched.
+    # Keep them by default for fast regeneration workflows.
+    if retry_empty_cache:
+        stale_keys = [
+            k for k, v in cache.items()
+            if not any(v.get(f) for f in ("batting_style", "bowling_style", "role"))
+        ]
+        if stale_keys:
+            for k in stale_keys:
+                del cache[k]
+            print(f"Purged {len(stale_keys)} stale empty cache entries for retry")
 
     processed = 0
     skipped = 0
@@ -222,6 +235,9 @@ def run_pipeline(
             if cache_key in cache:
                 raw_profile = cache[cache_key]
                 print(f"  -> Cache hit")
+            elif no_fetch:
+                skipped += 1
+                print("  -> Skipped fetch: --no-fetch mode")
             else:
                 try:
                     raw_profile = scraper.fetch_profile(
@@ -288,7 +304,9 @@ def run_pipeline(
         "players": player_records,
     }
 
+    output = apply_manual_overrides_to_output(output, manual_overrides)
     _write_json(OUTPUT_PATH, output)
+    sync_manual_override_placeholders(output)
     # Also write a flat list for the dashboard (easier to consume client-side)
     _write_json(DASHBOARD_DATA_PATH, build_dashboard_payload(output))
     _write_json(CACHE_PATH, cache)
@@ -329,9 +347,31 @@ def _parse_args() -> argparse.Namespace:
         action="store_true",
         help="Skip ESPN HTTP attempts (use when Akamai is blocking). Only Cricbuzz IDs will be fetched.",
     )
+    parser.add_argument(
+        "--no-fetch",
+        action="store_true",
+        help=(
+            "Do not make any HTTP requests. Rebuild outputs from registry + cache + manual overrides only. "
+            "Useful for fast manual-edit iteration."
+        ),
+    )
+    parser.add_argument(
+        "--retry-empty-cache",
+        action="store_true",
+        help=(
+            "Re-fetch players whose cached profiles have no batting_style/bowling_style/role. "
+            "Disabled by default for faster reruns."
+        ),
+    )
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = _parse_args()
-    run_pipeline(limit=args.limit, match_players_only=not args.all, skip_espn=args.skip_espn)
+    run_pipeline(
+        limit=args.limit,
+        match_players_only=not args.all,
+        skip_espn=args.skip_espn,
+        no_fetch=args.no_fetch,
+        retry_empty_cache=args.retry_empty_cache,
+    )

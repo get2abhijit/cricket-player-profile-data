@@ -40,6 +40,7 @@ _HTML_TEMPLATE = """\
       --badge-pace:   #fee2e2;
       --badge-spin:   #dbeafe;
       --badge-role:   #ede9fe;
+      --badge-wk:     #ffe4e6;
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -192,6 +193,7 @@ _HTML_TEMPLATE = """\
     .badge-pace  { background: var(--badge-pace); color: #991b1b; }
     .badge-spin  { background: var(--badge-spin); color: #1e40af; }
     .badge-role  { background: var(--badge-role); color: #5b21b6; }
+    .badge-wk    { background: var(--badge-wk); color: #9f1239; }
     .badge-sub   { background: #f3f4f6; color: #374151; font-weight: 500; }
     .card-raw {
       font-size: 0.72rem; color: var(--muted);
@@ -340,6 +342,8 @@ function buildCard(p) {
   const mech = p.bowling_mechanism && p.bowling_mechanism !== 'None'
                ? badge('badge-sub', p.bowling_mechanism) : '';
   const role = p.role ? badge('badge-role', p.role) : '';
+  const wicketkeeper = p.is_wicketkeeper ? badge('badge-wk', 'WK') : '';
+  const manual = p.manual_override ? badge('badge-sub', 'Manual') : '';
 
   const rawLines = [];
   if (p.raw_batting)  rawLines.push(`Bat: ${esc(p.raw_batting)}`);
@@ -363,8 +367,8 @@ function buildCard(p) {
       </div>
       ${teams ? `<div class="card-teams">${teams}</div>` : ''}
       <div class="card-skills">
-        ${bats}${btype}${arm}${mech}${role}
-        ${!bats && !btype && !role ? '<span style="font-size:0.72rem;color:#9ca3af;font-style:italic;">no skill data</span>' : ''}
+        ${bats}${btype}${arm}${mech}${role}${wicketkeeper}${manual}
+        ${!bats && !btype && !role && !wicketkeeper ? '<span style="font-size:0.72rem;color:#9ca3af;font-style:italic;">no skill data</span>' : ''}
       </div>
       ${rawSection}
     </div>`;
@@ -442,7 +446,7 @@ function renderMissing() {
     return;
   }
 
-  let html = '<div style="margin-bottom:1.25rem;padding:0.8rem 0.9rem;border:1px dashed var(--border);border-radius:8px;background:#fff7ed;color:#7c2d12;font-size:0.8rem;">Actionable missing players appear first. Ignored players are listed separately with a reason.</div>';
+  let html = '<div style="margin-bottom:1.25rem;padding:0.8rem 0.9rem;border:1px dashed var(--border);border-radius:8px;background:#fff7ed;color:#7c2d12;font-size:0.8rem;">Actionable missing players appear first. Ignored players are listed separately with a reason. Manual edits belong in data/manual_overrides.json; new missing-player placeholders are seeded there automatically.</div>';
   const actionableTotal = Object.values(unfound).reduce((s, a) => s + a.length, 0);
   html += `<h3 style="font-size:1rem;font-weight:700;color:var(--green-dark);margin-bottom:0.7rem;">Actionable Missing Players <span style="font-weight:400;color:var(--muted);font-size:0.85rem;">(${actionableTotal})</span></h3>`;
 
@@ -459,12 +463,14 @@ function renderMissing() {
     for (const p of players) {
       const espnUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
       const espnLink = espnUrl ? `<a href="${esc(espnUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
+      const manualBadge = p.manual_override ? '<span style="display:inline-block;margin-top:0.35rem;font-size:0.68rem;font-weight:600;color:#92400e;background:#fef3c7;border-radius:999px;padding:0.12rem 0.5rem;">Manual override present</span>' : '';
       actionableHtml += `<div style="background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:0.6rem 0.9rem;">`;
       actionableHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
       actionableHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
       if (p.espn_id) actionableHtml += ` &bull; ESPN: ${esc(p.espn_id)}`;
       if (p.t20i_matches != null) actionableHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
       actionableHtml += ` ${espnLink}</div>`;
+      actionableHtml += manualBadge;
       actionableHtml += `</div>`;
     }
     actionableHtml += `</div></div>`;
@@ -510,6 +516,7 @@ function renderMissing() {
       for (const p of players) {
         const profileUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
         const profileLink = profileUrl ? `<a href="${esc(profileUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
+        const manualBadge = p.manual_override ? '<span style="display:inline-block;margin-top:0.35rem;font-size:0.68rem;font-weight:600;color:#92400e;background:#fef3c7;border-radius:999px;padding:0.12rem 0.5rem;">Manual override present</span>' : '';
         ignoredHtml += `<div style="background:#fffaf0;border:1px solid #fcd34d;border-radius:8px;padding:0.6rem 0.9rem;">`;
         ignoredHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
         ignoredHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
@@ -517,6 +524,7 @@ function renderMissing() {
         if (p.t20i_matches != null) ignoredHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
         if (p.latest_match_date) ignoredHtml += ` &bull; Last match: ${esc(p.latest_match_date)}`;
         ignoredHtml += ` ${profileLink}</div>`;
+        ignoredHtml += manualBadge;
         ignoredHtml += `</div>`;
       }
 

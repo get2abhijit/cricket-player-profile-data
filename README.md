@@ -13,6 +13,7 @@ A standalone Python pipeline that reads Cricsheet registry files and builds a un
   - `subtype`
   - `mechanism`
 - Reuses cached raw profile responses to avoid duplicate scraping.
+- Supports external manual overrides in `data/manual_overrides.json` so player data can be corrected without editing Python code.
 - Continues processing on missing IDs, request failures, and missing fields.
 - Writes final dataset to `output/player_profiles.json`.
 
@@ -28,6 +29,7 @@ Data paths used:
 - Input registry: `data/people.csv` and `data/names.csv`
 - Optional prompt-compatible path: `data/cricsheet/people.csv` and `data/cricsheet/names.csv`
 - Raw cache: `data/cache/profiles_raw.json`
+- Manual overrides: `data/manual_overrides.json`
 - Output: `output/player_profiles.json`
 
 ## Setup (Workspace-local venv)
@@ -54,6 +56,50 @@ Run a smaller smoke test:
 ```powershell
 python pipeline.py --limit 25
 ```
+
+Manual overrides workflow:
+
+```powershell
+python pipeline.py
+```
+
+The pipeline auto-seeds `data/manual_overrides.json` with placeholder entries for players who are still missing batting and bowling data. Edit any player entry there to override scraped values.
+
+Fast regeneration for manual edits (no network calls):
+
+```powershell
+python pipeline.py --no-fetch
+```
+
+This reuses existing cache plus `data/manual_overrides.json` and rebuilds:
+- `output/player_profiles.json`
+- `output/dashboard_data.json`
+- `output/dashboard.html`
+
+If you want the fastest manual-edit loop without rebuilding player records from cache at all, use:
+
+```powershell
+python refresh_manual_overrides.py
+```
+
+That keeps the current `output/player_profiles.json` intact, reapplies `data/manual_overrides.json`, and refreshes the dashboard artifacts only.
+
+When you explicitly want to retry unresolved players that have empty cache rows, use:
+
+```powershell
+python pipeline.py --retry-empty-cache
+```
+
+Supported override fields per player:
+
+- `batting_style` and/or `batting_hand`
+- `bowling_style` and/or `bowling.arm|type|subtype|mechanism`
+- `role`
+- `is_wicketkeeper`
+- `external_ids.espn` and `external_ids.cricbuzz`
+- `source_url` and `notes`
+
+You can also add players manually by player ID under the top-level `players` object, even if they were not part of the seeded missing-player list.
 
 ## Output Schema
 

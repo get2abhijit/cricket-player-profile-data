@@ -15,7 +15,7 @@ DASHBOARD_PATH     = Path("output/dashboard_data.json")
 
 PLAYER_REQUIRED_KEYS = {
     "identifier", "name", "known_as", "teams",
-    "external_ids", "batting", "bowling", "role",
+    "external_ids", "batting", "bowling", "role", "is_wicketkeeper",
     "raw", "source", "last_updated",
 }
 BOWLING_KEYS = {"arm", "type", "subtype", "mechanism"}
@@ -130,7 +130,8 @@ class TestDashboardDataSchema:
     def test_player_flat_keys(self, dashboard_data):
         required = {"id", "name", "teams", "batting_hand", "bowling_type",
                     "bowling_arm", "bowling_subtype", "bowling_mechanism",
-                    "role", "espn_id", "raw_batting", "raw_bowling"}
+                    "role", "is_wicketkeeper", "manual_override",
+                    "espn_id", "raw_batting", "raw_bowling"}
         for p in dashboard_data["players"]:
             missing = required - set(p.keys())
             assert not missing, f"Dashboard player {p.get('id')} missing: {missing}"

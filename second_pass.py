@@ -22,6 +22,7 @@ from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 
 from dashboard_payload import build_dashboard_payload
+from manual_overrides import apply_manual_overrides_to_output, load_manual_overrides, sync_manual_override_placeholders
 from normalizer import classify_bowling_style, normalize_batting_hand
 from registry_loader import load_registry, PlayerRecord
 from scraper_cricbuzz import CricbuzzScraper
@@ -96,6 +97,7 @@ def run_second_pass() -> Dict:
     # 1. Load current output and cache
     output = _load_json(OUTPUT_PATH)
     cache = _load_json(CACHE_PATH)
+    manual_overrides = load_manual_overrides()
 
     if not output.get("players"):
         print("ERROR: No player output found. Run the main pipeline first.")
@@ -225,10 +227,13 @@ def run_second_pass() -> Dict:
         enriched_count += 1
         print(f"    -> Enriched: bat={batting_style}, bowl={bowling_style}, role={role}")
 
+    output = apply_manual_overrides_to_output(output, manual_overrides)
+
     # 7. Write updated output
     print(f"\n--- Phase 4: Writing updated outputs ---")
     _write_json(OUTPUT_PATH, output)
     _write_json(CACHE_PATH, cache)
+    sync_manual_override_placeholders(output)
 
     # Rebuild dashboard data with actionable missing vs ignored split
     dashboard_data = build_dashboard_payload(output)
