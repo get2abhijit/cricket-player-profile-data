@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.github/
 
 # Local runtime/state
 pipeline_run.log
@@ -12,3 +13,6 @@ data/matches_json/
 
 # prompts
 /prompts/
+
+# scripts
+launch-vscode.bat
