@@ -119,6 +119,7 @@ def generate_enriched_registry():
             "enriched": has_data,
             "batting_hand": record.get("batting", {}).get("hand"),
             "bowling_type": record.get("bowling", {}).get("type"),
+            "is_wicketkeeper": record.get("is_wicketkeeper"),
             "source_url": record.get("source"),
             "last_attempted": state.get(pid, {}).get("last_attempted"),
         }

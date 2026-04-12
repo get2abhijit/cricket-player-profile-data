@@ -7,9 +7,8 @@ __pycache__/
 pipeline_run.log
 data/enrichment_state.json
 
-# Scrape cache
-data/cache/profiles_raw.json
+# matches
+data/matches_json/
 
-# Generated outputs
-output/player_profiles.json
-output/dashboard_data.json
+# prompts
+/prompts/

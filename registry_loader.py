@@ -31,13 +31,17 @@ class RegistryLoaderError(RuntimeError):
 
 def resolve_registry_paths(base_dir: Optional[Path] = None) -> RegistryPaths:
     """
-    Resolve registry files from either data/cricsheet/ or data/.
+    Resolve registry files from data/registry_csv/, data/cricsheet/, or data/.
 
     This keeps compatibility with both the prompt's desired folder structure and
     the current repository layout.
     """
     root = (base_dir or Path(__file__).resolve().parent).resolve()
-    candidate_roots = [root / "data" / "cricsheet", root / "data"]
+    candidate_roots = [
+        root / "data" / "registry_csv",
+        root / "data" / "cricsheet",
+        root / "data",
+    ]
 
     for candidate in candidate_roots:
         people_csv = candidate / "people.csv"

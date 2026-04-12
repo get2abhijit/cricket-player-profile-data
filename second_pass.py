@@ -17,6 +17,7 @@ from __future__ import annotations
 import json
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
@@ -164,68 +165,86 @@ def run_second_pass() -> Dict:
     enriched_count = 0
     failed_count = 0
 
-    for pid, cb_id in match_results.items():
-        record = output["players"][pid]
-        name = record.get("name", "")
-        teams = record.get("teams", [])
-        print(f"  [{enriched_count + failed_count + 1}/{len(match_results)}] {name} (cb:{cb_id})")
+    workers = 8
+    print(f"Using {workers} workers for Cricbuzz profile fetches")
 
+    def _fetch_one(item: Tuple[str, str]) -> Tuple[str, str, Optional[Dict], Optional[str]]:
+        pid, cb_id = item
         profile = cb_scraper.fetch_profile(cb_id)
         if not profile:
-            print(f"    -> Failed to fetch profile")
-            failed_count += 1
-            continue
+            return pid, cb_id, None, "fetch_failed"
+        return pid, cb_id, profile, None
 
-        # Validate country match
-        if not _country_matches(profile.get("country"), teams):
-            print(f"    -> Country mismatch: {profile.get('country')} vs {teams}")
-            failed_count += 1
-            continue
+    completed = 0
+    total_matches = len(match_results)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {
+            pool.submit(_fetch_one, item): item
+            for item in match_results.items()
+        }
+        for future in as_completed(futures):
+            pid, cb_id, profile, err = future.result()
+            completed += 1
+            record = output["players"][pid]
+            name = record.get("name", "")
+            teams = record.get("teams", [])
+            print(f"  [{completed}/{total_matches}] {name} (cb:{cb_id})")
 
-        batting_style = profile.get("batting_style")
-        bowling_style = profile.get("bowling_style")
-        role = profile.get("role")
+            if err or not profile:
+                print("    -> Failed to fetch profile")
+                failed_count += 1
+                continue
 
-        has_data = bool(batting_style or bowling_style or role)
-        if not has_data:
-            print(f"    -> Profile found but no style data")
-            failed_count += 1
-            continue
+            # Validate country match
+            if not _country_matches(profile.get("country"), teams):
+                print(f"    -> Country mismatch: {profile.get('country')} vs {teams}")
+                failed_count += 1
+                continue
 
-        # Update the player record
-        batting_hand = normalize_batting_hand(batting_style)
-        bowling = classify_bowling_style(bowling_style)
+            batting_style = profile.get("batting_style")
+            bowling_style = profile.get("bowling_style")
+            role = profile.get("role")
 
-        record["batting"]["hand"] = batting_hand or record["batting"].get("hand")
-        if bowling.get("type"):
-            record["bowling"] = bowling
-        if role:
-            record["role"] = role
-        record["raw"]["batting_style"] = batting_style or record["raw"].get("batting_style")
-        record["raw"]["bowling_style"] = bowling_style or record["raw"].get("bowling_style")
+            has_data = bool(batting_style or bowling_style or role)
+            if not has_data:
+                print("    -> Profile found but no style data")
+                failed_count += 1
+                continue
 
-        # Update external IDs and source URL
-        ext_ids = record.get("external_ids", {})
-        ext_ids["cricbuzz"] = cb_id
-        record["external_ids"] = ext_ids
+            # Update the player record
+            batting_hand = normalize_batting_hand(batting_style)
+            bowling = classify_bowling_style(bowling_style)
 
-        # Set source URL to Cricbuzz profile if we got data from there
-        cb_url = CricbuzzScraper.profile_url(cb_id, name)
-        record["source"] = cb_url
-        record["last_updated"] = datetime.now(timezone.utc).isoformat()
+            record["batting"]["hand"] = batting_hand or record["batting"].get("hand")
+            if bowling.get("type"):
+                record["bowling"] = bowling
+            if role:
+                record["role"] = role
+            record["raw"]["batting_style"] = batting_style or record["raw"].get("batting_style")
+            record["raw"]["bowling_style"] = bowling_style or record["raw"].get("bowling_style")
 
-        # Update cache
-        cache_key = pid
-        if cache_key in cache:
-            cache[cache_key]["batting_style"] = batting_style or cache[cache_key].get("batting_style")
-            cache[cache_key]["bowling_style"] = bowling_style or cache[cache_key].get("bowling_style")
-            cache[cache_key]["role"] = role or cache[cache_key].get("role")
-            cache[cache_key]["cricbuzz_id"] = cb_id
-            cache[cache_key]["cricbuzz_url"] = cb_url
+            # Update external IDs and source URL
+            ext_ids = record.get("external_ids", {})
+            ext_ids["cricbuzz"] = cb_id
+            record["external_ids"] = ext_ids
 
-        output["players"][pid] = record
-        enriched_count += 1
-        print(f"    -> Enriched: bat={batting_style}, bowl={bowling_style}, role={role}")
+            # Set source URL to Cricbuzz profile if we got data from there
+            cb_url = CricbuzzScraper.profile_url(cb_id, name)
+            record["source"] = cb_url
+            record["last_updated"] = datetime.now(timezone.utc).isoformat()
+
+            # Update cache
+            cache_key = pid
+            if cache_key in cache:
+                cache[cache_key]["batting_style"] = batting_style or cache[cache_key].get("batting_style")
+                cache[cache_key]["bowling_style"] = bowling_style or cache[cache_key].get("bowling_style")
+                cache[cache_key]["role"] = role or cache[cache_key].get("role")
+                cache[cache_key]["cricbuzz_id"] = cb_id
+                cache[cache_key]["cricbuzz_url"] = cb_url
+
+            output["players"][pid] = record
+            enriched_count += 1
+            print(f"    -> Enriched: bat={batting_style}, bowl={bowling_style}, role={role}")
 
     output = apply_manual_overrides_to_output(output, manual_overrides)
 

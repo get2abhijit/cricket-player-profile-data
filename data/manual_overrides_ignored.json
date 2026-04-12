@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "description": "Ignored players are tracked separately and excluded from manual override workflow.",
+    "editable_scope": "Reference only; these players are ignored based on dashboard classification rules.",
+    "seeded_with": "Entries are refreshed from output/dashboard classification during refresh.",
+    "updated_at": "2026-04-12T15:44:14.860892+00:00"
+  },
+  "players": {
+    "c65e0275": {
+      "name": "Babar Ali",
+      "teams": [
+        "Rwanda"
+      ],
+      "external_ids": {
+        "espn": null,
+        "cricbuzz": null
+      },
+      "source_url": null,
+      "source": "system",
+      "notes": null,
+      "ignore_reason": "No profile available",
+      "t20i_matches": 3,
+      "latest_match_date": "2023-10-08"
+    }
+  }
+}

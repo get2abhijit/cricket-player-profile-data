@@ -120,6 +120,7 @@ class TestDashboardDataSchema:
     def test_top_level_keys(self, dashboard_data):
         assert "teams"   in dashboard_data
         assert "players" in dashboard_data
+        assert "validation_needed" in dashboard_data
 
     def test_teams_is_list(self, dashboard_data):
         assert isinstance(dashboard_data["teams"], list)
@@ -135,3 +136,6 @@ class TestDashboardDataSchema:
         for p in dashboard_data["players"]:
             missing = required - set(p.keys())
             assert not missing, f"Dashboard player {p.get('id')} missing: {missing}"
+
+    def test_validation_needed_is_team_bucketed(self, dashboard_data):
+        assert isinstance(dashboard_data["validation_needed"], dict)

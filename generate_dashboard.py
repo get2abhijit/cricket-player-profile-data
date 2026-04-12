@@ -463,14 +463,12 @@ function renderMissing() {
     for (const p of players) {
       const espnUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
       const espnLink = espnUrl ? `<a href="${esc(espnUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
-      const manualBadge = p.manual_override ? '<span style="display:inline-block;margin-top:0.35rem;font-size:0.68rem;font-weight:600;color:#92400e;background:#fef3c7;border-radius:999px;padding:0.12rem 0.5rem;">Manual override present</span>' : '';
       actionableHtml += `<div style="background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:0.6rem 0.9rem;">`;
       actionableHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
       actionableHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
       if (p.espn_id) actionableHtml += ` &bull; ESPN: ${esc(p.espn_id)}`;
       if (p.t20i_matches != null) actionableHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
       actionableHtml += ` ${espnLink}</div>`;
-      actionableHtml += manualBadge;
       actionableHtml += `</div>`;
     }
     actionableHtml += `</div></div>`;
@@ -516,7 +514,6 @@ function renderMissing() {
       for (const p of players) {
         const profileUrl = p.source_url || (p.espn_id ? 'https://www.espncricinfo.com/cricketers/_/id/' + esc(p.espn_id) : '');
         const profileLink = profileUrl ? `<a href="${esc(profileUrl)}" target="_blank" rel="noopener" style="font-size:0.68rem;color:#2d6a4f;">Profile ↗</a>` : '';
-        const manualBadge = p.manual_override ? '<span style="display:inline-block;margin-top:0.35rem;font-size:0.68rem;font-weight:600;color:#92400e;background:#fef3c7;border-radius:999px;padding:0.12rem 0.5rem;">Manual override present</span>' : '';
         ignoredHtml += `<div style="background:#fffaf0;border:1px solid #fcd34d;border-radius:8px;padding:0.6rem 0.9rem;">`;
         ignoredHtml += `<div style="font-weight:600;font-size:0.88rem;">${esc(p.name)}</div>`;
         ignoredHtml += `<div style="font-size:0.72rem;color:var(--muted);">ID: ${esc(p.id)}`;
@@ -524,7 +521,6 @@ function renderMissing() {
         if (p.t20i_matches != null) ignoredHtml += ` &bull; T20I matches: ${esc(p.t20i_matches)}`;
         if (p.latest_match_date) ignoredHtml += ` &bull; Last match: ${esc(p.latest_match_date)}`;
         ignoredHtml += ` ${profileLink}</div>`;
-        ignoredHtml += manualBadge;
         ignoredHtml += `</div>`;
       }
 

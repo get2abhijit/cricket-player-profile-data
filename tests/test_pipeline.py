@@ -53,7 +53,12 @@ def test_no_fetch_uses_cached_profiles(tmp_path, monkeypatch):
     monkeypatch.setattr(
         pipeline,
         "load_teams_from_matches",
-        lambda: ({"Spain": {"player-1"}}, {"player-1": "Sample Player"}),
+        lambda *args, **kwargs: ({"Spain": {"player-1"}}, {"player-1": "Sample Player"}),
+    )
+    monkeypatch.setattr(
+        pipeline,
+        "load_match_timestamps_from_readme",
+        lambda *args, **kwargs: {"m1": "2025-01-01"},
     )
     monkeypatch.setattr(pipeline, "load_state", lambda: {})
     monkeypatch.setattr(pipeline, "save_state", lambda state: None)
@@ -62,7 +67,7 @@ def test_no_fetch_uses_cached_profiles(tmp_path, monkeypatch):
     monkeypatch.setattr(pipeline, "load_manual_overrides", lambda: {})
     monkeypatch.setattr(pipeline, "sync_manual_override_placeholders", lambda output: None)
 
-    output = pipeline.run_pipeline(no_fetch=True)
+    output = pipeline.run_pipeline(no_fetch=True, cleanup=False)
 
     player = output["players"]["player-1"]
     assert player["batting"]["hand"] == "RHB"

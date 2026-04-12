@@ -8,6 +8,7 @@ Rules:
 - Split non-enriched players into:
   - `unfound_players`: actionable missing players.
   - `ignored_players`: skipped from enrichment workflow with a reason.
+- Treat applied manual overrides as enriched for dashboard classification.
 """
 
 from __future__ import annotations
@@ -73,7 +74,7 @@ def build_dashboard_payload(output: Dict) -> Dict:
       teams: [...],
       players: [...enriched...],
       unfound_players: {team: [...actionable missing...]},
-      ignored_players: {team: [...ignored with reason...]}
+            ignored_players: {team: [...ignored with reason...]}
     }
     """
     flat_players: List[Dict] = []
@@ -88,7 +89,8 @@ def build_dashboard_payload(output: Dict) -> Dict:
         teams = record.get("teams", [])
         t20i_matches = _t20i_matches_for_player(pid, teams, t20i_counts)
         latest_match_date = latest_match_dates.get(pid)
-        is_enriched = bool(batting.get("hand") or bowling.get("type"))
+        manual_override_applied = bool((record.get("manual_override") or {}).get("applied"))
+        is_enriched = bool(batting.get("hand") or bowling.get("type") or manual_override_applied)
 
         player_flat = {
             "id": pid,
@@ -101,7 +103,8 @@ def build_dashboard_payload(output: Dict) -> Dict:
             "bowling_mechanism": bowling.get("mechanism"),
             "role": record.get("role"),
             "is_wicketkeeper": record.get("is_wicketkeeper"),
-            "manual_override": bool((record.get("manual_override") or {}).get("applied")),
+            "manual_override": manual_override_applied,
+            "manual_override_enriched": bool((record.get("manual_override") or {}).get("enriched")),
             "manual_override_notes": (record.get("manual_override") or {}).get("notes"),
             "espn_id": (record.get("external_ids") or {}).get("espn"),
             "cricbuzz_id": (record.get("external_ids") or {}).get("cricbuzz"),

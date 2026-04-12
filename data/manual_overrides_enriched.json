@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "description": "Resolved manual overrides retained for enrichment and excluded from manual review queue.",
+    "editable_scope": "Players moved here automatically when enriched is set to true.",
+    "seeded_with": "Entries are migrated from data/manual_overrides.json during refresh.",
+    "updated_at": "2026-04-12T15:29:39.056405+00:00"
+  },
+  "players": {
+    "719ac15b": {
+      "name": "AA Senn",
+      "teams": [
+        "Cyprus"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "RHB",
+      "bowling_style": "Right-arm offbreak",
+      "bowling": {
+        "arm": "Right",
+        "type": "Spin",
+        "subtype": "Off Break",
+        "mechanism": "Finger"
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "256969",
+        "cricbuzz": "1460871"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1460871/alexander-senn",
+      "source": "manual",
+      "enriched": true,
+      "notes": null
+    },
+    "0cfb42b5": {
+      "name": "Abdul Majid Abbasi",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": "LHB",
+      "batting_hand": "LHB",
+      "bowling_style": "Left-arm orthodox",
+      "bowling": {
+        "arm": "Left",
+        "type": "Spin",
+        "subtype": "Orthodox",
+        "mechanism": "Finger"
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1361960",
+        "cricbuzz": "41725"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/41725/abdul-majid-abbasi",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "a5efce80": {
+      "name": "Amith Sarma",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": "Batsman",
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046605",
+        "cricbuzz": "14834"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/14834/amith-sarma",
+      "source": "manual",
+      "enriched": true,
+      "notes": null
+    },
+    "fa83d1b6": {
+      "name": "D Svilicic",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "RHB",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "580999",
+        "cricbuzz": "1466309"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1466309/damir-svilicic",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "d0e2e8ea": {
+      "name": "H Niaz",
+      "teams": [
+        "France"
+      ],
+      "batting_style": "LHB",
+      "batting_hand": "LHB",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "525042",
+        "cricbuzz": "1425652"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1425652/hamza-niaz",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "1e50426a": {
+      "name": "M Kristensen",
+      "teams": [
+        "Denmark"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1036595",
+        "cricbuzz": "44399"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/44399/magnus-kristensen",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "9818cc88": {
+      "name": "M Kyriacou",
+      "teams": [
+        "Cyprus"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm medium",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "520026",
+        "cricbuzz": "1424804"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1424804/michalis-kyriacou",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "6798b28e": {
+      "name": "Sumit Singh",
+      "teams": [
+        "Finland"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1376779",
+        "cricbuzz": "9305"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/9305/sumit-singh",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "161641cd": {
+      "name": "Aamer Ikram",
+      "teams": [
+        "Portugal"
+      ],
+      "batting_style": "LHB",
+      "batting_hand": "Left",
+      "bowling_style": "Left arm medium",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1204633",
+        "cricbuzz": "15689"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/15689/amer-ikram",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "ce79545f": {
+      "name": "Afzal Virk",
+      "teams": [
+        "Sweden"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046661",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/afzal-virk-1046661",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "7c6293d1": {
+      "name": "A Orfila",
+      "teams": [
+        "Gibraltar"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046617",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/a-orfila-1046617",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "0e102c3b": {
+      "name": "Brian Zammit",
+      "teams": [
+        "Gibraltar"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "303936",
+        "cricbuzz": "43440"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/43440/bryan-zammit",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "177009a5": {
+      "name": "LA Collado",
+      "teams": [
+        "Gibraltar"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": "Wicketkeeper-batter",
+      "is_wicketkeeper": true,
+      "external_ids": {
+        "espn": "572235",
+        "cricbuzz": "15679"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/15679/luke-collado",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "755819f4": {
+      "name": "Zafer Durmaz",
+      "teams": [
+        "Turkey"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1323437",
+        "cricbuzz": "28530"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/28530/zafer-durmaz",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "62f6d8ce": {
+      "name": "Zaheer Zahiri",
+      "teams": [
+        "France"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm medium",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1432703",
+        "cricbuzz": "1425677"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1425677/zaheer-zahiri",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "b672e825": {
+      "name": "A Manousis",
+      "teams": [
+        "Greece"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": true,
+      "external_ids": {
+        "espn": "520081",
+        "cricbuzz": "28353"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/28353/anastasios-manousis",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "268ec1d6": {
+      "name": "Spiridon Bogdos",
+      "teams": [
+        "Greece"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": "Wicketkeeper-batsman",
+      "is_wicketkeeper": true,
+      "external_ids": {
+        "espn": "469224",
+        "cricbuzz": "28327"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/28327/spiridon-bogdos",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "11174f6d": {
+      "name": "Spiridon Gasteratos",
+      "teams": [
+        "Greece"
+      ],
+      "batting_style": "LHB",
+      "batting_hand": "Left",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "469226",
+        "cricbuzz": "1427702"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/1427702/spiridon-gasteratos",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "57888f3c": {
+      "name": "Mohammad Yasin",
+      "teams": [
+        "Spain"
+      ],
+      "batting_style": "LHB",
+      "batting_hand": "Left",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1343573",
+        "cricbuzz": "33871"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/33871/mohammad-yasin",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "547408c8": {
+      "name": "NL Smith",
+      "teams": [
+        "Italy"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1005373",
+        "cricbuzz": "21106"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/21106/nikolai-smith",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "ff1e08eb": {
+      "name": "Azam Khalil",
+      "teams": [
+        "Sweden"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "515185",
+        "cricbuzz": "26395"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/26395/azam-khalil",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "5c93efb1": {
+      "name": "Khalid Zahid",
+      "teams": [
+        "Sweden"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1156608",
+        "cricbuzz": "13159"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/13159/khalid-ahmad-zahid",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "c443b748": {
+      "name": "Rahel Khan",
+      "teams": [
+        "Sweden"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm legbreak",
+      "bowling": {
+        "arm": "Right",
+        "type": "Spin",
+        "subtype": "Legbreak",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046655",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/rahel-khan-1046655",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "43f3c050": {
+      "name": "Shahzeb Choudhry",
+      "teams": [
+        "Sweden"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046653",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/shahzeb-choudhry/37686",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "6cd74704": {
+      "name": "Dharmendra Manani",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1236494",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/dharmendra-manani/47635",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "e85bb4b3": {
+      "name": "Fanyan Mughal",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm medium",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "492687",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/fanyan-mughal/53207",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "eac5f67f": {
+      "name": "Ravinder Gill",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1493472",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/ravinder-gill/139664",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "a2dd9236": {
+      "name": "Kieran Cawte",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm fast",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Fast",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046719",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/kieran-cawte/103578",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "a69e2964": {
+      "name": "Ollie Webster",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm offbreak",
+      "bowling": {
+        "arm": "Right",
+        "type": "Spin",
+        "subtype": "Off Break",
+        "mechanism": "Finger"
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "520130",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/ollie-webster/46446",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "86ac0262": {
+      "name": "S Mills",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Medium",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046623",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-mills-1046623",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "71b1e668": {
+      "name": "Assad Mehmood",
+      "teams": [
+        "Portugal"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm orthodox",
+      "bowling": {
+        "arm": "Left",
+        "type": "Spin",
+        "subtype": "Orthodox",
+        "mechanism": "Finger"
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1204647",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/sport/players/assad-mehmood/28180",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "33328ec7": {
+      "name": "Fakhrul Mohon",
+      "teams": [
+        "Portugal"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Left-arm fast-medium",
+      "bowling": {
+        "arm": "Left",
+        "type": "Pace",
+        "subtype": "Fast Medium",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1204636",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/fakhrul-mohon-1204636",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "a0a32dd1": {
+      "name": "Imran Khan",
+      "teams": [
+        "Portugal"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1204641",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/cricket/players/imran-khan/40969",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "58aa33cd": {
+      "name": "Najjam Shahzad",
+      "teams": [
+        "Portugal"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1204631",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.fancode.com/sport/players/najjam-shahzad/48747",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "41acc8bf": {
+      "name": "E Kahamker",
+      "teams": [
+        "Israel"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": "Right-arm medium",
+      "bowling": {
+        "arm": "Right",
+        "type": "Pace",
+        "subtype": "Seam",
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1046629",
+        "cricbuzz": "27732"
+      },
+      "source_url": "https://www.cricbuzz.com/profiles/27732/eitamar-kahamker",
+      "source": "manual",
+      "notes": null,
+      "enriched": true
+    },
+    "501fca0d": {
+      "name": "Sachin Mandy",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": true,
+      "external_ids": {
+        "espn": "1318767",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/sachin-mandy-1318767",
+      "source": "manual",
+      "enriched": true,
+      "notes": null
+    }
+  }
+}
