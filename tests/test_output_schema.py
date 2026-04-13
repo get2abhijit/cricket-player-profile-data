@@ -12,6 +12,7 @@ import pytest
 
 OUTPUT_PATH        = Path("output/player_profiles.json")
 DASHBOARD_PATH     = Path("output/dashboard_data.json")
+DASHBOARD_HTML_PATH = Path("output/dashboard.html")
 
 PLAYER_REQUIRED_KEYS = {
     "identifier", "name", "known_as", "teams",
@@ -120,7 +121,8 @@ class TestDashboardDataSchema:
     def test_top_level_keys(self, dashboard_data):
         assert "teams"   in dashboard_data
         assert "players" in dashboard_data
-        assert "validation_needed" in dashboard_data
+        assert "unfound_players" in dashboard_data
+        assert "ignored_players" in dashboard_data
 
     def test_teams_is_list(self, dashboard_data):
         assert isinstance(dashboard_data["teams"], list)
@@ -137,5 +139,23 @@ class TestDashboardDataSchema:
             missing = required - set(p.keys())
             assert not missing, f"Dashboard player {p.get('id')} missing: {missing}"
 
-    def test_validation_needed_is_team_bucketed(self, dashboard_data):
-        assert isinstance(dashboard_data["validation_needed"], dict)
+    def test_unfound_and_ignored_are_team_bucketed(self, dashboard_data):
+        assert isinstance(dashboard_data["unfound_players"], dict)
+        assert isinstance(dashboard_data["ignored_players"], dict)
+
+    def test_regression_dashboard_counts_current_snapshot(self, dashboard_data):
+        enriched_players = len(dashboard_data.get("players", []))
+        actionable_missing = sum(len(v) for v in dashboard_data.get("unfound_players", {}).values())
+
+        assert enriched_players == 3442
+        assert actionable_missing == 75
+
+
+class TestDashboardHtmlRegression:
+    def test_enriched_summary_uses_payload_player_count(self):
+        if not DASHBOARD_HTML_PATH.exists():
+            pytest.skip("output/dashboard.html not generated yet")
+
+        html = DASHBOARD_HTML_PATH.read_text(encoding="utf-8")
+        assert "const enriched = players.length;" in html
+        assert "const enriched = players.filter(p => p.batting_hand || p.bowling_type).length;" not in html

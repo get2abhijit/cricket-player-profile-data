@@ -2365,7 +2365,7 @@
       "1243020": "2021-02-13",
       "1243019": "2021-02-11"
     },
-    "updated_at": "2026-04-12T15:44:17.783519+00:00"
+    "updated_at": "2026-04-12T16:21:15.102265+00:00"
   },
   "3ac13a94": {
     "enriched": true,
@@ -2531,7 +2531,7 @@
   },
   "e85bb4b3": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:16.949796+00:00",
+    "last_attempted": "2026-04-12T16:18:23.318434+00:00",
     "has_data": false,
     "error": null
   },
@@ -2705,7 +2705,7 @@
   },
   "21b67523": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:18.068265+00:00",
+    "last_attempted": "2026-04-12T16:18:23.573414+00:00",
     "has_data": false,
     "error": null
   },
@@ -2723,7 +2723,7 @@
   },
   "61763f48": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:19.229227+00:00",
+    "last_attempted": "2026-04-12T16:18:24.547368+00:00",
     "has_data": false,
     "error": null
   },
@@ -2993,7 +2993,7 @@
   },
   "ceec82cd": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:19.932497+00:00",
+    "last_attempted": "2026-04-12T16:18:24.814798+00:00",
     "has_data": false,
     "error": null
   },
@@ -3767,7 +3767,7 @@
   },
   "b67bfbf8": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:23.098927+00:00",
+    "last_attempted": "2026-04-12T16:18:25.549406+00:00",
     "has_data": false,
     "error": null
   },
@@ -3809,7 +3809,7 @@
   },
   "d0e2e8ea": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:23.726578+00:00",
+    "last_attempted": "2026-04-12T16:18:26.291299+00:00",
     "has_data": false,
     "error": null
   },
@@ -4349,7 +4349,7 @@
   },
   "a0a32dd1": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:24.746224+00:00",
+    "last_attempted": "2026-04-12T16:18:26.495514+00:00",
     "has_data": false,
     "error": null
   },
@@ -5075,7 +5075,7 @@
   },
   "5a719b87": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:25.211852+00:00",
+    "last_attempted": "2026-04-12T16:18:27.382118+00:00",
     "has_data": false,
     "error": null
   },
@@ -5165,7 +5165,7 @@
   },
   "68e7e8d5": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:25.979512+00:00",
+    "last_attempted": "2026-04-12T16:18:29.315901+00:00",
     "has_data": false,
     "error": null
   },
@@ -5429,7 +5429,7 @@
   },
   "f58295c2": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:26.304760+00:00",
+    "last_attempted": "2026-04-12T16:18:28.567522+00:00",
     "has_data": false,
     "error": null
   },
@@ -5531,13 +5531,13 @@
   },
   "945f5357": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:27.218786+00:00",
+    "last_attempted": "2026-04-12T16:18:29.852912+00:00",
     "has_data": false,
     "error": null
   },
   "abee08c7": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:27.569973+00:00",
+    "last_attempted": "2026-04-12T16:18:29.552754+00:00",
     "has_data": false,
     "error": null
   },
@@ -6185,7 +6185,7 @@
   },
   "a14b3bc0": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:28.467764+00:00",
+    "last_attempted": "2026-04-12T16:18:30.483587+00:00",
     "has_data": false,
     "error": null
   },
@@ -6227,7 +6227,7 @@
   },
   "a2dd9236": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:28.943971+00:00",
+    "last_attempted": "2026-04-12T16:18:30.811049+00:00",
     "has_data": false,
     "error": null
   },
@@ -6425,7 +6425,7 @@
   },
   "5c93efb1": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:30.046997+00:00",
+    "last_attempted": "2026-04-12T16:18:31.812852+00:00",
     "has_data": false,
     "error": null
   },
@@ -7031,7 +7031,7 @@
   },
   "177009a5": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:31.105557+00:00",
+    "last_attempted": "2026-04-12T16:18:32.453882+00:00",
     "has_data": false,
     "error": null
   },
@@ -7175,7 +7175,7 @@
   },
   "f6411545": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:31.489324+00:00",
+    "last_attempted": "2026-04-12T16:18:32.874460+00:00",
     "has_data": false,
     "error": null
   },
@@ -7751,7 +7751,7 @@
   },
   "e41c8d4c": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:32.606250+00:00",
+    "last_attempted": "2026-04-12T16:18:33.563534+00:00",
     "has_data": false,
     "error": null
   },
@@ -7781,7 +7781,7 @@
   },
   "f0fbdf0a": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:35.477238+00:00",
+    "last_attempted": "2026-04-12T16:18:34.701693+00:00",
     "has_data": false,
     "error": null
   },
@@ -7847,7 +7847,7 @@
   },
   "8a22e5f0": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:33.946335+00:00",
+    "last_attempted": "2026-04-12T16:18:37.870475+00:00",
     "has_data": false,
     "error": null
   },
@@ -8057,7 +8057,7 @@
   },
   "d8e48e1b": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:34.512815+00:00",
+    "last_attempted": "2026-04-12T16:18:35.477026+00:00",
     "has_data": false,
     "error": null
   },
@@ -8255,7 +8255,7 @@
   },
   "b18ba97a": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:35.543127+00:00",
+    "last_attempted": "2026-04-12T16:18:36.310995+00:00",
     "has_data": false,
     "error": null
   },
@@ -8321,7 +8321,7 @@
   },
   "c6889eb6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:36.049034+00:00",
+    "last_attempted": "2026-04-12T16:18:37.053823+00:00",
     "has_data": false,
     "error": null
   },
@@ -8369,19 +8369,19 @@
   },
   "2d9451cc": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:37.008453+00:00",
+    "last_attempted": "2026-04-12T16:18:38.041987+00:00",
     "has_data": false,
     "error": null
   },
   "1e50426a": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:37.082239+00:00",
+    "last_attempted": "2026-04-12T16:18:37.431414+00:00",
     "has_data": false,
     "error": null
   },
   "9818cc88": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:37.809950+00:00",
+    "last_attempted": "2026-04-12T16:18:38.767083+00:00",
     "has_data": false,
     "error": null
   },
@@ -8579,7 +8579,7 @@
   },
   "13501ff4": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:38.078922+00:00",
+    "last_attempted": "2026-04-12T16:18:39.624334+00:00",
     "has_data": false,
     "error": null
   },
@@ -9467,7 +9467,7 @@
   },
   "6d5e66b1": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:39.394619+00:00",
+    "last_attempted": "2026-04-12T16:18:40.536797+00:00",
     "has_data": false,
     "error": null
   },
@@ -9485,7 +9485,7 @@
   },
   "57888f3c": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:38.755293+00:00",
+    "last_attempted": "2026-04-12T16:18:40.019862+00:00",
     "has_data": false,
     "error": null
   },
@@ -9545,7 +9545,7 @@
   },
   "c44bf6a2": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:39.977385+00:00",
+    "last_attempted": "2026-04-12T16:18:41.267580+00:00",
     "has_data": false,
     "error": null
   },
@@ -9821,7 +9821,7 @@
   },
   "58aa33cd": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:40.662499+00:00",
+    "last_attempted": "2026-04-12T16:18:41.890935+00:00",
     "has_data": false,
     "error": null
   },
@@ -10175,7 +10175,7 @@
   },
   "020f24d6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:41.061896+00:00",
+    "last_attempted": "2026-04-12T16:18:42.454049+00:00",
     "has_data": false,
     "error": null
   },
@@ -10223,7 +10223,7 @@
   },
   "547408c8": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:41.845906+00:00",
+    "last_attempted": "2026-04-12T16:18:46.030439+00:00",
     "has_data": false,
     "error": null
   },
@@ -10451,7 +10451,7 @@
   },
   "54403333": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:43.377827+00:00",
+    "last_attempted": "2026-04-12T16:18:43.948350+00:00",
     "has_data": false,
     "error": null
   },
@@ -10505,7 +10505,7 @@
   },
   "e38e240a": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:43.398410+00:00",
+    "last_attempted": "2026-04-12T16:18:45.647563+00:00",
     "has_data": false,
     "error": null
   },
@@ -10541,7 +10541,7 @@
   },
   "d0d9790b": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:44.073759+00:00",
+    "last_attempted": "2026-04-12T16:18:46.621825+00:00",
     "has_data": false,
     "error": null
   },
@@ -10679,7 +10679,7 @@
   },
   "a69e2964": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:44.532640+00:00",
+    "last_attempted": "2026-04-12T16:18:46.956248+00:00",
     "has_data": false,
     "error": null
   },
@@ -11159,7 +11159,7 @@
   },
   "bc69a6d3": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:45.293996+00:00",
+    "last_attempted": "2026-04-12T16:18:47.338690+00:00",
     "has_data": false,
     "error": null
   },
@@ -11351,7 +11351,7 @@
   },
   "22fb205e": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:45.828090+00:00",
+    "last_attempted": "2026-04-12T16:18:47.558269+00:00",
     "has_data": false,
     "error": null
   },
@@ -11663,7 +11663,7 @@
   },
   "c443b748": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:46.941153+00:00",
+    "last_attempted": "2026-04-12T16:18:48.762439+00:00",
     "has_data": false,
     "error": null
   },
@@ -11873,7 +11873,7 @@
   },
   "eac5f67f": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:47.495521+00:00",
+    "last_attempted": "2026-04-12T16:18:48.411121+00:00",
     "has_data": false,
     "error": null
   },
@@ -12047,7 +12047,7 @@
   },
   "06b766f4": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:48.779528+00:00",
+    "last_attempted": "2026-04-12T16:18:50.139600+00:00",
     "has_data": false,
     "error": null
   },
@@ -12179,7 +12179,7 @@
   },
   "dbaaad11": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:49.506532+00:00",
+    "last_attempted": "2026-04-12T16:18:49.834244+00:00",
     "has_data": false,
     "error": null
   },
@@ -12227,7 +12227,7 @@
   },
   "4fc115af": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:50.240344+00:00",
+    "last_attempted": "2026-04-12T16:18:50.710766+00:00",
     "has_data": false,
     "error": null
   },
@@ -12485,7 +12485,7 @@
   },
   "402ea377": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:50.746000+00:00",
+    "last_attempted": "2026-04-12T16:18:50.893174+00:00",
     "has_data": false,
     "error": null
   },
@@ -12959,7 +12959,7 @@
   },
   "4cc59a40": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:52.144837+00:00",
+    "last_attempted": "2026-04-12T16:18:53.112742+00:00",
     "has_data": false,
     "error": null
   },
@@ -13157,7 +13157,7 @@
   },
   "6876264c": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:52.257888+00:00",
+    "last_attempted": "2026-04-12T16:18:53.207676+00:00",
     "has_data": false,
     "error": null
   },
@@ -13253,7 +13253,7 @@
   },
   "83f68e06": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:53.256507+00:00",
+    "last_attempted": "2026-04-12T16:18:52.673572+00:00",
     "has_data": false,
     "error": null
   },
@@ -13343,7 +13343,7 @@
   },
   "4d9dfc7f": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:53.357499+00:00",
+    "last_attempted": "2026-04-12T16:18:53.315046+00:00",
     "has_data": false,
     "error": null
   },
@@ -13409,7 +13409,7 @@
   },
   "268ec1d6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:54.692082+00:00",
+    "last_attempted": "2026-04-12T16:18:55.302917+00:00",
     "has_data": false,
     "error": null
   },
@@ -13481,7 +13481,7 @@
   },
   "4040951f": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:55.570320+00:00",
+    "last_attempted": "2026-04-12T16:18:54.660525+00:00",
     "has_data": false,
     "error": null
   },
@@ -13649,7 +13649,7 @@
   },
   "8b6aebf7": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:56.665849+00:00",
+    "last_attempted": "2026-04-12T16:18:55.476396+00:00",
     "has_data": false,
     "error": null
   },
@@ -13661,7 +13661,7 @@
   },
   "11174f6d": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:57.718636+00:00",
+    "last_attempted": "2026-04-12T16:18:56.185829+00:00",
     "has_data": false,
     "error": null
   },
@@ -13703,7 +13703,7 @@
   },
   "b70ec03e": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:59.338434+00:00",
+    "last_attempted": "2026-04-12T16:18:56.470502+00:00",
     "has_data": false,
     "error": null
   },
@@ -13865,7 +13865,7 @@
   },
   "43f3c050": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:58.688854+00:00",
+    "last_attempted": "2026-04-12T16:18:56.960443+00:00",
     "has_data": false,
     "error": null
   },
@@ -14009,7 +14009,7 @@
   },
   "a127e6f5": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:59.504374+00:00",
+    "last_attempted": "2026-04-12T16:18:58.801165+00:00",
     "has_data": false,
     "error": null
   },
@@ -14135,7 +14135,7 @@
   },
   "2dd90a40": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:00.102157+00:00",
+    "last_attempted": "2026-04-12T16:18:58.030225+00:00",
     "has_data": false,
     "error": null
   },
@@ -14189,7 +14189,7 @@
   },
   "167b3c71": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:00.475658+00:00",
+    "last_attempted": "2026-04-12T16:18:59.882298+00:00",
     "has_data": false,
     "error": null
   },
@@ -14369,7 +14369,7 @@
   },
   "1fbc10cd": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:01.435754+00:00",
+    "last_attempted": "2026-04-12T16:18:59.082588+00:00",
     "has_data": false,
     "error": null
   },
@@ -14867,7 +14867,7 @@
   },
   "69997d9d": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:02.598587+00:00",
+    "last_attempted": "2026-04-12T16:18:59.979509+00:00",
     "has_data": false,
     "error": null
   },
@@ -14903,7 +14903,7 @@
   },
   "f70f8dbb": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:03.354563+00:00",
+    "last_attempted": "2026-04-12T16:19:00.988129+00:00",
     "has_data": false,
     "error": null
   },
@@ -15143,7 +15143,7 @@
   },
   "6798b28e": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:03.092850+00:00",
+    "last_attempted": "2026-04-12T16:19:01.472985+00:00",
     "has_data": false,
     "error": null
   },
@@ -15389,7 +15389,7 @@
   },
   "50955fee": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:05.551467+00:00",
+    "last_attempted": "2026-04-12T16:19:01.801345+00:00",
     "has_data": false,
     "error": null
   },
@@ -15575,7 +15575,7 @@
   },
   "e4bc45e0": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:04.416612+00:00",
+    "last_attempted": "2026-04-12T16:19:02.878627+00:00",
     "has_data": false,
     "error": null
   },
@@ -15785,7 +15785,7 @@
   },
   "80ba2fe8": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:04.962883+00:00",
+    "last_attempted": "2026-04-12T16:19:03.589981+00:00",
     "has_data": false,
     "error": null
   },
@@ -16061,7 +16061,7 @@
   },
   "b794a78d": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:05.815913+00:00",
+    "last_attempted": "2026-04-12T16:19:03.504740+00:00",
     "has_data": false,
     "error": null
   },
@@ -16463,7 +16463,7 @@
   },
   "45a34a2d": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:06.455740+00:00",
+    "last_attempted": "2026-04-12T16:19:05.044553+00:00",
     "has_data": false,
     "error": null
   },
@@ -17027,7 +17027,7 @@
   },
   "e41dee27": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:07.086331+00:00",
+    "last_attempted": "2026-04-12T16:19:04.649026+00:00",
     "has_data": false,
     "error": null
   },
@@ -17339,7 +17339,7 @@
   },
   "990f1424": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:32:07.927364+00:00",
+    "last_attempted": "2026-04-12T16:19:05.803867+00:00",
     "has_data": false,
     "error": null
   },
@@ -17789,7 +17789,7 @@
   },
   "797f52cc": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:53.927797+00:00",
+    "last_attempted": "2026-04-12T16:18:06.237612+00:00",
     "has_data": false,
     "error": null
   },
@@ -17801,13 +17801,13 @@
   },
   "719ac15b": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:55.530618+00:00",
+    "last_attempted": "2026-04-12T16:18:06.953644+00:00",
     "has_data": false,
     "error": null
   },
   "0cfb42b5": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:55.675699+00:00",
+    "last_attempted": "2026-04-12T16:18:07.566915+00:00",
     "has_data": false,
     "error": null
   },
@@ -17933,7 +17933,7 @@
   },
   "d68f4aa1": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:57.310813+00:00",
+    "last_attempted": "2026-04-12T16:18:08.065416+00:00",
     "has_data": false,
     "error": null
   },
@@ -17945,7 +17945,7 @@
   },
   "9d0344f3": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:57.588968+00:00",
+    "last_attempted": "2026-04-12T16:18:08.805182+00:00",
     "has_data": false,
     "error": null
   },
@@ -17957,13 +17957,13 @@
   },
   "fe0b3bdf": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:59.155682+00:00",
+    "last_attempted": "2026-04-12T16:18:09.576437+00:00",
     "has_data": false,
     "error": null
   },
   "e214be36": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:58.926030+00:00",
+    "last_attempted": "2026-04-12T16:18:10.212760+00:00",
     "has_data": false,
     "error": null
   },
@@ -17981,13 +17981,13 @@
   },
   "b9b194d6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:30:59.902003+00:00",
+    "last_attempted": "2026-04-12T16:18:10.713092+00:00",
     "has_data": false,
     "error": null
   },
   "b672e825": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:00.409631+00:00",
+    "last_attempted": "2026-04-12T16:18:11.431497+00:00",
     "has_data": false,
     "error": null
   },
@@ -18005,7 +18005,7 @@
   },
   "0dcd8fbd": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:01.528615+00:00",
+    "last_attempted": "2026-04-12T16:18:12.438993+00:00",
     "has_data": false,
     "error": null
   },
@@ -18017,7 +18017,7 @@
   },
   "3f4456f5": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:01.961333+00:00",
+    "last_attempted": "2026-04-12T16:18:12.635186+00:00",
     "has_data": false,
     "error": null
   },
@@ -18059,7 +18059,7 @@
   },
   "231daa19": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:04.010820+00:00",
+    "last_attempted": "2026-04-12T16:18:13.432679+00:00",
     "has_data": false,
     "error": null
   },
@@ -18083,7 +18083,7 @@
   },
   "71b1e668": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:04.397176+00:00",
+    "last_attempted": "2026-04-12T16:18:13.896677+00:00",
     "has_data": false,
     "error": null
   },
@@ -18101,7 +18101,7 @@
   },
   "30c917bf": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:05.572529+00:00",
+    "last_attempted": "2026-04-12T16:18:14.575834+00:00",
     "has_data": false,
     "error": null
   },
@@ -18125,13 +18125,13 @@
   },
   "99bf1fb7": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:05.881171+00:00",
+    "last_attempted": "2026-04-12T16:18:16.197139+00:00",
     "has_data": false,
     "error": null
   },
   "ff1e08eb": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:06.824772+00:00",
+    "last_attempted": "2026-04-12T16:18:16.325772+00:00",
     "has_data": false,
     "error": null
   },
@@ -18143,7 +18143,7 @@
   },
   "0e102c3b": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:07.459716+00:00",
+    "last_attempted": "2026-04-12T16:18:16.535352+00:00",
     "has_data": false,
     "error": null
   },
@@ -18161,7 +18161,7 @@
   },
   "35cfc769": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:07.574004+00:00",
+    "last_attempted": "2026-04-12T16:18:16.895160+00:00",
     "has_data": false,
     "error": null
   },
@@ -18179,13 +18179,13 @@
   },
   "2c14421f": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:08.485557+00:00",
+    "last_attempted": "2026-04-12T16:18:18.420317+00:00",
     "has_data": false,
     "error": null
   },
   "063d0e83": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:08.667972+00:00",
+    "last_attempted": "2026-04-12T16:18:18.307636+00:00",
     "has_data": false,
     "error": null
   },
@@ -18203,7 +18203,7 @@
   },
   "740a5494": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:10.202327+00:00",
+    "last_attempted": "2026-04-12T16:18:18.937187+00:00",
     "has_data": false,
     "error": null
   },
@@ -18269,7 +18269,7 @@
   },
   "4e1b7998": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:12.477367+00:00",
+    "last_attempted": "2026-04-12T16:18:19.818544+00:00",
     "has_data": false,
     "error": null
   },
@@ -18281,7 +18281,7 @@
   },
   "d92d4f5e": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:13.709989+00:00",
+    "last_attempted": "2026-04-12T16:18:20.074945+00:00",
     "has_data": false,
     "error": null
   },
@@ -18305,7 +18305,7 @@
   },
   "6cd74704": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:14.049485+00:00",
+    "last_attempted": "2026-04-12T16:18:20.269237+00:00",
     "has_data": false,
     "error": null
   },
@@ -18335,7 +18335,7 @@
   },
   "fa83d1b6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:14.877821+00:00",
+    "last_attempted": "2026-04-12T16:18:21.507384+00:00",
     "has_data": false,
     "error": null
   },
@@ -18353,7 +18353,7 @@
   },
   "5d9d83e6": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:15.330479+00:00",
+    "last_attempted": "2026-04-12T16:18:21.772097+00:00",
     "has_data": false,
     "error": null
   },
@@ -18377,7 +18377,7 @@
   },
   "41acc8bf": {
     "enriched": false,
-    "last_attempted": "2026-04-12T15:31:15.977624+00:00",
+    "last_attempted": "2026-04-12T16:18:23.071484+00:00",
     "has_data": false,
     "error": null
   },

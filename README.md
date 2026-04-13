@@ -90,6 +90,34 @@ When you explicitly want to retry unresolved players that have empty cache rows,
 python pipeline.py --retry-empty-cache
 ```
 
+## Utility Scripts (Easy Run)
+
+These scripts are in `tools/` and are intended for everyday operations.
+
+Clean rebuild from existing cache (no network):
+
+```powershell
+tools\run_clean_pipeline.bat
+```
+
+Clean rebuild with network fetch enabled:
+
+```powershell
+tools\run_clean_pipeline.bat --fetch --workers 6
+```
+
+Run Cricbuzz second pass, rebuild output, then verify snapshot counts:
+
+```powershell
+tools\run_second_pass_fast.bat
+```
+
+Verify dashboard regression snapshot explicitly:
+
+```powershell
+tools\verify_dashboard_counts.bat --expected-players 3445 --expected-missing 70
+```
+
 Supported override fields per player:
 
 - `batting_style` and/or `batting_hand`

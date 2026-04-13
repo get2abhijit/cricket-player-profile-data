@@ -130,6 +130,24 @@ class TestApplyManualOverride:
         assert updated["manual_override"]["applied"] is True
         assert updated["manual_override"]["enriched"] is True
 
+    def test_placeholder_with_same_espn_id_slug_change_is_not_actionable(self):
+        record = {
+            **_record(),
+            "external_ids": {"espn": "1163136", "cricbuzz": None},
+            "source": "https://www.espncricinfo.com/cricketers/aaa-patel-1163136",
+        }
+        updated = apply_manual_override(
+            record,
+            {
+                "batting_style": "RHB",
+                "batting_hand": "Right",
+                "source_url": "https://www.espncricinfo.com/cricketers/a-a-a-patel-1163136",
+                "external_ids": {"espn": "1163136", "cricbuzz": None},
+            },
+        )
+
+        assert "manual_override" not in updated
+
 
 class TestOverrideFileHelpers:
     def test_load_manual_overrides_reads_players_block(self, tmp_path):

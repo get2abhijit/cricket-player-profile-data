@@ -21,7 +21,7 @@ _HTML_TEMPLATE = """\
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cricket Player Intelligence Dashboard</title>
+  <title>Global Player Dataset Dashboard</title>
   <style>
     :root {
       --green-dark:   #1b4332;
@@ -224,8 +224,8 @@ _HTML_TEMPLATE = """\
 <header>
   <span class="header-icon">🏏</span>
   <div>
-    <h1>Cricket Player Intelligence Engine</h1>
-    <p>Cricsheet registry + ESPN Cricinfo enrichment &mdash; associate nations dataset</p>
+    <h1>Global Player Dataset</h1>
+    <p>Cricsheet registry + ESPN/Cricbuzz enrichment &mdash; global T20 dataset</p>
   </div>
 </header>
 
@@ -283,14 +283,15 @@ let searchQuery = '';
 /////////////////////////////////////////////////////////////////////
 function renderSummary() {
   const players = DATA.players;
-  const total = players.length;
-  const enriched = players.filter(p => p.batting_hand || p.bowling_type).length;
+  // DATA.players already contains only enriched-classified players.
+  const enriched = players.length;
   const rhb = players.filter(p => p.batting_hand === 'RHB').length;
   const lhb = players.filter(p => p.batting_hand === 'LHB').length;
   const pace = players.filter(p => p.bowling_type === 'Pace').length;
   const spin = players.filter(p => p.bowling_type === 'Spin').length;
   const unfound = DATA.unfound_players ? Object.values(DATA.unfound_players).reduce((s, a) => s + a.length, 0) : 0;
   const ignored = DATA.ignored_players ? Object.values(DATA.ignored_players).reduce((s, a) => s + a.length, 0) : 0;
+  const total = enriched + unfound + ignored;
   const el = document.getElementById('summary');
   el.innerHTML = [
     `<div class="stat-pill"><strong>${total}</strong> players</div>`,

@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Optional
@@ -16,6 +17,11 @@ REGISTRY_ENRICHED_PATH = Path("output/registry_enriched.json")
 _BOWLING_KEYS = ("arm", "type", "subtype", "mechanism")
 _DEFAULT_BATTING_STYLE = "RHB"
 _DEFAULT_BATTING_HAND = "Right"
+_ESPN_ID_PATTERNS = (
+    r"(?:cricketers|player)/[^/?#]*-(\d+)(?:[/?#]|$)",
+    r"/player/(\d+)(?:[/?#]|$)",
+    r"[?&]player(?:id)?=(\d+)",
+)
 
 
 def _load_json_dict(path: Path) -> Dict:
@@ -78,8 +84,23 @@ def _has_non_batting_override(record: Dict, override: Dict) -> bool:
         return True
     if override.get("is_wicketkeeper") is not None:
         return True
-    if override.get("source_url") and override.get("source_url") != record.get("source"):
-        return True
+
+    source_url = override.get("source_url")
+    record_source = record.get("source")
+    if source_url and source_url != record_source:
+        override_external_ids = override.get("external_ids")
+        record_external_ids = record.get("external_ids")
+        override_espn_id = _extract_espn_id(source_url)
+        if not override_espn_id and isinstance(override_external_ids, dict):
+            override_espn_id = _extract_espn_id(override_external_ids.get("espn"))
+
+        record_espn_id = _extract_espn_id(record_source)
+        if not record_espn_id and isinstance(record_external_ids, dict):
+            record_espn_id = _extract_espn_id(record_external_ids.get("espn"))
+
+        # Treat URL slug changes as equivalent when both refer to the same ESPN id.
+        if not (override_espn_id and record_espn_id and override_espn_id == record_espn_id):
+            return True
 
     bowling = override.get("bowling")
     if isinstance(bowling, dict) and any(bowling.get(key) for key in _BOWLING_KEYS):
@@ -93,6 +114,24 @@ def _has_non_batting_override(record: Dict, override: Dict) -> bool:
                 return True
 
     return False
+
+
+def _extract_espn_id(value: Optional[object]) -> Optional[str]:
+    if value is None:
+        return None
+
+    text = str(value).strip()
+    if not text:
+        return None
+    if text.isdigit():
+        return text
+
+    for pattern in _ESPN_ID_PATTERNS:
+        match = re.search(pattern, text)
+        if match:
+            return match.group(1)
+
+    return None
 
 
 def _is_default_batting_override(override: Dict) -> bool:

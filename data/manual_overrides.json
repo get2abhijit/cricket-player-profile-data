@@ -3,7 +3,7 @@
     "description": "Optional manual overrides. Edit players here instead of changing Python code.",
     "editable_scope": "Any player may be added under players by player id.",
     "seeded_with": "Players currently missing batting and bowling data are auto-added as placeholders.",
-    "updated_at": "2026-04-12T15:43:27.163397+00:00"
+    "updated_at": "2026-04-12T16:21:10.871604+00:00"
   },
   "players": {
     "fd3c5c00": {
@@ -15864,8 +15864,8 @@
         "Swaziland",
         "Eswatini"
       ],
-      "batting_style": null,
-      "batting_hand": null,
+      "batting_style": "RHB",
+      "batting_hand": "Right",
       "bowling_style": null,
       "bowling": {
         "arm": null,
@@ -35443,8 +35443,8 @@
         "Swaziland",
         "Eswatini"
       ],
-      "batting_style": null,
-      "batting_hand": null,
+      "batting_style": "RHB",
+      "batting_hand": "Right",
       "bowling_style": null,
       "bowling": {
         "arm": null,
@@ -38269,8 +38269,8 @@
       "teams": [
         "Papua New Guinea"
       ],
-      "batting_style": null,
-      "batting_hand": null,
+      "batting_style": "RHB",
+      "batting_hand": "Right",
       "bowling_style": null,
       "bowling": {
         "arm": null,
