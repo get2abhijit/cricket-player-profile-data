@@ -28325,5 +28325,1061 @@
     "source_url": "https://www.espncricinfo.com/cricketers/yp-dayal-581607",
     "fetched_at": "2026-04-12T16:19:05.798469+00:00",
     "fetch_error": "all_sources_empty"
+  },
+  "92aaa31d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abdul-jalil-1537909",
+    "espn_display_name": "Abdul Jalil",
+    "fetched_at": "2026-06-16T19:58:29.316375+00:00"
+  },
+  "2f1be128": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abdulla-pervaiz-1538503",
+    "espn_display_name": "Abdulla Pervaiz",
+    "fetched_at": "2026-06-16T19:58:29.755843+00:00"
+  },
+  "7f065618": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abdul-rauf-1538505",
+    "espn_display_name": "Abdul Rauf",
+    "fetched_at": "2026-06-16T19:58:30.714429+00:00"
+  },
+  "5f35329d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abid-ullah-halim-a-shah-1361961",
+    "espn_display_name": "Abid Ullah Halim A Shah",
+    "fetched_at": "2026-06-16T19:58:31.381122+00:00"
+  },
+  "ae84d526": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abdurrahman-ahmadzai-1536763",
+    "espn_display_name": "Abdurrahman Ahmadzai",
+    "fetched_at": "2026-06-16T19:58:31.445702+00:00"
+  },
+  "075a9439": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/adeshlie-alias-1534259",
+    "espn_display_name": "Adeshlie Alias",
+    "fetched_at": "2026-06-16T19:58:32.102001+00:00"
+  },
+  "fd7d703c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": "Wicketkeeper batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/adeeb-usmani-1532751",
+    "espn_display_name": "Adeeb Usmani",
+    "fetched_at": "2026-06-16T19:58:32.271822+00:00"
+  },
+  "2f94b39d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/adil-latheef-1535273",
+    "espn_display_name": "Adil Latheef",
+    "fetched_at": "2026-06-16T19:58:32.674440+00:00"
+  },
+  "d0628ad5": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/adnan-anwar-1535274",
+    "espn_display_name": "Adnan Anwar",
+    "fetched_at": "2026-06-16T19:58:33.254972+00:00"
+  },
+  "f10e94c4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": "Middle-order batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/akshdeep-deependra-nath-500360",
+    "espn_display_name": "Akshdeep Deependra Nath",
+    "fetched_at": "2026-06-16T19:58:34.461625+00:00"
+  },
+  "33044169": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ahmed-mukhtar-abdul-qader-abdullah-al-zadjali-1337267",
+    "espn_display_name": "Ahmed Mukhtar Abdul Qader Abdullah Al Zadjali",
+    "fetched_at": "2026-06-16T19:58:34.701464+00:00"
+  },
+  "8a06bb55": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ahmad-ullah-1534337",
+    "espn_display_name": "Ahmad Ullah",
+    "fetched_at": "2026-06-16T19:58:34.831913+00:00"
+  },
+  "23cbe719": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ajin-soman-1535269",
+    "espn_display_name": "Ajin Soman",
+    "fetched_at": "2026-06-16T19:58:36.403800+00:00"
+  },
+  "c80b4969": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/ajay-kumar-1511696",
+    "espn_display_name": "Ajay Kumar",
+    "fetched_at": "2026-06-16T19:58:36.607193+00:00"
+  },
+  "3094606e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/akshaykumar-jitendrabhai-prajapati-1535377",
+    "espn_display_name": "Akshaykumar Jitendrabhai Prajapati",
+    "fetched_at": "2026-06-16T19:58:37.660863+00:00"
+  },
+  "921292ca": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/akhter-pacha-sher-1540251",
+    "espn_display_name": "Akhter Pacha Sher",
+    "fetched_at": "2026-06-16T19:58:37.944818+00:00"
+  },
+  "4b8e8f64": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aiden-seo-broomfield-1534341",
+    "espn_display_name": "Aiden Seo Broomfield",
+    "fetched_at": "2026-06-16T19:58:38.668053+00:00"
+  },
+  "26f40d94": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/arul-senthilkumar-kumaran-1536762",
+    "espn_display_name": "Arul Senthilkumar Kumaran",
+    "fetched_at": "2026-06-16T19:58:39.101313+00:00"
+  },
+  "041db176": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/babjee-botcha-1535373",
+    "espn_display_name": "Babjee Botcha",
+    "fetched_at": "2026-06-16T19:58:39.390966+00:00"
+  },
+  "09ecc596": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aue-oru-1295871",
+    "espn_display_name": "Aue Oru",
+    "fetched_at": "2026-06-16T19:58:39.926575+00:00"
+  },
+  "6761bc35": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/benele-mngoma-1426419",
+    "espn_display_name": "Benele Mngoma",
+    "fetched_at": "2026-06-16T19:58:40.629238+00:00"
+  },
+  "6bc14137": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/banele-mngomezulu-1502410",
+    "espn_display_name": "Banele Mngomezulu",
+    "fetched_at": "2026-06-16T19:58:41.118449+00:00"
+  },
+  "cedf2c91": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aaron-joseph-varghese-1535800",
+    "espn_display_name": "Aaron Joseph Varghese",
+    "fetched_at": "2026-06-16T19:58:42.679437+00:00"
+  },
+  "269f3186": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/borna-pejic-1536773",
+    "espn_display_name": "Borna Pejic",
+    "fetched_at": "2026-06-16T19:58:42.814524+00:00"
+  },
+  "62c4b38b": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/christopher-gleibner-broom-campbell-1534334",
+    "espn_display_name": "Christopher Gleibner-Broom Campbell",
+    "fetched_at": "2026-06-16T19:58:42.934182+00:00"
+  },
+  "83f0b848": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/corbin-liebenberg-1156493",
+    "espn_display_name": "Corbin Liebenberg",
+    "fetched_at": "2026-06-16T19:58:43.876908+00:00"
+  },
+  "b1a4226c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/chamith-vidulanka-ranasinghe-1534338",
+    "espn_display_name": "Chamith Vidulanka Ranasinghe",
+    "fetched_at": "2026-06-16T19:58:44.647267+00:00"
+  },
+  "1439e6b5": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/connor-matthew-carroll-1536770",
+    "espn_display_name": "Connor Matthew Carroll",
+    "fetched_at": "2026-06-16T19:58:45.049992+00:00"
+  },
+  "052b014c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/daud-asghar-1540248",
+    "espn_display_name": "Daud Asghar",
+    "fetched_at": "2026-06-16T19:58:46.088446+00:00"
+  },
+  "a7a7a2d5": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/damien-ashley-hall-1536771",
+    "espn_display_name": "Damien Ashley Hall",
+    "fetched_at": "2026-06-16T19:58:46.411747+00:00"
+  },
+  "f6ba97c6": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm wrist-spin",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mirissage-dilum-prasanka-fernando-1174261",
+    "espn_display_name": "Mirissage Dilum Prasanka Fernando",
+    "fetched_at": "2026-06-16T19:58:46.797249+00:00"
+  },
+  "d314deb8": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/du-jianhao-1538768",
+    "espn_display_name": "Du Jianhao",
+    "fetched_at": "2026-06-16T19:58:47.741159+00:00"
+  },
+  "5a4987e1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/du-jianyao-1538769",
+    "espn_display_name": "Du Jianyao",
+    "fetched_at": "2026-06-16T19:58:48.199097+00:00"
+  },
+  "1c044b2e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/eric-musa-turay-1155533",
+    "espn_display_name": "Eric Musa Turay",
+    "fetched_at": "2026-06-16T19:58:49.099720+00:00"
+  },
+  "9a8e35ea": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/eranga-de-silva-1535796",
+    "espn_display_name": "Eranga De Silva",
+    "fetched_at": "2026-06-16T19:58:49.103941+00:00"
+  },
+  "2719e9a6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/edward-robinson-1500573",
+    "espn_display_name": "Edward Robinson",
+    "fetched_at": "2026-06-16T19:58:50.063820+00:00"
+  },
+  "f3e4494a": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/faizalmahmed-patel-1378454",
+    "espn_display_name": "Faizalmahmed Patel",
+    "fetched_at": "2026-06-16T19:58:50.795181+00:00"
+  },
+  "b979b662": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/faridullah-shams-1540249",
+    "espn_display_name": "Faridullah Shams",
+    "fetched_at": "2026-06-16T19:58:51.008853+00:00"
+  },
+  "2f7244b5": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/farmanullah-ghari-1530385",
+    "espn_display_name": "Farmanullah Ghari",
+    "fetched_at": "2026-06-16T19:58:51.974484+00:00"
+  },
+  "cd336877": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/faris-al-balushi-1537899",
+    "espn_display_name": "Faris Al Balushi",
+    "fetched_at": "2026-06-16T19:58:52.189920+00:00"
+  },
+  "b929c3ae": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/flynn-zahra-1535271",
+    "espn_display_name": "Flynn Zahra",
+    "fetched_at": "2026-06-16T19:58:52.863751+00:00"
+  },
+  "dba7b529": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Legbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/gaba-frank-1534343",
+    "espn_display_name": "Gaba Frank",
+    "fetched_at": "2026-06-16T19:58:54.784823+00:00"
+  },
+  "57618587": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/george-newton-1534332",
+    "espn_display_name": "George Newton",
+    "fetched_at": "2026-06-16T19:58:55.022596+00:00"
+  },
+  "7f2f7ad9": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/gouegouri-bi-kone-roland-1535369",
+    "espn_display_name": "Gouegouri Bi Kone Roland",
+    "fetched_at": "2026-06-16T19:58:55.226337+00:00"
+  },
+  "21db290f": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hammadullah-shinwari-1534329",
+    "espn_display_name": "Hammadullah Shinwari",
+    "fetched_at": "2026-06-16T19:58:55.669880+00:00"
+  },
+  "f74390c5": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hamza-riaz-1538501",
+    "espn_display_name": "Hamza Riaz",
+    "fetched_at": "2026-06-16T19:58:56.079268+00:00"
+  },
+  "28c78fb3": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/harpreet-singh-bhatia-340854",
+    "espn_display_name": "Harpreet Singh Bhatia",
+    "fetched_at": "2026-06-16T19:58:57.881267+00:00"
+  },
+  "fa0d1410": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/irfan-ringku-1535798",
+    "espn_display_name": "Irfan Ringku",
+    "fetched_at": "2026-06-16T19:58:58.406889+00:00"
+  },
+  "91cdf3ae": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/issa-al-balushi-1537900",
+    "espn_display_name": "Issa Al Balushi",
+    "fetched_at": "2026-06-16T19:58:59.156222+00:00"
+  },
+  "7c668529": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jeevan-dutt-bhatt-1534335",
+    "espn_display_name": "Jeevan Dutt Bhatt",
+    "fetched_at": "2026-06-16T19:59:01.506427+00:00"
+  },
+  "518cfb98": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/junior-dieudonne-alembe-1450905",
+    "espn_display_name": "Junior Dieudonne Alembe",
+    "fetched_at": "2026-06-16T19:59:02.252217+00:00"
+  },
+  "26c7fe2a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/md-jihad-hossain-1539180",
+    "espn_display_name": "MD Jihad Hossain",
+    "fetched_at": "2026-06-16T19:59:02.628666+00:00"
+  },
+  "e511fdf7": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jerad-j-griffin-1386507",
+    "espn_display_name": "Jerad J Griffin",
+    "fetched_at": "2026-06-16T19:59:03.305036+00:00"
+  },
+  "d821ea56": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jack-ludvik-kovacic-1536761",
+    "espn_display_name": "Jack Ludvik Kovacic",
+    "fetched_at": "2026-06-16T19:59:03.425513+00:00"
+  },
+  "2575caf6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jais-mathew-1484476",
+    "espn_display_name": "Jais Mathew",
+    "fetched_at": "2026-06-16T19:59:03.619962+00:00"
+  },
+  "21fcad4e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jared-richard-newton-1536768",
+    "espn_display_name": "Jared Richard Newton",
+    "fetched_at": "2026-06-16T19:59:04.040127+00:00"
+  },
+  "07793daf": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/jayden-richard-lennox-1206769",
+    "espn_display_name": "Jayden Richard Lennox",
+    "fetched_at": "2026-06-16T19:59:04.595940+00:00"
+  },
+  "bb20441f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/h-dhami-1248189",
+    "fetched_at": "2026-06-16T19:59:04.647722+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4f1d3f68": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jeevan-santhanam-1329939",
+    "espn_display_name": "Jeevan Santhanam",
+    "fetched_at": "2026-06-16T19:59:04.802848+00:00"
+  },
+  "0a95c25a": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kaif-jamadar-1534330",
+    "espn_display_name": "Kaif Jamadar",
+    "fetched_at": "2026-06-16T19:59:05.658936+00:00"
+  },
+  "aa6c2fbf": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/j-shields-1534354",
+    "fetched_at": "2026-06-16T19:59:06.136397+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "a3690f55": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/khuzaima-bin-tanveer-1460551",
+    "espn_display_name": "Khuzaima Bin Tanveer",
+    "fetched_at": "2026-06-16T19:59:07.177027+00:00"
+  },
+  "ba3533fe": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kouassi-konan-hermann-1535370",
+    "espn_display_name": "Kouassi Konan Hermann",
+    "fetched_at": "2026-06-16T19:59:07.917605+00:00"
+  },
+  "6a8050f4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kyle-shnier-1534333",
+    "espn_display_name": "Kyle Shnier",
+    "fetched_at": "2026-06-16T19:59:08.782978+00:00"
+  },
+  "a6881817": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kapish-venkatraman-1535866",
+    "espn_display_name": "Kapish Venkatraman",
+    "fetched_at": "2026-06-16T19:59:08.911187+00:00"
+  },
+  "ae677077": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kitione-tayaga-1115020",
+    "espn_display_name": "Kitione Tayaga",
+    "fetched_at": "2026-06-16T19:59:08.991319+00:00"
+  },
+  "fb8389e6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/liam-basson-1495162",
+    "espn_display_name": "Liam Basson",
+    "fetched_at": "2026-06-16T19:59:10.223745+00:00"
+  },
+  "de16fed9": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/luca-grace-1534353",
+    "espn_display_name": "Luca Grace",
+    "fetched_at": "2026-06-16T19:59:11.281831+00:00"
+  },
+  "e30c9b2d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": "Opening batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/dian-lasith-shenan-croospulle-1027867",
+    "espn_display_name": "Dian Lasith Shenan Croospulle",
+    "fetched_at": "2026-06-16T19:59:11.827898+00:00"
+  },
+  "4bf76da2": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hassan-akbani-1539185",
+    "espn_display_name": "Hassan Akbani",
+    "fetched_at": "2026-06-16T19:59:12.584208+00:00"
+  },
+  "b556eff5": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/micheal-das-1535270",
+    "espn_display_name": "Micheal Das",
+    "fetched_at": "2026-06-16T19:59:13.312549+00:00"
+  },
+  "389d04a6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohamad-junaid-khushi-1538504",
+    "espn_display_name": "Mohamad Junaid Khushi",
+    "fetched_at": "2026-06-16T19:59:14.061304+00:00"
+  },
+  "7068c81e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/matthew-john-fisher-1129635",
+    "espn_display_name": "Matthew John Fisher",
+    "fetched_at": "2026-06-16T19:59:14.686788+00:00"
+  },
+  "967ee086": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohammed-al-balushi-1537901",
+    "espn_display_name": "Mohammed Al Balushi",
+    "fetched_at": "2026-06-16T19:59:14.757845+00:00"
+  },
+  "30adc2fa": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohammad-hamza-1538502",
+    "espn_display_name": "Mohammad Hamza",
+    "fetched_at": "2026-06-16T19:59:14.785358+00:00"
+  },
+  "e6409ae1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohammed-sameer-452571",
+    "espn_display_name": "Mohammed Sameer",
+    "fetched_at": "2026-06-16T19:59:16.405675+00:00"
+  },
+  "361388d6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/matija-separovic-1536769",
+    "espn_display_name": "Matija Separovic",
+    "fetched_at": "2026-06-16T19:59:16.416382+00:00"
+  },
+  "266f7543": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/manase-ravula-1534345",
+    "espn_display_name": "Manase Ravula",
+    "fetched_at": "2026-06-16T19:59:16.840246+00:00"
+  },
+  "46e64b28": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-adil-khan-1538497",
+    "espn_display_name": "Muhammad Adil Khan",
+    "fetched_at": "2026-06-16T19:59:17.187058+00:00"
+  },
+  "81416a78": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-farooq-1163171",
+    "espn_display_name": "Muhammad Farooq",
+    "fetched_at": "2026-06-16T19:59:18.276388+00:00"
+  },
+  "f681481e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-nadeem-1167326",
+    "espn_display_name": "Muhammad Nadeem",
+    "fetched_at": "2026-06-16T19:59:18.627284+00:00"
+  },
+  "a00a53dd": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/munthir-al-balushi-1537902",
+    "espn_display_name": "Munthir Al Balushi",
+    "fetched_at": "2026-06-16T19:59:19.464247+00:00"
+  },
+  "d9d08ea3": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muzaffar-shiralkar-1537898",
+    "espn_display_name": "Muzaffar Shiralkar",
+    "fetched_at": "2026-06-16T19:59:20.301755+00:00"
+  },
+  "e901d179": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/musa-khan-ahmadzai-1536765",
+    "espn_display_name": "Musa Khan Ahmadzai",
+    "fetched_at": "2026-06-16T19:59:20.554791+00:00"
+  },
+  "1b6aafc8": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nawed-al-balushi-1537903",
+    "espn_display_name": "Nawed Al Balushi",
+    "fetched_at": "2026-06-16T19:59:21.103582+00:00"
+  },
+  "05b1aef8": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": "Allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/nathan-gregory-smith-959771",
+    "espn_display_name": "Nathan Gregory Smith",
+    "fetched_at": "2026-06-16T19:59:23.052658+00:00"
+  },
+  "4833efb4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohmed-nabil-master-585437",
+    "espn_display_name": "Mohmed Nabil Master",
+    "fetched_at": "2026-06-16T19:59:23.355983+00:00"
+  },
+  "0e84e0f6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/neel-r-mittal-1538498",
+    "espn_display_name": "Neel R Mittal",
+    "fetched_at": "2026-06-16T19:59:23.419803+00:00"
+  },
+  "33b48084": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/numan-yousuf-khan-436985",
+    "espn_display_name": "Numan Yousuf Khan",
+    "fetched_at": "2026-06-16T19:59:23.587433+00:00"
+  },
+  "6f852c49": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nicholas-venables-1534342",
+    "espn_display_name": "Nicholas Venables",
+    "fetched_at": "2026-06-16T19:59:24.238477+00:00"
+  },
+  "6fffb04a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/parveen-kumar-1535799",
+    "espn_display_name": "Parveen Kumar",
+    "fetched_at": "2026-06-16T19:59:26.374481+00:00"
+  },
+  "2c66ee1e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": "Wicketkeeper batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/owen-gwyn-thomas-gould-1415014",
+    "espn_display_name": "Owen Gwyn Thomas Gould",
+    "fetched_at": "2026-06-16T19:59:26.530336+00:00"
+  },
+  "98c13758": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/piumal-eeshwara-acharige-karunarathna-1534331",
+    "espn_display_name": "Piumal Eeshwara Acharige Karunarathna",
+    "fetched_at": "2026-06-16T19:59:27.319383+00:00"
+  },
+  "e28cc0b7": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/pratham-somani-1337305",
+    "espn_display_name": "Pratham Somani",
+    "fetched_at": "2026-06-16T19:59:27.466389+00:00"
+  },
+  "4c6a4195": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/paul-cummings-1534349",
+    "espn_display_name": "Paul Cummings",
+    "fetched_at": "2026-06-16T19:59:27.543120+00:00"
+  },
+  "f571c8a1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/qi-shuai-1538771",
+    "espn_display_name": "Qi Shuai",
+    "fetched_at": "2026-06-16T19:59:28.243254+00:00"
+  },
+  "9f0ab09b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/quin-stephens-1534352",
+    "espn_display_name": "Quin Stephens",
+    "fetched_at": "2026-06-16T19:59:28.662706+00:00"
+  },
+  "8dc07b00": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/roderick-lekai-1362924",
+    "espn_display_name": "Roderick Lekai",
+    "fetched_at": "2026-06-16T19:59:29.405768+00:00"
+  },
+  "bb301758": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rashad-al-balushi-1537904",
+    "espn_display_name": "Rashad Al Balushi",
+    "fetched_at": "2026-06-16T19:59:29.632555+00:00"
+  },
+  "668404df": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ryan-ani-1295870",
+    "espn_display_name": "Ryan Ani",
+    "fetched_at": "2026-06-16T19:59:30.712009+00:00"
+  },
+  "349c5e58": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ruel-marlon-ricardo-brathwaite-244499",
+    "espn_display_name": "Ruel Marlon Ricardo Brathwaite",
+    "fetched_at": "2026-06-16T19:59:31.203911+00:00"
+  },
+  "fb266d70": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sageer-ahmad-1534339",
+    "espn_display_name": "Sageer Ahmad",
+    "fetched_at": "2026-06-16T19:59:31.647204+00:00"
+  },
+  "1f3d7990": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohammad-saif-ul-islam-1338650",
+    "espn_display_name": "Mohammad Saif-Ul Islam",
+    "fetched_at": "2026-06-16T19:59:32.329437+00:00"
+  },
+  "2e9e4eaf": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/subbareddy-alavala-1509190",
+    "espn_display_name": "Subbareddy  Alavala",
+    "fetched_at": "2026-06-16T19:59:33.420499+00:00"
+  },
+  "874c2cb3": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sameer-othman-1537910",
+    "espn_display_name": "Sameer Othman",
+    "fetched_at": "2026-06-16T19:59:33.773925+00:00"
+  },
+  "f9d6cfc6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/salman-sharjeel-1535272",
+    "espn_display_name": "Salman Sharjeel",
+    "fetched_at": "2026-06-16T19:59:34.263544+00:00"
+  },
+  "89b2f78f": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sameer-yousuf-437762",
+    "espn_display_name": "Sameer Yousuf",
+    "fetched_at": "2026-06-16T19:59:34.849517+00:00"
+  },
+  "ef342bdb": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/santosh-yadav-1409922",
+    "espn_display_name": "Santosh Yadav",
+    "fetched_at": "2026-06-16T19:59:35.230875+00:00"
+  },
+  "87968c84": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shuaib-ismail-al-balushi-740295",
+    "espn_display_name": "Shuaib Ismail Al Balushi",
+    "fetched_at": "2026-06-16T19:59:36.321609+00:00"
+  },
+  "0faa702f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shiva-mani-1441578",
+    "fetched_at": "2026-06-16T19:59:37.592289+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "8ed6b6f1": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shahir-malikzai-1534336",
+    "espn_display_name": "Shahir Malikzai",
+    "fetched_at": "2026-06-16T19:59:38.461319+00:00"
+  },
+  "c93cc167": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-makalo-1539188",
+    "fetched_at": "2026-06-16T19:59:38.482257+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e3f77d5d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shankar-panguluri-1536764",
+    "espn_display_name": "Shankar Panguluri",
+    "fetched_at": "2026-06-16T19:59:38.768455+00:00"
+  },
+  "423d2b12": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shetty-shailesh-1535371",
+    "espn_display_name": "Shetty Shailesh",
+    "fetched_at": "2026-06-16T19:59:39.490331+00:00"
+  },
+  "2a20a333": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/subham-patel-660383",
+    "espn_display_name": "Subham Patel",
+    "fetched_at": "2026-06-16T19:59:39.669103+00:00"
+  },
+  "505c2a60": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sufyan-naseeb-1539182",
+    "espn_display_name": "Sufyan Naseeb",
+    "fetched_at": "2026-06-16T19:59:40.413120+00:00"
+  },
+  "d2d881de": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/savenaca-waqabaca-1534344",
+    "espn_display_name": "Savenaca Waqabaca",
+    "fetched_at": "2026-06-16T19:59:40.762993+00:00"
+  },
+  "60544e2b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rajib-das-1538772",
+    "espn_display_name": "Rajib Das",
+    "fetched_at": "2026-06-16T19:59:41.994804+00:00"
+  },
+  "d6f139ee": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/vamshi-reddy-1535372",
+    "espn_display_name": "Vamshi Reddy",
+    "fetched_at": "2026-06-16T19:59:42.993215+00:00"
+  },
+  "447760ed": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/taleivuli-jikoibure-1534348",
+    "espn_display_name": "Taleivuli Jikoibure",
+    "fetched_at": "2026-06-16T19:59:43.197124+00:00"
+  },
+  "b2e79789": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/viliame-matai-waqavakatoga-1534347",
+    "espn_display_name": "Viliame Matai Waqavakatoga",
+    "fetched_at": "2026-06-16T19:59:43.478639+00:00"
+  },
+  "385bb7ff": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/wasim-al-balushi-1537905",
+    "espn_display_name": "Wasim Al Balushi",
+    "fetched_at": "2026-06-16T19:59:45.672956+00:00"
+  },
+  "38085d31": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/vilisoni-veiqravi-1534346",
+    "espn_display_name": "Vilisoni Veiqravi",
+    "fetched_at": "2026-06-16T19:59:45.708409+00:00"
+  },
+  "e1d2c0bf": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/venkatesan-thiyanesh-thiyanesh-1337300",
+    "espn_display_name": "Venkatesan Thiyanesh Thiyanesh",
+    "fetched_at": "2026-06-16T19:59:45.853042+00:00"
+  },
+  "0188fdc0": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/yang-wangjie-1538773",
+    "espn_display_name": "Yang Wangjie",
+    "fetched_at": "2026-06-16T19:59:47.392197+00:00"
+  },
+  "cc9989f9": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/waldo-smith-1532519",
+    "espn_display_name": "Waldo Smith",
+    "fetched_at": "2026-06-16T19:59:48.009816+00:00"
+  },
+  "81b4dd77": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-yudha-verdian-1534258",
+    "espn_display_name": "Muhammad Yudha Verdian",
+    "fetched_at": "2026-06-16T19:59:48.212227+00:00"
+  },
+  "e8550df5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zahidullah-kamal-520036",
+    "fetched_at": "2026-06-16T19:59:48.725950+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "76e1f6eb": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zhao-zhilong-1538774",
+    "espn_display_name": "Zhao Zhilong",
+    "fetched_at": "2026-06-16T19:59:48.900787+00:00"
+  },
+  "3cbdbdeb": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/zainullah-ihsan-1452277",
+    "espn_display_name": "Zainullah Ihsan",
+    "fetched_at": "2026-06-16T19:59:49.174963+00:00"
+  },
+  "c0d59d9c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Top-order batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/zacheo-rudolf-jansen-van-vuuren-1306047",
+    "espn_display_name": "Zacheo Rudolf Jansen Van Vuuren",
+    "fetched_at": "2026-06-16T19:59:50.047938+00:00"
+  },
+  "9d5440c0": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zubair-al-balushi-1537907",
+    "espn_display_name": "Zubair Al Balushi",
+    "fetched_at": "2026-06-16T19:59:50.624880+00:00"
   }
 }

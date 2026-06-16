@@ -3,7 +3,7 @@
     "description": "Optional manual overrides. Edit players here instead of changing Python code.",
     "editable_scope": "Any player may be added under players by player id.",
     "seeded_with": "Players currently missing batting and bowling data are auto-added as placeholders.",
-    "updated_at": "2026-04-12T16:21:10.871604+00:00"
+    "updated_at": "2026-06-16T19:59:54.516215+00:00"
   },
   "players": {
     "fd3c5c00": {
@@ -87094,6 +87094,3308 @@
         "cricbuzz": null
       },
       "source_url": "https://www.espncricinfo.com/cricketers/sachin-mandy-1318767",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "92aaa31d": {
+      "name": "Abdul Jalil",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537909",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/abdul-jalil-1537909",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2f1be128": {
+      "name": "Abdulla Pervaiz",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538503",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/abdulla-pervaiz-1538503",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "7f065618": {
+      "name": "Abdul Rauf",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538505",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/abdul-rauf-1538505",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "ae84d526": {
+      "name": "Abdurrahman Ahmadzai",
+      "teams": [
+        "France"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536763",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/abdurrahman-ahmadzai-1536763",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "5f35329d": {
+      "name": "Abid Ullah Shah",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1361961",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/abid-ullah-shah-1361961",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "fd7d703c": {
+      "name": "Adeeb Usmani",
+      "teams": [
+        "United Arab Emirates"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1532751",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/adeeb-usmani-1532751",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "075a9439": {
+      "name": "Adeshlie Alias",
+      "teams": [
+        "Malaysia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534259",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/adeshlie-alias-1534259",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2f94b39d": {
+      "name": "Adil Latheef",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535273",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/adil-latheef-1535273",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d0628ad5": {
+      "name": "Adnan Anwar",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535274",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/adnan-anwar-1535274",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f10e94c4": {
+      "name": "Aksh Deep Nath",
+      "teams": [
+        "United Arab Emirates"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "500360",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/aksh-deep-nath-500360",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "8a06bb55": {
+      "name": "Ahmad Ullah",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534337",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ahmad-ullah-1534337",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "33044169": {
+      "name": "Ahmed Al Zadjali",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1337267",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ahmed-al-zadjali-1337267",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "c80b4969": {
+      "name": "Ajay Kumar",
+      "teams": [
+        "United Arab Emirates"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1511696",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ajay-kumar-1511696",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "23cbe719": {
+      "name": "Ajin Soman",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535269",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ajin-soman-1535269",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "3094606e": {
+      "name": "AJ Prajapati",
+      "teams": [
+        "Mali"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535377",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/aj-prajapati-1535377",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "921292ca": {
+      "name": "Akhter Pacha Sher",
+      "teams": [
+        "Norway"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1540251",
+        "cricbuzz": "1474561"
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/akhter-pacha-sher-1540251",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "4b8e8f64": {
+      "name": "AS Broomfield",
+      "teams": [
+        "South Korea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534341",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/as-broomfield-1534341",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "26f40d94": {
+      "name": "AS Kumaran",
+      "teams": [
+        "Slovenia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536762",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/as-kumaran-1536762",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "09ecc596": {
+      "name": "Aue Oru",
+      "teams": [
+        "Papua New Guinea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1295871",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/aue-oru-1295871",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "041db176": {
+      "name": "B Botcha",
+      "teams": [
+        "Mali"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535373",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/b-botcha-1535373",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "6761bc35": {
+      "name": "B Mngoma",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1426419",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/b-mngoma-1426419",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "6bc14137": {
+      "name": "B Mngomezulu",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1502410",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/b-mngomezulu-1502410",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "269f3186": {
+      "name": "Borna Pejic",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536773",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/borna-pejic-1536773",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "62c4b38b": {
+      "name": "CG Campbell",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534334",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/cg-campbell-1534334",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "cedf2c91": {
+      "name": "Chamalka Fernando",
+      "teams": [
+        "Romania",
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535800",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/chamalka-fernando-1535800",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "83f0b848": {
+      "name": "C Liebenberg",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1156493",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/c-liebenberg-1156493",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "1439e6b5": {
+      "name": "CM Carroll",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536770",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/cm-carroll-1536770",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "b1a4226c": {
+      "name": "CV Ranasinghe",
+      "teams": [
+        "South Korea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534338",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/cv-ranasinghe-1534338",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "052b014c": {
+      "name": "D Asghar",
+      "teams": [
+        "Norway"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1540248",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/d-asghar-1540248",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f6ba97c6": {
+      "name": "Dilum Fernando",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1174261",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/dilum-fernando-1174261",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "a7a7a2d5": {
+      "name": "DJ Hall",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536771",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/dj-hall-1536771",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d314deb8": {
+      "name": "Du Jianhao",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538768",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/du-jianhao-1538768",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "5a4987e1": {
+      "name": "Du Jianyao",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538769",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/du-jianyao-1538769",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "1c044b2e": {
+      "name": "EM Turay",
+      "teams": [
+        "Sierra Leone"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1155533",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/em-turay-1155533",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "9a8e35ea": {
+      "name": "Eranga De Silva",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535796",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/eranga-de-silva-1535796",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2719e9a6": {
+      "name": "E Robinson",
+      "teams": [
+        "Guernsey"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1500573",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/e-robinson-1500573",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f3e4494a": {
+      "name": "Faizalmahmed Patel",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1378454",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/faizalmahmed-patel-1378454",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "b979b662": {
+      "name": "Faridullah Shams",
+      "teams": [
+        "Austria"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1540249",
+        "cricbuzz": "1474546"
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/faridullah-shams-1540249",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "cd336877": {
+      "name": "Faris Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537899",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/faris-al-balushi-1537899",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2f7244b5": {
+      "name": "Farmanullah Ghari",
+      "teams": [
+        "Norway"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1530385",
+        "cricbuzz": "1474572"
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/farmanullah-ghari-1530385",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "b929c3ae": {
+      "name": "Flynn Zahra",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535271",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/flynn-zahra-1535271",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "dba7b529": {
+      "name": "Gaba Frank",
+      "teams": [
+        "Papua New Guinea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534343",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/gaba-frank-1534343",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "7f2f7ad9": {
+      "name": "GBK Roland",
+      "teams": [
+        "Ivory Coast"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535369",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/gbk-roland-1535369",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "57618587": {
+      "name": "G Newton",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534332",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/g-newton-1534332",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "21db290f": {
+      "name": "Hammadullah Shinwari",
+      "teams": [
+        "Finland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534329",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/hammadullah-shinwari-1534329",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f74390c5": {
+      "name": "Hamza Riaz",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538501",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/hamza-riaz-1538501",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "28c78fb3": {
+      "name": "Harpreet Singh Bhatia",
+      "teams": [
+        "United Arab Emirates"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "340854",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/harpreet-singh-bhatia-340854",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "bb20441f": {
+      "name": "H Dhami",
+      "teams": [
+        "Nepal"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1248189",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/h-dhami-1248189",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "fa0d1410": {
+      "name": "Irfan Ringku",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535798",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/irfan-ringku-1535798",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "91cdf3ae": {
+      "name": "Issa Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537900",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/issa-al-balushi-1537900",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "518cfb98": {
+      "name": "JD Alembe",
+      "teams": [
+        "Cameroon"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1450905",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jd-alembe-1450905",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "7c668529": {
+      "name": "JD Bhatt",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534335",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jd-bhatt-1534335",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "26c7fe2a": {
+      "name": "Jihad Hossain",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1539180",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jihad-hossain-1539180",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e511fdf7": {
+      "name": "JJ Griffin",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1386507",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jj-griffin-1386507",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d821ea56": {
+      "name": "JL Kovacic",
+      "teams": [
+        "Slovenia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536761",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jl-kovacic-1536761",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2575caf6": {
+      "name": "J Mathew",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1484476",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/j-mathew-1484476",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "07793daf": {
+      "name": "JR Lennox",
+      "teams": [
+        "New Zealand"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1206769",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jr-lennox-1206769",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "21fcad4e": {
+      "name": "JR Newton",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536768",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/jr-newton-1536768",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "4f1d3f68": {
+      "name": "J Santhanam",
+      "teams": [
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1329939",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/j-santhanam-1329939",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "aa6c2fbf": {
+      "name": "J Shields",
+      "teams": [
+        "Cook Islands"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534354",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/j-shields-1534354",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "0a95c25a": {
+      "name": "Kaif Jamadar",
+      "teams": [
+        "Finland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534330",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/kaif-jamadar-1534330",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "a3690f55": {
+      "name": "Khuzaima Tanveer",
+      "teams": [
+        "United Arab Emirates"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1460551",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/khuzaima-tanveer-1460551",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "ba3533fe": {
+      "name": "KK Hermann",
+      "teams": [
+        "Ivory Coast"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535370",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/kk-hermann-1535370",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "6a8050f4": {
+      "name": "K Shnier",
+      "teams": [
+        "Isle of Man"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534333",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/k-shnier-1534333",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "ae677077": {
+      "name": "K Tayaga",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1115020",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/k-tayaga-1115020",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "a6881817": {
+      "name": "K Venkatraman",
+      "teams": [
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535866",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/k-venkatraman-1535866",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "fb8389e6": {
+      "name": "L Basson",
+      "teams": [
+        "Namibia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1495162",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/l-basson-1495162",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e30c9b2d": {
+      "name": "L Croospulle",
+      "teams": [
+        "Sri Lanka"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1027867",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/l-croospulle-1027867",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "de16fed9": {
+      "name": "L Grace",
+      "teams": [
+        "Cook Islands"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534353",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/l-grace-1534353",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "4bf76da2": {
+      "name": "L Solomone",
+      "teams": [
+        "Lesotho",
+        "Mozambique"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1539185",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/l-solomone-1539185",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "b556eff5": {
+      "name": "Micheal Das",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535270",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/micheal-das-1535270",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "7068c81e": {
+      "name": "MJ Fisher",
+      "teams": [
+        "New Zealand"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1129635",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/mj-fisher-1129635",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "389d04a6": {
+      "name": "Mohamad Junaid Khushi",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538504",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/mohamad-junaid-khushi-1538504",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "30adc2fa": {
+      "name": "Mohammad Hamza",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538502",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/mohammad-hamza-1538502",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "967ee086": {
+      "name": "Mohammed Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537901",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/mohammed-al-balushi-1537901",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e6409ae1": {
+      "name": "Mohammed Sameer",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "452571",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/mohammed-sameer-452571",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "266f7543": {
+      "name": "M Ravula",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534345",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/m-ravula-1534345",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "361388d6": {
+      "name": "M Separovic",
+      "teams": [
+        "Croatia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536769",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/m-separovic-1536769",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "46e64b28": {
+      "name": "Muhammad Adil",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538497",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/muhammad-adil-1538497",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "81416a78": {
+      "name": "Muhammad Farooq",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1163171",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/muhammad-farooq-1163171",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f681481e": {
+      "name": "Muhammad Nadeem",
+      "teams": [
+        "South Korea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1167326",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/muhammad-nadeem-1167326",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "a00a53dd": {
+      "name": "Munthir Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537902",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/munthir-al-balushi-1537902",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e901d179": {
+      "name": "Musa Khan Ahmadzai",
+      "teams": [
+        "Switzerland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536765",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/musa-khan-ahmadzai-1536765",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d9d08ea3": {
+      "name": "Muzaffar Shiralkar",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537898",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/muzaffar-shiralkar-1537898",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "1b6aafc8": {
+      "name": "Nawed Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537903",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/nawed-al-balushi-1537903",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "05b1aef8": {
+      "name": "NG Smith",
+      "teams": [
+        "New Zealand"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "959771",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ng-smith-959771",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "4833efb4": {
+      "name": "N Master",
+      "teams": [
+        "Botswana"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "585437",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/n-master-585437",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "0e84e0f6": {
+      "name": "NR Mittal",
+      "teams": [
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538498",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/nr-mittal-1538498",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "33b48084": {
+      "name": "Numan Yousuf",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "436985",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/numan-yousuf-436985",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "6f852c49": {
+      "name": "N Venables",
+      "teams": [
+        "Vanuatu"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534342",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/n-venables-1534342",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2c66ee1e": {
+      "name": "OGT Gould",
+      "teams": [
+        "Scotland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1415014",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ogt-gould-1415014",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "6fffb04a": {
+      "name": "Parveen Kumar",
+      "teams": [
+        "Romania"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535799",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/parveen-kumar-1535799",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "4c6a4195": {
+      "name": "P Cummings",
+      "teams": [
+        "Cook Islands"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534349",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/p-cummings-1534349",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "98c13758": {
+      "name": "PEA Karunarathna",
+      "teams": [
+        "Finland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534331",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/pea-karunarathna-1534331",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e28cc0b7": {
+      "name": "P Somani",
+      "teams": [
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1337305",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/p-somani-1337305",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f571c8a1": {
+      "name": "Qi Shuai",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538771",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/qi-shuai-1538771",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "9f0ab09b": {
+      "name": "Q Stephens",
+      "teams": [
+        "Cook Islands"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534352",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/q-stephens-1534352",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "bb301758": {
+      "name": "Rashad Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537904",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/rashad-al-balushi-1537904",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "8dc07b00": {
+      "name": "R Lekai",
+      "teams": [
+        "Vanuatu"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1362924",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/r-lekai-1362924",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "349c5e58": {
+      "name": "RMR Brathwaite",
+      "teams": [
+        "Cyprus"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "244499",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/rmr-brathwaite-244499",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "668404df": {
+      "name": "Ryan Ani",
+      "teams": [
+        "Papua New Guinea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1295870",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/ryan-ani-1295870",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "fb266d70": {
+      "name": "Sageer Ahmad",
+      "teams": [
+        "South Korea"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534339",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/sageer-ahmad-1534339",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "1f3d7990": {
+      "name": "Saif Ul Islam",
+      "teams": [
+        "Norway"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1338650",
+        "cricbuzz": "1456611"
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/saif-ul-islam-1338650",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2e9e4eaf": {
+      "name": "S Alavala",
+      "teams": [
+        "Cyprus"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1509190",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-alavala-1509190",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "f9d6cfc6": {
+      "name": "Salman Sharjeel",
+      "teams": [
+        "Malta"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535272",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/salman-sharjeel-1535272",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "874c2cb3": {
+      "name": "Sameer Othman",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537910",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/sameer-othman-1537910",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "89b2f78f": {
+      "name": "Sameer Yousuf",
+      "teams": [
+        "Bahrain"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "437762",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/sameer-yousuf-437762",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "ef342bdb": {
+      "name": "Santosh Yadav",
+      "teams": [
+        "Nepal"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1409922",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/santosh-yadav-1409922",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "0faa702f": {
+      "name": "Shiva Mani",
+      "teams": [
+        "Slovenia"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1441578",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/shiva-mani-1441578",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "87968c84": {
+      "name": "Shuaib Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "740295",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/shuaib-al-balushi-740295",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "c93cc167": {
+      "name": "S Makalo",
+      "teams": [
+        "Lesotho"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1539188",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-makalo-1539188",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "8ed6b6f1": {
+      "name": "S Malikzai",
+      "teams": [
+        "Germany"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534336",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-malikzai-1534336",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e3f77d5d": {
+      "name": "S Panguluri",
+      "teams": [
+        "Switzerland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1536764",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-panguluri-1536764",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "423d2b12": {
+      "name": "S Shailesh",
+      "teams": [
+        "Mali"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535371",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-shailesh-1535371",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "2a20a333": {
+      "name": "Subham Patel",
+      "teams": [
+        "Kenya"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "660383",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/subham-patel-660383",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "505c2a60": {
+      "name": "Sufyan Naseeb",
+      "teams": [
+        "Eswatini"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1539182",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/sufyan-naseeb-1539182",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d2d881de": {
+      "name": "S Waqabaca",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534344",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/s-waqabaca-1534344",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "60544e2b": {
+      "name": "Tian Senqun",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538772",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/tian-senqun-1538772",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "447760ed": {
+      "name": "T Jikoibure",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534348",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/t-jikoibure-1534348",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "d6f139ee": {
+      "name": "Vamshi Reddy",
+      "teams": [
+        "Mali"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1535372",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/vamshi-reddy-1535372",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "b2e79789": {
+      "name": "VM Waqavakatoga",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534347",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/vm-waqavakatoga-1534347",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e1d2c0bf": {
+      "name": "VT Thiyanesh",
+      "teams": [
+        "Singapore"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1337300",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/vt-thiyanesh-1337300",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "38085d31": {
+      "name": "V Veiqravi",
+      "teams": [
+        "Fiji"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534346",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/v-veiqravi-1534346",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "385bb7ff": {
+      "name": "Wasim Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537905",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/wasim-al-balushi-1537905",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "cc9989f9": {
+      "name": "W Smith",
+      "teams": [
+        "Namibia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1532519",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/w-smith-1532519",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "0188fdc0": {
+      "name": "Yang Wangjie",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538773",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/yang-wangjie-1538773",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "81b4dd77": {
+      "name": "Yudha Verdian",
+      "teams": [
+        "Indonesia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1534258",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/yudha-verdian-1534258",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "e8550df5": {
+      "name": "Zahidullah Kamal",
+      "teams": [
+        "Finland"
+      ],
+      "batting_style": "RHB",
+      "batting_hand": "Right",
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "520036",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/zahidullah-kamal-520036",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "3cbdbdeb": {
+      "name": "Zainullah Ihsan",
+      "teams": [
+        "Scotland"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1452277",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/zainullah-ihsan-1452277",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "76e1f6eb": {
+      "name": "Zhao Zhilong",
+      "teams": [
+        "China"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1538774",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/zhao-zhilong-1538774",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "c0d59d9c": {
+      "name": "ZJ van Vuuren",
+      "teams": [
+        "Namibia"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1306047",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/zj-van-vuuren-1306047",
+      "source": "manual",
+      "enriched": false,
+      "notes": null
+    },
+    "9d5440c0": {
+      "name": "Zubair Al Balushi",
+      "teams": [
+        "Oman"
+      ],
+      "batting_style": null,
+      "batting_hand": null,
+      "bowling_style": null,
+      "bowling": {
+        "arm": null,
+        "type": null,
+        "subtype": null,
+        "mechanism": null
+      },
+      "role": null,
+      "is_wicketkeeper": null,
+      "external_ids": {
+        "espn": "1537907",
+        "cricbuzz": null
+      },
+      "source_url": "https://www.espncricinfo.com/cricketers/zubair-al-balushi-1537907",
       "source": "manual",
       "enriched": false,
       "notes": null
