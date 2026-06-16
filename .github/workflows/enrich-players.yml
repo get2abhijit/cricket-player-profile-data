@@ -1,9 +1,9 @@
 name: Enrich Cricket Players
 
 on:
-  schedule:
+  # schedule:
     # Run every Sunday at 2 AM UTC (after weekend international matches)
-    - cron: '0 2 * * 0'
+    # - cron: '0 2 * * 0'
   
   # Also allow manual trigger
   workflow_dispatch:
