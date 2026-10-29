@@ -9,8 +9,8 @@ DASHBOARD_DATA = Path("output/dashboard_data.json")
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Verify dashboard count regression guard")
-    parser.add_argument("--expected-players", type=int, default=3442)
-    parser.add_argument("--expected-missing", type=int, default=75)
+    parser.add_argument("--expected-players", type=int, default=3653)
+    parser.add_argument("--expected-missing", type=int, default=106)
     args = parser.parse_args()
 
     if not DASHBOARD_DATA.exists():

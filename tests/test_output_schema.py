@@ -147,8 +147,8 @@ class TestDashboardDataSchema:
         enriched_players = len(dashboard_data.get("players", []))
         actionable_missing = sum(len(v) for v in dashboard_data.get("unfound_players", {}).values())
 
-        assert enriched_players == 3442
-        assert actionable_missing == 75
+        assert enriched_players == 3653
+        assert actionable_missing == 106
 
 
 class TestDashboardHtmlRegression:

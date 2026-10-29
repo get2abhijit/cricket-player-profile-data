@@ -2,14 +2,22 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.github/
+
+# Keep workflow/instruction files under .github tracked, ignore other transient files there.
+.github/*
+!.github/workflows/
+!.github/workflows/*.yml
+!.github/copilot-instructions.md
 
 # Local runtime/state
 pipeline_run.log
 data/enrichment_state.json
+data/automation_update_summary.json
 
 # matches
 data/matches_json/
+data/recently_added_*_male_json.zip
+data/t20s_male_json.zip
 
 # prompts
 /prompts/

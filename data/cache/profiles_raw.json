@@ -3242,12 +3242,14 @@
     "fetched_at": "2026-04-12T11:34:06.380925+00:00"
   },
   "518a21ed": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Bowler",
     "source_url": "https://www.espncricinfo.com/cricketers/awais-ahmad-1489793",
     "espn_display_name": "Awais Ahmad",
-    "fetched_at": "2026-04-12T11:34:14.131782+00:00"
+    "fetched_at": "2026-04-12T11:34:14.131782+00:00",
+    "cricbuzz_id": "1456633",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1456633/awais-ahmad"
   },
   "f9f857dc": {
     "batting_style": "Right-hand bat",
@@ -3494,12 +3496,14 @@
     "fetched_at": "2026-04-12T11:36:22.671083+00:00"
   },
   "75ebfe19": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Bowler",
     "source_url": "https://www.espncricinfo.com/cricketers/baseer-khan-1435270",
     "espn_display_name": "Baseer Khan",
-    "fetched_at": "2026-04-12T11:36:24.228094+00:00"
+    "fetched_at": "2026-04-12T11:36:24.228094+00:00",
+    "cricbuzz_id": "1426397",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1426397/baseer-khan"
   },
   "dcdc9b49": {
     "batting_style": "Right-hand bat",
@@ -4620,12 +4624,14 @@
     "fetched_at": "2026-04-12T11:46:20.482621+00:00"
   },
   "3e697d4a": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/chaudhary-akram-751695",
     "espn_display_name": "Chaudhary Akram",
-    "fetched_at": "2026-04-12T11:46:22.575414+00:00"
+    "fetched_at": "2026-04-12T11:46:22.575414+00:00",
+    "cricbuzz_id": "44553",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/44553/chaudhary-akram"
   },
   "47b33198": {
     "batting_style": "Left-hand bat",
@@ -7016,12 +7022,14 @@
     "fetched_at": "2026-04-12T11:59:55.895697+00:00"
   },
   "dccb802c": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/faisal-raza-1479949",
     "espn_display_name": "Faisal Raza",
-    "fetched_at": "2026-04-12T11:59:56.111937+00:00"
+    "fetched_at": "2026-04-12T11:59:56.111937+00:00",
+    "cricbuzz_id": "1451795",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1451795/faisal-raza"
   },
   "5eba6319": {
     "batting_style": "Left-hand bat",
@@ -8040,12 +8048,14 @@
     "fetched_at": "2026-04-12T12:01:37.952665+00:00"
   },
   "ec4ae12d": {
-    "batting_style": "Right-hand bat",
-    "bowling_style": "Right-arm medium",
-    "role": null,
+    "batting_style": "Right Handed Bat",
+    "bowling_style": "Right-arm fast",
+    "role": "Bowler",
     "source_url": "https://www.espncricinfo.com/cricketers/hamid-safi-1469022",
     "espn_display_name": "Hamid Safi",
-    "fetched_at": "2026-04-12T12:01:38.127781+00:00"
+    "fetched_at": "2026-04-12T12:01:38.127781+00:00",
+    "cricbuzz_id": "1450859",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1450859/hamid-safi"
   },
   "d617f2bf": {
     "batting_style": "Left-hand bat",
@@ -9072,12 +9082,14 @@
     "fetched_at": "2026-04-12T12:03:18.180085+00:00"
   },
   "1283e17b": {
-    "batting_style": "Right-hand bat",
-    "bowling_style": "Right-arm medium-fast",
-    "role": null,
+    "batting_style": "Right Handed Bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": "Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/imal-zuwak-1273278",
     "espn_display_name": "Imal Zuwak",
-    "fetched_at": "2026-04-12T12:03:19.529219+00:00"
+    "fetched_at": "2026-04-12T12:03:19.529219+00:00",
+    "cricbuzz_id": "28649",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/28649/imal-zuwak"
   },
   "9cb8d7a6": {
     "batting_style": "Left-hand bat",
@@ -11136,12 +11148,14 @@
     "fetched_at": "2026-04-12T12:06:38.918490+00:00"
   },
   "6a97c7a4": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Bowler",
     "source_url": "https://www.espncricinfo.com/cricketers/karanbir-singh-1435271",
     "espn_display_name": "Karanbir Singh",
-    "fetched_at": "2026-04-12T12:06:39.864501+00:00"
+    "fetched_at": "2026-04-12T12:06:39.864501+00:00",
+    "cricbuzz_id": "1426388",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1426388/karanbir-singh"
   },
   "a757b0d8": {
     "batting_style": "Right-hand bat",
@@ -11584,12 +11598,14 @@
     "fetched_at": "2026-04-12T12:07:19.747283+00:00"
   },
   "723ca856": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": null,
-    "role": "Wicketkeeper batter",
+    "role": "WK-Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/khizer-ahmed-1188641",
     "espn_display_name": "Khizer Ahmed",
-    "fetched_at": "2026-04-12T12:07:20.758437+00:00"
+    "fetched_at": "2026-04-12T12:07:20.758437+00:00",
+    "cricbuzz_id": "25212",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/25212/khizer-ahmed"
   },
   "5b8c830e": {
     "batting_style": "Left-hand bat",
@@ -12056,12 +12072,14 @@
     "fetched_at": "2026-04-12T12:07:58.621741+00:00"
   },
   "9bdb9aa9": {
-    "batting_style": "Right-hand bat",
-    "bowling_style": "Legbreak googly",
+    "batting_style": "Right Handed Bat",
+    "bowling_style": "Left-arm orthodox",
     "role": null,
     "source_url": "https://www.espncricinfo.com/cricketers/kumud-ranjan-jha-1486199",
     "espn_display_name": "Kumud Ranjan Jha",
-    "fetched_at": "2026-04-12T12:07:59.060479+00:00"
+    "fetched_at": "2026-04-12T12:07:59.060479+00:00",
+    "cricbuzz_id": "1452956",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/1452956/kumud-ranjan-jha"
   },
   "73c18486": {
     "batting_style": "Left-hand bat",
@@ -17632,12 +17650,14 @@
     "fetched_at": "2026-04-12T12:16:41.309111+00:00"
   },
   "fc362c5d": {
-    "batting_style": "Right-hand bat",
-    "bowling_style": "Right-arm medium-fast",
-    "role": null,
+    "batting_style": "Right Handed Bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": "Bowling Allrounder",
     "source_url": "https://www.espncricinfo.com/cricketers/qamar-mushtaque-1325906",
     "espn_display_name": "Qamar Mushtaque",
-    "fetched_at": "2026-04-12T12:16:42.208080+00:00"
+    "fetched_at": "2026-04-12T12:16:42.208080+00:00",
+    "cricbuzz_id": "28801",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/28801/qamar-mushtaque"
   },
   "3852600a": {
     "batting_style": "Right-hand bat",
@@ -19320,12 +19340,14 @@
     "fetched_at": "2026-04-12T12:19:04.661814+00:00"
   },
   "63d6e16e": {
-    "batting_style": "Left-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/saeed-ahmed-1215488",
     "espn_display_name": "Saeed Ahmed",
-    "fetched_at": "2026-04-12T12:19:04.853272+00:00"
+    "fetched_at": "2026-04-12T12:19:04.853272+00:00",
+    "cricbuzz_id": "44546",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/44546/saeed-ahmed"
   },
   "b59db04f": {
     "batting_style": "Right-hand bat",
@@ -19600,12 +19622,14 @@
     "fetched_at": "2026-04-12T12:19:25.248135+00:00"
   },
   "d5c38041": {
-    "batting_style": "Right-hand bat",
+    "batting_style": "Right Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "WK-Batsman",
     "source_url": "https://www.espncricinfo.com/cricketers/samiullah-rahmani-250386",
     "espn_display_name": "Samiullah Rahmani",
-    "fetched_at": "2026-04-12T12:19:25.529939+00:00"
+    "fetched_at": "2026-04-12T12:19:25.529939+00:00",
+    "cricbuzz_id": "44508",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/44508/samiullah-rahmani"
   },
   "8b0b3bba": {
     "batting_style": "Right-hand bat",
@@ -24128,12 +24152,14 @@
     "fetched_at": "2026-04-12T12:26:04.152259+00:00"
   },
   "331e137f": {
-    "batting_style": "Left-hand bat",
+    "batting_style": "Left Handed Bat",
     "bowling_style": "Right-arm medium",
-    "role": null,
+    "role": "Batting Allrounder",
     "source_url": "https://www.espncricinfo.com/cricketers/walid-ghauri-1188640",
     "espn_display_name": "Walid Ghauri",
-    "fetched_at": "2026-04-12T12:26:05.586307+00:00"
+    "fetched_at": "2026-04-12T12:26:05.586307+00:00",
+    "cricbuzz_id": "25224",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/25224/walid-ghauri"
   },
   "523c8494": {
     "batting_style": "Right-hand bat",
@@ -24839,12 +24865,14 @@
     "fetched_at": "2026-04-12T12:27:07.138416+00:00"
   },
   "6d024ce3": {
-    "batting_style": "Right-hand bat",
-    "bowling_style": "Right-arm medium-fast",
-    "role": null,
+    "batting_style": "Right Handed Bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": "Bowler",
     "source_url": "https://www.espncricinfo.com/cricketers/zabiullah-zahid-1273287",
     "espn_display_name": "Zabiullah Zahid",
-    "fetched_at": "2026-04-12T12:27:08.108753+00:00"
+    "fetched_at": "2026-04-12T12:27:08.108753+00:00",
+    "cricbuzz_id": "44511",
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/44511/zabiullah-zahid"
   },
   "5d9ebb3c": {
     "batting_style": "Right-hand bat",
@@ -27394,7 +27422,7 @@
     "fetched_at": "2026-04-12T15:31:02.861654+00:00",
     "fetch_error": "all_sources_empty",
     "cricbuzz_id": "26493",
-    "cricbuzz_url": "https://www.cricbuzz.com/profiles/26493/a-randhawa"
+    "cricbuzz_url": "https://www.cricbuzz.com/profiles/26493/armaan-randhawa"
   },
   "e1b9f3a9": {
     "batting_style": "Left-hand bat",
@@ -27557,774 +27585,6 @@
     "fetch_error": "all_sources_empty",
     "cricbuzz_id": "15220",
     "cricbuzz_url": "https://www.cricbuzz.com/profiles/15220/ziaur-rehman"
-  },
-  "797f52cc": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/aahan-achar-973793",
-    "fetched_at": "2026-04-12T16:18:06.236502+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "719ac15b": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/aa-senn-256969",
-    "fetched_at": "2026-04-12T16:18:06.951119+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "0cfb42b5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/abdul-majid-abbasi-1361960",
-    "fetched_at": "2026-04-12T16:18:07.565495+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "d68f4aa1": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/aj-michael-1155251",
-    "fetched_at": "2026-04-12T16:18:08.063563+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "9d0344f3": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/akif-raja-1281546",
-    "fetched_at": "2026-04-12T16:18:08.802816+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "fe0b3bdf": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/a-langham-1163181",
-    "fetched_at": "2026-04-12T16:18:09.574087+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e214be36": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/alfredo-esteban-valdes-puentes-1403943",
-    "fetched_at": "2026-04-12T16:18:10.211611+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b9b194d6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/altaf-gill-1167324",
-    "fetched_at": "2026-04-12T16:18:10.710471+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b672e825": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/a-manousis-520081",
-    "fetched_at": "2026-04-12T16:18:11.428690+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "0dcd8fbd": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/anthony-glynn-roe-1403940",
-    "fetched_at": "2026-04-12T16:18:12.437629+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "3f4456f5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/aqm-yako-1425077",
-    "fetched_at": "2026-04-12T16:18:12.631645+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "231daa19": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/asif-shaikh-1471156",
-    "fetched_at": "2026-04-12T16:18:13.430410+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "71b1e668": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/assad-mehmood-1204647",
-    "fetched_at": "2026-04-12T16:18:13.893604+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "30c917bf": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/av-lazarus-1418085",
-    "fetched_at": "2026-04-12T16:18:14.572733+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "99bf1fb7": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/a-yon-1163186",
-    "fetched_at": "2026-04-12T16:18:16.195734+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "ff1e08eb": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/azam-khalil-515185",
-    "fetched_at": "2026-04-12T16:18:16.323981+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "0e102c3b": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/baa-zammitt-303936",
-    "fetched_at": "2026-04-12T16:18:16.530294+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "35cfc769": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/benjamin-figueroa-constanzo-1403935",
-    "fetched_at": "2026-04-12T16:18:16.893377+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "063d0e83": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/b-jaye-1155635",
-    "fetched_at": "2026-04-12T16:18:18.305624+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "2c14421f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/b-isaac-1163190",
-    "fetched_at": "2026-04-12T16:18:18.418502+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "740a5494": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/branden-leo-1163187",
-    "fetched_at": "2026-04-12T16:18:18.935616+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "4e1b7998": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/chare-smith-1144659",
-    "fetched_at": "2026-04-12T16:18:19.817551+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "d92d4f5e": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/choudhry-md-imran-1418073",
-    "fetched_at": "2026-04-12T16:18:20.071327+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "6cd74704": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/dharmendra-manani-1236494",
-    "fetched_at": "2026-04-12T16:18:20.267688+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "fa83d1b6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/d-svilicic-580999",
-    "fetched_at": "2026-04-12T16:18:21.506215+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "5d9d83e6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/david-young-1163092",
-    "fetched_at": "2026-04-12T16:18:21.767783+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "41acc8bf": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/e-kahamker-1046629",
-    "fetched_at": "2026-04-12T16:18:23.069077+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e85bb4b3": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/fanyan-mughal-492687",
-    "fetched_at": "2026-04-12T16:18:23.317453+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "21b67523": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/f-mutua-1178071",
-    "fetched_at": "2026-04-12T16:18:23.571559+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "61763f48": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/franz-bur-1076538",
-    "fetched_at": "2026-04-12T16:18:24.544532+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "ceec82cd": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/g-johnson-1163180",
-    "fetched_at": "2026-04-12T16:18:24.811346+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b67bfbf8": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/hk-kukreja-1471899",
-    "fetched_at": "2026-04-12T16:18:25.546123+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "d0e2e8ea": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/h-niaz-525042",
-    "fetched_at": "2026-04-12T16:18:26.289615+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "a0a32dd1": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/imran-khan-1204641",
-    "fetched_at": "2026-04-12T16:18:26.493720+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "5a719b87": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/jf-chester-1163167",
-    "fetched_at": "2026-04-12T16:18:27.379939+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "f58295c2": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/jm-iradukunda-1155600",
-    "fetched_at": "2026-04-12T16:18:28.566563+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "68e7e8d5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/j-henry-1163179",
-    "fetched_at": "2026-04-12T16:18:29.313630+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "abee08c7": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/jo-adedeji-623893",
-    "fetched_at": "2026-04-12T16:18:29.551214+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "945f5357": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/jn-du-plooy-1252362",
-    "fetched_at": "2026-04-12T16:18:29.850612+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "a14b3bc0": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/kawsar-khan-1403925",
-    "fetched_at": "2026-04-12T16:18:30.481630+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "a2dd9236": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/k-cawte-1046719",
-    "fetched_at": "2026-04-12T16:18:30.809616+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "5c93efb1": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/khalid-zahid-1156608",
-    "fetched_at": "2026-04-12T16:18:31.810691+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "177009a5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/la-collado-572235",
-    "fetched_at": "2026-04-12T16:18:32.450852+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "f6411545": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/lf-muller-1403924",
-    "fetched_at": "2026-04-12T16:18:32.872916+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e41c8d4c": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/ma-ntobela-1425075",
-    "fetched_at": "2026-04-12T16:18:33.559151+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "f0fbdf0a": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/mario-andres-pavez-ovalle-1403939",
-    "fetched_at": "2026-04-12T16:18:34.698542+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "d8e48e1b": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/mfi-assuncao-1403926",
-    "fetched_at": "2026-04-12T16:18:35.476005+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b18ba97a": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/m-joseph-1407142",
-    "fetched_at": "2026-04-12T16:18:36.309571+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "c6889eb6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/m-kasselman-1255249",
-    "fetched_at": "2026-04-12T16:18:37.052813+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "1e50426a": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/m-kristensen-1036595",
-    "fetched_at": "2026-04-12T16:18:37.429987+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "8a22e5f0": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/m-badenhorst-585160",
-    "fetched_at": "2026-04-12T16:18:37.868956+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "2d9451cc": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/mk-thakur-1418086",
-    "fetched_at": "2026-04-12T16:18:38.038551+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "9818cc88": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/m-kyriacou-520026",
-    "fetched_at": "2026-04-12T16:18:38.762875+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "13501ff4": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/mohamed-khan-1089826",
-    "fetched_at": "2026-04-12T16:18:39.621974+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "57888f3c": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-yasin-1343573",
-    "fetched_at": "2026-04-12T16:18:40.018181+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "6d5e66b1": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-zafar-khan-1151266",
-    "fetched_at": "2026-04-12T16:18:40.535074+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "c44bf6a2": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/mukesh-singh-1403966",
-    "fetched_at": "2026-04-12T16:18:41.266042+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "58aa33cd": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/najjam-shahzad-1204631",
-    "fetched_at": "2026-04-12T16:18:41.888727+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "020f24d6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/nja-smith-522836",
-    "fetched_at": "2026-04-12T16:18:42.453035+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "54403333": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/n-salekar-1460185",
-    "fetched_at": "2026-04-12T16:18:43.946248+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e38e240a": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/nt-rajendran-1480307",
-    "fetched_at": "2026-04-12T16:18:45.646140+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "547408c8": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/nl-smith-1005373",
-    "fetched_at": "2026-04-12T16:18:46.029447+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "d0d9790b": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/nurudeen-ibrahim-1155522",
-    "fetched_at": "2026-04-12T16:18:46.620195+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "a69e2964": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/ojh-webster-520130",
-    "fetched_at": "2026-04-12T16:18:46.953856+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "bc69a6d3": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/pk-ananya-308513",
-    "fetched_at": "2026-04-12T16:18:47.337626+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "22fb205e": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/praveen-santhanakrishnan-1403961",
-    "fetched_at": "2026-04-12T16:18:47.554227+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "eac5f67f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/ravinder-gill-1493472",
-    "fetched_at": "2026-04-12T16:18:48.409705+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "c443b748": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/rahel-khan-1046655",
-    "fetched_at": "2026-04-12T16:18:48.760926+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "dbaaad11": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/rizwan-zahoor-1441579",
-    "fetched_at": "2026-04-12T16:18:49.832045+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "06b766f4": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/r-francis-1163183",
-    "fetched_at": "2026-04-12T16:18:50.138494+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "4fc115af": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/rj-pierre-1155603",
-    "fetched_at": "2026-04-12T16:18:50.707569+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "402ea377": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/ronitkumar-ahir-1403970",
-    "fetched_at": "2026-04-12T16:18:50.889311+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "83f68e06": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/sar-hashimi-1403928",
-    "fetched_at": "2026-04-12T16:18:52.671989+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "4cc59a40": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/said-hakim-1101862",
-    "fetched_at": "2026-04-12T16:18:53.110232+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "6876264c": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/santiago-duggan-1403059",
-    "fetched_at": "2026-04-12T16:18:53.206331+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "4d9dfc7f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-banamali-1418078",
-    "fetched_at": "2026-04-12T16:18:53.313885+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "4040951f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-crowie-1163175",
-    "fetched_at": "2026-04-12T16:18:54.658920+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "268ec1d6": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-bogdos-469224",
-    "fetched_at": "2026-04-12T16:18:55.300206+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "8b6aebf7": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/sf-nhavotso-1155506",
-    "fetched_at": "2026-04-12T16:18:55.474891+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "11174f6d": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-gasteratos-469226",
-    "fetched_at": "2026-04-12T16:18:56.183013+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b70ec03e": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-gulecha-1471900",
-    "fetched_at": "2026-04-12T16:18:56.469054+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "43f3c050": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/shahzeb-choudhry-1046653",
-    "fetched_at": "2026-04-12T16:18:56.957433+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "2dd90a40": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/shujaat-rasool-1525769",
-    "fetched_at": "2026-04-12T16:18:58.028565+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "a127e6f5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/shenjian-zheng-1420901",
-    "fetched_at": "2026-04-12T16:18:58.800047+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "1fbc10cd": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-kruger-1463089",
-    "fetched_at": "2026-04-12T16:18:59.081065+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "167b3c71": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/simon-shalders-1403941",
-    "fetched_at": "2026-04-12T16:18:59.881190+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "69997d9d": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-sankar-1460190",
-    "fetched_at": "2026-04-12T16:18:59.978281+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "f70f8dbb": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-selvaraj-1472222",
-    "fetched_at": "2026-04-12T16:19:00.986809+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "6798b28e": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/sumit-singh-1376779",
-    "fetched_at": "2026-04-12T16:19:01.470794+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "50955fee": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/syed-tameem-1167794",
-    "fetched_at": "2026-04-12T16:19:01.799304+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e4bc45e0": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/t-brown-364120",
-    "fetched_at": "2026-04-12T16:19:02.875926+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "b794a78d": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/t-sandeep-585555",
-    "fetched_at": "2026-04-12T16:19:03.502040+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "80ba2fe8": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/uala-taitoe-kaisala-581605",
-    "fetched_at": "2026-04-12T16:19:03.588759+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "e41dee27": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/w-maximo-1382062",
-    "fetched_at": "2026-04-12T16:19:04.646787+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "45a34a2d": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/vd-adewoye-1143136",
-    "fetched_at": "2026-04-12T16:19:05.040320+00:00",
-    "fetch_error": "all_sources_empty"
-  },
-  "990f1424": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/yp-dayal-581607",
-    "fetched_at": "2026-04-12T16:19:05.798469+00:00",
-    "fetch_error": "all_sources_empty"
   },
   "92aaa31d": {
     "batting_style": "Right-hand bat",
@@ -28782,14 +28042,6 @@
     "espn_display_name": "Jayden Richard Lennox",
     "fetched_at": "2026-06-16T19:59:04.595940+00:00"
   },
-  "bb20441f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/h-dhami-1248189",
-    "fetched_at": "2026-06-16T19:59:04.647722+00:00",
-    "fetch_error": "all_sources_empty"
-  },
   "4f1d3f68": {
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
@@ -28805,14 +28057,6 @@
     "source_url": "https://www.espncricinfo.com/cricketers/kaif-jamadar-1534330",
     "espn_display_name": "Kaif Jamadar",
     "fetched_at": "2026-06-16T19:59:05.658936+00:00"
-  },
-  "aa6c2fbf": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/j-shields-1534354",
-    "fetched_at": "2026-06-16T19:59:06.136397+00:00",
-    "fetch_error": "all_sources_empty"
   },
   "a3690f55": {
     "batting_style": "Right-hand bat",
@@ -29198,14 +28442,6 @@
     "espn_display_name": "Shuaib Ismail Al Balushi",
     "fetched_at": "2026-06-16T19:59:36.321609+00:00"
   },
-  "0faa702f": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/shiva-mani-1441578",
-    "fetched_at": "2026-06-16T19:59:37.592289+00:00",
-    "fetch_error": "all_sources_empty"
-  },
   "8ed6b6f1": {
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm medium-fast",
@@ -29213,14 +28449,6 @@
     "source_url": "https://www.espncricinfo.com/cricketers/shahir-malikzai-1534336",
     "espn_display_name": "Shahir Malikzai",
     "fetched_at": "2026-06-16T19:59:38.461319+00:00"
-  },
-  "c93cc167": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/s-makalo-1539188",
-    "fetched_at": "2026-06-16T19:59:38.482257+00:00",
-    "fetch_error": "all_sources_empty"
   },
   "e3f77d5d": {
     "batting_style": "Right-hand bat",
@@ -29342,14 +28570,6 @@
     "espn_display_name": "Muhammad Yudha Verdian",
     "fetched_at": "2026-06-16T19:59:48.212227+00:00"
   },
-  "e8550df5": {
-    "batting_style": null,
-    "bowling_style": null,
-    "role": null,
-    "source_url": "https://www.espncricinfo.com/cricketers/zahidullah-kamal-520036",
-    "fetched_at": "2026-06-16T19:59:48.725950+00:00",
-    "fetch_error": "all_sources_empty"
-  },
   "76e1f6eb": {
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm medium",
@@ -29381,5 +28601,1693 @@
     "source_url": "https://www.espncricinfo.com/cricketers/zubair-al-balushi-1537907",
     "espn_display_name": "Zubair Al Balushi",
     "fetched_at": "2026-06-16T19:59:50.624880+00:00"
+  },
+  "13d3e7d8": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abidullah-kotwa-1543032",
+    "espn_display_name": "Abidullah Kotwa",
+    "fetched_at": "2026-10-24T09:06:41.330258+00:00"
+  },
+  "b9317f7a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ahil-amburose-1540559",
+    "espn_display_name": "Ahil Amburose",
+    "fetched_at": "2026-10-24T09:06:41.597760+00:00"
+  },
+  "62a99934": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/abdul-gaffar-saqlain-1182029",
+    "espn_display_name": "Abdul Gaffar Saqlain",
+    "fetched_at": "2026-10-24T09:06:42.187161+00:00"
+  },
+  "c266599c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/azizjon-khasanov-1541830",
+    "espn_display_name": "Azizjon Khasanov",
+    "fetched_at": "2026-10-24T09:06:42.476758+00:00"
+  },
+  "6da5685e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aarkin-kesar-1542290",
+    "espn_display_name": "Aarkin Kesar",
+    "fetched_at": "2026-10-24T09:06:43.308154+00:00"
+  },
+  "93883b6a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/amirxon-khakimov-1541842",
+    "espn_display_name": "Amirxon Khakimov",
+    "fetched_at": "2026-10-24T09:06:43.327234+00:00"
+  },
+  "19a51d59": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/asadbek-musaev-1541843",
+    "espn_display_name": "Asadbek Musaev",
+    "fetched_at": "2026-10-24T09:06:44.070199+00:00"
+  },
+  "a9516320": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/alexander-hillman-1544580",
+    "espn_display_name": "Alexander Hillman",
+    "fetched_at": "2026-10-24T09:06:44.948338+00:00"
+  },
+  "98062446": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/anthony-hillman-1544579",
+    "espn_display_name": "Anthony Hillman",
+    "fetched_at": "2026-10-24T09:06:47.030803+00:00"
+  },
+  "71b7b75a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/asghar-ali-khan-1542963",
+    "espn_display_name": "Asghar Ali Khan",
+    "fetched_at": "2026-10-24T09:06:47.908608+00:00"
+  },
+  "c9835e0a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aruesanan-wichakam-1540861",
+    "espn_display_name": "Aruesanan Wichakam",
+    "fetched_at": "2026-10-24T09:06:48.267949+00:00"
+  },
+  "7a6a9ae9": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/dinesh-kannan-raman-1541378",
+    "espn_display_name": "Dinesh Kannan Raman",
+    "fetched_at": "2026-10-24T09:06:48.524089+00:00"
+  },
+  "f9260467": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/dheeraj-gaikwad-1500567",
+    "espn_display_name": "Dheeraj Gaikwad",
+    "fetched_at": "2026-10-24T09:06:48.581190+00:00"
+  },
+  "32009b6a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/furkan-tuskan-1544569",
+    "espn_display_name": "Furkan Tuskan",
+    "fetched_at": "2026-10-24T09:06:49.280415+00:00"
+  },
+  "beafdac1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/golib-tuychiev-1541831",
+    "espn_display_name": "Golib Tuychiev",
+    "fetched_at": "2026-10-24T09:06:50.090318+00:00"
+  },
+  "17530fd9": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/gregory-irving-460176",
+    "espn_display_name": "Gregory Irving",
+    "fetched_at": "2026-10-24T09:06:50.277127+00:00"
+  },
+  "bf06337d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/greg-scott-1540570",
+    "espn_display_name": "Greg Scott",
+    "fetched_at": "2026-10-24T09:06:50.781830+00:00"
+  },
+  "eb45b187": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/javohir-mustafoev-1541832",
+    "espn_display_name": "Javohir Mustafoev",
+    "fetched_at": "2026-10-24T09:06:52.603858+00:00"
+  },
+  "967801f4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/isaiah-obrien-1541932",
+    "espn_display_name": "Isaiah O'Brien",
+    "fetched_at": "2026-10-24T09:06:53.218498+00:00"
+  },
+  "877ad201": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hayatullah-niazi-1153779",
+    "espn_display_name": "Hayatullah Niazi",
+    "fetched_at": "2026-10-24T09:06:53.345454+00:00"
+  },
+  "aa45ea62": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Batting allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/hafeez-khan-1276117",
+    "espn_display_name": "Hafeez Khan",
+    "fetched_at": "2026-10-24T09:06:53.352543+00:00"
+  },
+  "021ac4dd": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/harri-aggarwal-1544589",
+    "espn_display_name": "Harri Aggarwal",
+    "fetched_at": "2026-10-24T09:06:53.492009+00:00"
+  },
+  "f31740ce": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/henri-pattenden-1496500",
+    "espn_display_name": "Henri Pattenden",
+    "fetched_at": "2026-10-24T09:06:53.553079+00:00"
+  },
+  "02fe46ca": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jabran-khan-1489799",
+    "espn_display_name": "Jabran Khan",
+    "fetched_at": "2026-10-24T09:06:54.275110+00:00"
+  },
+  "5cdf8304": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/joel-derek-davies-1295851",
+    "espn_display_name": "Joel Derek Davies",
+    "fetched_at": "2026-10-24T09:06:55.333440+00:00"
+  },
+  "96a6ce8e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jamal-stanikzai-1541239",
+    "espn_display_name": "Jamal Stanikzai",
+    "fetched_at": "2026-10-24T09:06:56.588624+00:00"
+  },
+  "79c2f9bf": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jatin-madan-1542962",
+    "espn_display_name": "Jatin Madan",
+    "fetched_at": "2026-10-24T09:06:56.711598+00:00"
+  },
+  "1f1b4c89": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/joshua-charles-tongue-857975",
+    "espn_display_name": "Joshua Charles Tongue",
+    "fetched_at": "2026-10-24T09:06:57.257879+00:00"
+  },
+  "3bea7ea9": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/jai-moondra-1448923",
+    "espn_display_name": "Jai Moondra",
+    "fetched_at": "2026-10-24T09:06:57.686839+00:00"
+  },
+  "0f3e4716": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jordan-pereira-netto-1543715",
+    "espn_display_name": "Jordan Pereira Netto",
+    "fetched_at": "2026-10-24T09:06:58.597879+00:00"
+  },
+  "d22960d9": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/joseph-raymond-cope-1542965",
+    "espn_display_name": "Joseph Raymond Cope",
+    "fetched_at": "2026-10-24T09:06:58.862682+00:00"
+  },
+  "c41ad06b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": "Allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/junior-taanyanda-1542041",
+    "espn_display_name": "Junior Taanyanda",
+    "fetched_at": "2026-10-24T09:06:59.514358+00:00"
+  },
+  "bf0e0601": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/joshua-william-peter-stephan-1540817",
+    "espn_display_name": "Joshua William Peter Stephan",
+    "fetched_at": "2026-10-24T09:06:59.623747+00:00"
+  },
+  "e29f78ec": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kenthon-moses-1540569",
+    "espn_display_name": "Kenthon Moses",
+    "fetched_at": "2026-10-24T09:07:00.624815+00:00"
+  },
+  "3dfbf6f1": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kenroy-bevans-1542419",
+    "espn_display_name": "Kenroy Bevans",
+    "fetched_at": "2026-10-24T09:07:00.644314+00:00"
+  },
+  "78b18572": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kamron-xolmuradov-1541833",
+    "espn_display_name": "Kamron Xolmuradov",
+    "fetched_at": "2026-10-24T09:07:02.159843+00:00"
+  },
+  "16d43e12": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/luke-horan-1541933",
+    "espn_display_name": "Luke Horan",
+    "fetched_at": "2026-10-24T09:07:02.390756+00:00"
+  },
+  "ea926d4f": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/leo-bloomfield-1500571",
+    "espn_display_name": "Leo Bloomfield",
+    "fetched_at": "2026-10-24T09:07:02.807540+00:00"
+  },
+  "d33fce1b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/luqman-hussan-1541834",
+    "espn_display_name": "Luqman Hussan",
+    "fetched_at": "2026-10-24T09:07:03.288456+00:00"
+  },
+  "9b95bb87": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/leon-mcfadzean-1543308",
+    "espn_display_name": "Leon Mcfadzean",
+    "fetched_at": "2026-10-24T09:07:04.095452+00:00"
+  },
+  "3e331df6": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/matthew-walker-1544583",
+    "espn_display_name": "Matthew Walker",
+    "fetched_at": "2026-10-24T09:07:04.155547+00:00"
+  },
+  "b2e15fa9": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mertcan-filiz-1544572",
+    "espn_display_name": "Mertcan Filiz",
+    "fetched_at": "2026-10-24T09:07:05.574749+00:00"
+  },
+  "a06c81fd": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/maaz-bhaiji-1204214",
+    "espn_display_name": "Maaz Bhaiji",
+    "fetched_at": "2026-10-24T09:07:05.807806+00:00"
+  },
+  "fb5a5fe3": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mertcan-donmez-1544571",
+    "espn_display_name": "Mertcan Donmez",
+    "fetched_at": "2026-10-24T09:07:06.339168+00:00"
+  },
+  "71f436db": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohamed-roshan-1544581",
+    "espn_display_name": "Mohamed Roshan",
+    "fetched_at": "2026-10-24T09:07:08.224688+00:00"
+  },
+  "a5e1e2d4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-soban-1500572",
+    "espn_display_name": "Muhammad Soban",
+    "fetched_at": "2026-10-24T09:07:09.397594+00:00"
+  },
+  "966b2677": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mustakim-aslam-1438290",
+    "espn_display_name": "Mustakim Aslam",
+    "fetched_at": "2026-10-24T09:07:09.767872+00:00"
+  },
+  "95b5bda3": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/matthew-kyle-hollard-1490554",
+    "espn_display_name": "Matthew Kyle Hollard",
+    "fetched_at": "2026-10-24T09:07:10.822545+00:00"
+  },
+  "7a805b4c": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nzari-isaiah-ashton-foggo-paynter-1111477",
+    "espn_display_name": "Nzari Isaiah Ashton Foggo Paynter",
+    "fetched_at": "2026-10-24T09:07:11.246219+00:00"
+  },
+  "f4e3d407": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nikhil-1541836",
+    "espn_display_name": "Nikhil",
+    "fetched_at": "2026-10-24T09:07:11.584327+00:00"
+  },
+  "e8e701f4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/naim-stanikzai-1541240",
+    "espn_display_name": "Naim Stanikzai",
+    "fetched_at": "2026-10-24T09:07:11.615024+00:00"
+  },
+  "d62811d2": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/orville-howell-1540560",
+    "espn_display_name": "Orville Howell",
+    "fetched_at": "2026-10-24T09:07:13.204721+00:00"
+  },
+  "1f84183a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "role": "Batting allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/nikhil-chaudhary-1079380",
+    "espn_display_name": "Nikhil Chaudhary",
+    "fetched_at": "2026-10-24T09:07:13.377179+00:00"
+  },
+  "6b7a90f5": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nicholas-sonne-rudd-1544578",
+    "espn_display_name": "Nicholas Sonne-Rudd",
+    "fetched_at": "2026-10-24T09:07:14.060242+00:00"
+  },
+  "c9a05046": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/omer-kutuk-1544573",
+    "espn_display_name": "Omer Kutuk",
+    "fetched_at": "2026-10-24T09:07:15.456348+00:00"
+  },
+  "41e04234": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/oybek-qudratov-1541837",
+    "espn_display_name": "Oybek Qudratov",
+    "fetched_at": "2026-10-24T09:07:15.879211+00:00"
+  },
+  "0f61aa94": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/phatummakan-donkaew-1540489",
+    "espn_display_name": "Phatummakan Donkaew",
+    "fetched_at": "2026-10-24T09:07:15.970177+00:00"
+  },
+  "b2930573": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/omid-rahimi-1318871",
+    "espn_display_name": "Omid Rahimi",
+    "fetched_at": "2026-10-24T09:07:17.494974+00:00"
+  },
+  "86e612f2": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rohan-aggarwal-1544588",
+    "espn_display_name": "Rohan Aggarwal",
+    "fetched_at": "2026-10-24T09:07:17.845749+00:00"
+  },
+  "f52961ea": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/pattarapol-jirapatananukul-1541242",
+    "espn_display_name": "Pattarapol Jirapatananukul",
+    "fetched_at": "2026-10-24T09:07:18.072137+00:00"
+  },
+  "4844672e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/raheel-thakkar-1542288",
+    "espn_display_name": "Raheel Thakkar",
+    "fetched_at": "2026-10-24T09:07:18.566137+00:00"
+  },
+  "80b2fb19": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/prince-yadav-1350768",
+    "espn_display_name": "Prince Yadav",
+    "fetched_at": "2026-10-24T09:07:18.986758+00:00"
+  },
+  "4ee38eae": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/raihan-stanikzai-1541241",
+    "espn_display_name": "Raihan Stanikzai",
+    "fetched_at": "2026-10-24T09:07:19.008867+00:00"
+  },
+  "d6c3432e": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/roy-broaster-1540562",
+    "espn_display_name": "Roy Broaster",
+    "fetched_at": "2026-10-24T09:07:21.018852+00:00"
+  },
+  "1eaac48d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rashid-khan-1498680",
+    "espn_display_name": "Rashid Khan",
+    "fetched_at": "2026-10-24T09:07:21.307981+00:00"
+  },
+  "75855e23": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohammad-ratul-khan-990151",
+    "espn_display_name": "Mohammad Ratul Khan",
+    "fetched_at": "2026-10-24T09:07:21.396287+00:00"
+  },
+  "2bb515cb": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/reshjgesh-jeyakumar-1542003",
+    "espn_display_name": "Reshjgesh Jeyakumar",
+    "fetched_at": "2026-10-24T09:07:22.320738+00:00"
+  },
+  "02d59576": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/risdon-smith-1542420",
+    "espn_display_name": "Risdon Smith",
+    "fetched_at": "2026-10-24T09:07:24.107443+00:00"
+  },
+  "f456ad17": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/riaan-rohan-naik-1458470",
+    "espn_display_name": "Riaan Rohan Naik",
+    "fetched_at": "2026-10-24T09:07:24.289258+00:00"
+  },
+  "a1cbdeeb": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rohit-sharma-1542004",
+    "espn_display_name": "Rohit Sharma",
+    "fetched_at": "2026-10-24T09:07:24.299250+00:00"
+  },
+  "8a3dd116": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sahil-tarakhil-1497609",
+    "espn_display_name": "Sahil Tarakhil",
+    "fetched_at": "2026-10-24T09:07:25.001969+00:00"
+  },
+  "44756879": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/saif-ullah-1541838",
+    "espn_display_name": "Saif Ullah",
+    "fetched_at": "2026-10-24T09:07:25.400573+00:00"
+  },
+  "7babb041": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sagar-kumar-ahir-1540561",
+    "espn_display_name": "Sagar Kumar Ahir",
+    "fetched_at": "2026-10-24T09:07:25.860930+00:00"
+  },
+  "906bc22b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/saqlain-saqib-mukhtar-1542968",
+    "espn_display_name": "Saqlain Saqib Mukhtar",
+    "fetched_at": "2026-10-24T09:07:27.360793+00:00"
+  },
+  "91ae10e1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sebastian-cruz-de-oliveira-1213509",
+    "espn_display_name": "Sebastian Cruz de Oliveira",
+    "fetched_at": "2026-10-24T09:07:27.615724+00:00"
+  },
+  "78df631a": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shawn-fowler-1489667",
+    "espn_display_name": "Shawn Fowler",
+    "fetched_at": "2026-10-24T09:07:28.418731+00:00"
+  },
+  "884905a1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sebastian-heath-1489800",
+    "espn_display_name": "Sebastian Heath",
+    "fetched_at": "2026-10-24T09:07:29.367814+00:00"
+  },
+  "a6941f24": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shermukhammad-shermatov-1541839",
+    "espn_display_name": "Shermukhammad Shermatov",
+    "fetched_at": "2026-10-24T09:07:29.887303+00:00"
+  },
+  "51f56fdb": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/simon-sorensen-1387432",
+    "espn_display_name": "Simon Sorensen",
+    "fetched_at": "2026-10-24T09:07:30.018844+00:00"
+  },
+  "7c05b23d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/syed-ahzamul-haq-1541840",
+    "espn_display_name": "Syed Ahzamul Haq",
+    "fetched_at": "2026-10-24T09:07:31.550024+00:00"
+  },
+  "970ddd24": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": "Batting allrounder",
+    "source_url": "https://www.espncricinfo.com/cricketers/suryansh-shedge-1339698",
+    "espn_display_name": "Suryansh Shedge",
+    "fetched_at": "2026-10-24T09:07:31.909287+00:00"
+  },
+  "c97539e6": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ulugbek-tuychiev-1541841",
+    "espn_display_name": "Ulugbek Tuychiev",
+    "fetched_at": "2026-10-24T09:07:32.397924+00:00"
+  },
+  "470f446b": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "role": "Top-order batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/vaibhav-sooryavanshi-1408688",
+    "espn_display_name": "Vaibhav Sooryavanshi",
+    "fetched_at": "2026-10-24T09:07:32.881321+00:00"
+  },
+  "e1ddd62d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zoltan-marosy-1500568",
+    "espn_display_name": "Zoltan Marosy",
+    "fetched_at": "2026-10-24T09:07:34.939461+00:00"
+  },
+  "a5526c87": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/alieu-gibba-1558315",
+    "espn_display_name": "Alieu Gibba",
+    "fetched_at": "2026-10-29T05:55:06.517236+00:00"
+  },
+  "c593fbb3": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/anas-baig-1495159",
+    "espn_display_name": "Anas Baig",
+    "fetched_at": "2026-10-29T05:55:08.900879+00:00"
+  },
+  "55ac7803": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/chimya-chilekwa-1558713",
+    "espn_display_name": "Chimya Chilekwa",
+    "fetched_at": "2026-10-29T05:55:16.717589+00:00"
+  },
+  "7b2b4e29": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/charles-musemez-1552560",
+    "espn_display_name": "Charles Musemez",
+    "fetched_at": "2026-10-29T05:55:16.889024+00:00"
+  },
+  "2c8d5886": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/david-demba-1411920",
+    "espn_display_name": "David Demba",
+    "fetched_at": "2026-10-29T05:55:18.427931+00:00"
+  },
+  "67e21230": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/enock-kasaija-925651",
+    "espn_display_name": "Enock Kasaija",
+    "fetched_at": "2026-10-29T05:55:22.567155+00:00"
+  },
+  "d967b264": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jabulani-matjatje-1539187",
+    "espn_display_name": "Jabulani Matjatje",
+    "fetched_at": "2026-10-29T05:55:32.526925+00:00"
+  },
+  "ed4591ae": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/joshep-zulu-1549436",
+    "espn_display_name": "Joshep Zulu",
+    "fetched_at": "2026-10-29T05:55:36.430486+00:00"
+  },
+  "807b75bb": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/malang-touray-1558317",
+    "espn_display_name": "Malang Touray",
+    "fetched_at": "2026-10-29T05:55:40.815278+00:00"
+  },
+  "8e6b7996": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": "Bowler",
+    "source_url": "https://www.espncricinfo.com/cricketers/mohmed-duvesh-patel-1559228",
+    "espn_display_name": "Mohmed Duvesh Patel",
+    "fetched_at": "2026-10-29T05:55:43.396258+00:00"
+  },
+  "3ff0707e": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/miguel-silva-1542781",
+    "espn_display_name": "Miguel Silva",
+    "fetched_at": "2026-10-29T05:55:45.703623+00:00"
+  },
+  "0fce11e1": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/milan-janicijevic-1542970",
+    "espn_display_name": "Milan Janicijevic",
+    "fetched_at": "2026-10-29T05:55:46.709645+00:00"
+  },
+  "fffa744b": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": "Middle-order batter",
+    "source_url": "https://www.espncricinfo.com/cricketers/naman-dhir-1287032",
+    "espn_display_name": "Naman Dhir",
+    "fetched_at": "2026-10-29T05:55:53.502646+00:00"
+  },
+  "ccd6b379": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/olipa-gerald-1549137",
+    "espn_display_name": "Olipa Gerald",
+    "fetched_at": "2026-10-29T05:55:56.489781+00:00"
+  },
+  "58984fd0": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/pa-assan-faye-1143274",
+    "espn_display_name": "Pa Assan Faye",
+    "fetched_at": "2026-10-29T05:55:57.856446+00:00"
+  },
+  "67d0ca6d": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/robert-lungu-1440947",
+    "espn_display_name": "Robert Lungu",
+    "fetched_at": "2026-10-29T05:56:03.813453+00:00"
+  },
+  "a20e61b2": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shadreck-malama-1440957",
+    "espn_display_name": "Shadreck Malama",
+    "fetched_at": "2026-10-29T05:56:08.430821+00:00"
+  },
+  "e3806aca": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/tayshaun-moses-1540567",
+    "espn_display_name": "Tayshaun Moses",
+    "fetched_at": "2026-10-29T05:56:18.812835+00:00"
+  },
+  "7a7bc7a4": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/vasmiakram-chand-1442118",
+    "espn_display_name": "Vasmiakram Chand",
+    "fetched_at": "2026-10-29T05:56:19.587644+00:00"
+  },
+  "c9a38569": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zakir-husain-patel-1442120",
+    "espn_display_name": "Zakir Husain Patel",
+    "fetched_at": "2026-10-29T05:56:23.660063+00:00"
+  },
+  "acfd7188": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zahirbhai-mustakali-umarji-patel-1558715",
+    "espn_display_name": "Zahirbhai Mustakali Umarji Patel",
+    "fetched_at": "2026-10-29T05:56:24.528909+00:00"
+  },
+  "25f430aa": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-zain-amir-1541835",
+    "espn_display_name": "Muhammad Zain Amir",
+    "fetched_at": "2026-10-29T05:56:25.029744+00:00"
+  },
+  "797f52cc": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aahan-achar-973793",
+    "fetched_at": "2026-10-29T05:57:20.225280+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "719ac15b": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aa-senn-256969",
+    "fetched_at": "2026-10-29T05:57:20.736211+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "0cfb42b5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/abdul-majid-abbasi-1361960",
+    "fetched_at": "2026-10-29T05:57:20.982851+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "d68f4aa1": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aj-michael-1155251",
+    "fetched_at": "2026-10-29T05:57:21.954605+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "9d0344f3": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/akif-raja-1281546",
+    "fetched_at": "2026-10-29T05:57:22.478771+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "fe0b3bdf": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/a-langham-1163181",
+    "fetched_at": "2026-10-29T05:57:23.131300+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e214be36": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/alfredo-esteban-valdes-puentes-1403943",
+    "fetched_at": "2026-10-29T05:57:23.777883+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b9b194d6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/altaf-gill-1167324",
+    "fetched_at": "2026-10-29T05:57:24.472747+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b672e825": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/a-manousis-520081",
+    "fetched_at": "2026-10-29T05:57:25.169512+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "140ac7ad": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/amari-ebbin-1320354",
+    "fetched_at": "2026-10-29T05:57:25.791170+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "0dcd8fbd": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/anthony-glynn-roe-1403940",
+    "fetched_at": "2026-10-29T05:57:26.298900+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "3f4456f5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/aqm-yako-1425077",
+    "fetched_at": "2026-10-29T05:57:27.409968+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "231daa19": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/asif-shaikh-1471156",
+    "fetched_at": "2026-10-29T05:57:28.029731+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "71b1e668": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/assad-mehmood-1204647",
+    "fetched_at": "2026-10-29T05:57:28.377272+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "99bf1fb7": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/a-yon-1163186",
+    "fetched_at": "2026-10-29T05:57:29.454439+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "ff1e08eb": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/azam-khalil-515185",
+    "fetched_at": "2026-10-29T05:57:30.116337+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "30c917bf": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/av-lazarus-1418085",
+    "fetched_at": "2026-10-29T05:57:30.165599+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "0e102c3b": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/baa-zammitt-303936",
+    "fetched_at": "2026-10-29T05:57:31.025285+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "35cfc769": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/benjamin-figueroa-constanzo-1403935",
+    "fetched_at": "2026-10-29T05:57:31.622558+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "2c14421f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/b-isaac-1163190",
+    "fetched_at": "2026-10-29T05:57:31.883466+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "063d0e83": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/b-jaye-1155635",
+    "fetched_at": "2026-10-29T05:57:32.532067+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "740a5494": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/branden-leo-1163187",
+    "fetched_at": "2026-10-29T05:57:33.275243+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4e1b7998": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/chare-smith-1144659",
+    "fetched_at": "2026-10-29T05:57:33.895830+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "d92d4f5e": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/choudhry-md-imran-1418073",
+    "fetched_at": "2026-10-29T05:57:34.826587+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "6cd74704": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/dharmendra-manani-1236494",
+    "fetched_at": "2026-10-29T05:57:35.129140+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "fa83d1b6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/d-svilicic-580999",
+    "fetched_at": "2026-10-29T05:57:35.672734+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "5d9d83e6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/david-young-1163092",
+    "fetched_at": "2026-10-29T05:57:36.844952+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "41acc8bf": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/e-kahamker-1046629",
+    "fetched_at": "2026-10-29T05:57:37.326383+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e85bb4b3": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/fanyan-mughal-492687",
+    "fetched_at": "2026-10-29T05:57:37.862742+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "21b67523": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/f-mutua-1178071",
+    "fetched_at": "2026-10-29T05:57:38.440924+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "61763f48": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/franz-bur-1076538",
+    "fetched_at": "2026-10-29T05:57:39.279234+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "ceec82cd": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/g-johnson-1163180",
+    "fetched_at": "2026-10-29T05:57:40.086581+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b67bfbf8": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hk-kukreja-1471899",
+    "fetched_at": "2026-10-29T05:57:41.379616+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "a0a32dd1": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/imran-khan-1204641",
+    "fetched_at": "2026-10-29T05:57:41.950431+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "5a719b87": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jf-chester-1163167",
+    "fetched_at": "2026-10-29T05:57:43.049170+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "68e7e8d5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/j-henry-1163179",
+    "fetched_at": "2026-10-29T05:57:43.897043+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "f58295c2": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jm-iradukunda-1155600",
+    "fetched_at": "2026-10-29T05:57:44.457971+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "bb20441f": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/hemant-dhami-1248189",
+    "espn_display_name": "Hemant Dhami",
+    "fetched_at": "2026-10-29T05:57:44.477484+00:00"
+  },
+  "945f5357": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jn-du-plooy-1252362",
+    "fetched_at": "2026-10-29T05:57:44.833988+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "abee08c7": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/jo-adedeji-623893",
+    "fetched_at": "2026-10-29T05:57:45.453868+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "d0e2e8ea": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/h-niaz-525042",
+    "fetched_at": "2026-10-29T05:57:45.875088+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "a14b3bc0": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/kawsar-khan-1403925",
+    "fetched_at": "2026-10-29T05:57:46.821882+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "0a92f0e2": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ismail-kara-1549437",
+    "espn_display_name": "Ismail Kara",
+    "fetched_at": "2026-10-29T05:57:46.938604+00:00"
+  },
+  "a2dd9236": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/k-cawte-1046719",
+    "fetched_at": "2026-10-29T05:57:47.279397+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "5c93efb1": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/khalid-zahid-1156608",
+    "fetched_at": "2026-10-29T05:57:47.827357+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "177009a5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/la-collado-572235",
+    "fetched_at": "2026-10-29T05:57:48.448537+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "f6411545": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/lf-muller-1403924",
+    "fetched_at": "2026-10-29T05:57:49.175060+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e41c8d4c": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ma-ntobela-1425075",
+    "fetched_at": "2026-10-29T05:57:50.135227+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "aa6c2fbf": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/j-shields-1534354",
+    "fetched_at": "2026-10-29T05:57:50.234938+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "f0fbdf0a": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mario-andres-pavez-ovalle-1403939",
+    "fetched_at": "2026-10-29T05:57:50.803085+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "8a22e5f0": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/m-badenhorst-585160",
+    "fetched_at": "2026-10-29T05:57:52.461351+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b18ba97a": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/m-joseph-1407142",
+    "fetched_at": "2026-10-29T05:57:52.664889+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "c6889eb6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/m-kasselman-1255249",
+    "fetched_at": "2026-10-29T05:57:53.315167+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "d8e48e1b": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mfi-assuncao-1403926",
+    "fetched_at": "2026-10-29T05:57:54.699302+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "2d9451cc": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mk-thakur-1418086",
+    "fetched_at": "2026-10-29T05:57:54.759041+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "9818cc88": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/m-kyriacou-520026",
+    "fetched_at": "2026-10-29T05:57:55.345715+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "13501ff4": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mohamed-khan-1089826",
+    "fetched_at": "2026-10-29T05:57:55.701359+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "57888f3c": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-yasin-1343573",
+    "fetched_at": "2026-10-29T05:57:56.518764+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "6d5e66b1": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/muhammad-zafar-khan-1151266",
+    "fetched_at": "2026-10-29T05:57:57.385374+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "1e50426a": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/m-kristensen-1036595",
+    "fetched_at": "2026-10-29T05:57:58.003037+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "c44bf6a2": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/mukesh-singh-1403966",
+    "fetched_at": "2026-10-29T05:57:58.357655+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "58aa33cd": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/najjam-shahzad-1204631",
+    "fetched_at": "2026-10-29T05:57:58.696912+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "020f24d6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nja-smith-522836",
+    "fetched_at": "2026-10-29T05:57:59.147404+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "547408c8": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nl-smith-1005373",
+    "fetched_at": "2026-10-29T05:58:00.074947+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e38e240a": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nt-rajendran-1480307",
+    "fetched_at": "2026-10-29T05:58:01.557451+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "d0d9790b": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/nurudeen-ibrahim-1155522",
+    "fetched_at": "2026-10-29T05:58:01.711305+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "a69e2964": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ojh-webster-520130",
+    "fetched_at": "2026-10-29T05:58:02.537573+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "bc69a6d3": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/pk-ananya-308513",
+    "fetched_at": "2026-10-29T05:58:03.147260+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "22fb205e": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/praveen-santhanakrishnan-1403961",
+    "fetched_at": "2026-10-29T05:58:04.261883+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "54403333": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/n-salekar-1460185",
+    "fetched_at": "2026-10-29T05:58:05.137962+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "eac5f67f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ravinder-gill-1493472",
+    "fetched_at": "2026-10-29T05:58:05.845012+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "c443b748": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rahel-khan-1046655",
+    "fetched_at": "2026-10-29T05:58:06.073797+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "06b766f4": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/r-francis-1163183",
+    "fetched_at": "2026-10-29T05:58:06.292777+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "dbaaad11": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rizwan-zahoor-1441579",
+    "fetched_at": "2026-10-29T05:58:07.227776+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4fc115af": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/rj-pierre-1155603",
+    "fetched_at": "2026-10-29T05:58:07.559627+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "dcc5245d": {
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/pius-oloka-1280692",
+    "espn_display_name": "Pius Oloka",
+    "fetched_at": "2026-10-29T05:58:08.031735+00:00"
+  },
+  "402ea377": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/ronitkumar-ahir-1403970",
+    "fetched_at": "2026-10-29T05:58:08.473989+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4cc59a40": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/said-hakim-1101862",
+    "fetched_at": "2026-10-29T05:58:09.277030+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "6876264c": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/santiago-duggan-1403059",
+    "fetched_at": "2026-10-29T05:58:09.786464+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "83f68e06": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sar-hashimi-1403928",
+    "fetched_at": "2026-10-29T05:58:10.299379+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4d9dfc7f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-banamali-1418078",
+    "fetched_at": "2026-10-29T05:58:10.507722+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "268ec1d6": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-bogdos-469224",
+    "fetched_at": "2026-10-29T05:58:11.460543+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "4040951f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-crowie-1163175",
+    "fetched_at": "2026-10-29T05:58:11.916536+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "11174f6d": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-gasteratos-469226",
+    "fetched_at": "2026-10-29T05:58:13.287915+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "43f3c050": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shahzeb-choudhry-1046653",
+    "fetched_at": "2026-10-29T05:58:14.578183+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b70ec03e": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-gulecha-1471900",
+    "fetched_at": "2026-10-29T05:58:14.851340+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "a127e6f5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shenjian-zheng-1420901",
+    "fetched_at": "2026-10-29T05:58:15.301959+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "167b3c71": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/simon-shalders-1403941",
+    "fetched_at": "2026-10-29T05:58:16.802218+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "8b6aebf7": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sf-nhavotso-1155506",
+    "fetched_at": "2026-10-29T05:58:17.453386+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "69997d9d": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-sankar-1460190",
+    "fetched_at": "2026-10-29T05:58:18.485955+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "f70f8dbb": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-selvaraj-1472222",
+    "fetched_at": "2026-10-29T05:58:18.959446+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "6798b28e": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/sumit-singh-1376779",
+    "fetched_at": "2026-10-29T05:58:19.661364+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "0faa702f": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shiva-mani-1441578",
+    "fetched_at": "2026-10-29T05:58:20.101589+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "2dd90a40": {
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/shujaat-rasool-1525769",
+    "espn_display_name": "Shujaat Rasool",
+    "fetched_at": "2026-10-29T05:58:20.421408+00:00"
+  },
+  "50955fee": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/syed-tameem-1167794",
+    "fetched_at": "2026-10-29T05:58:21.589931+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "80ba2fe8": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/uala-taitoe-kaisala-581605",
+    "fetched_at": "2026-10-29T05:58:21.698110+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "1fbc10cd": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-kruger-1463089",
+    "fetched_at": "2026-10-29T05:58:21.729377+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e4bc45e0": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/t-brown-364120",
+    "fetched_at": "2026-10-29T05:58:22.305122+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "b794a78d": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/t-sandeep-585555",
+    "fetched_at": "2026-10-29T05:58:22.430127+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "c93cc167": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/s-makalo-1539188",
+    "fetched_at": "2026-10-29T05:58:22.502924+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e41dee27": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/w-maximo-1382062",
+    "fetched_at": "2026-10-29T05:58:23.837255+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "45a34a2d": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/vd-adewoye-1143136",
+    "fetched_at": "2026-10-29T05:58:24.467016+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "990f1424": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/yp-dayal-581607",
+    "fetched_at": "2026-10-29T05:58:24.664660+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "e8550df5": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/zahidullah-kamal-520036",
+    "fetched_at": "2026-10-29T05:58:25.177170+00:00",
+    "fetch_error": "all_sources_empty"
+  },
+  "f50c35d2": {
+    "batting_style": null,
+    "bowling_style": null,
+    "role": null,
+    "source_url": "https://www.espncricinfo.com/cricketers/z-tomlinson-1327558",
+    "fetched_at": "2026-10-29T05:58:25.796314+00:00",
+    "fetch_error": "all_sources_empty"
   }
 }

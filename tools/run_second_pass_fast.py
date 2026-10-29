@@ -25,7 +25,7 @@ def main() -> int:
     if rc != 0:
         return rc
 
-    return run([str(PYTHON_EXE), str(ROOT / "tools" / "verify_dashboard_counts.py"), "--expected-players", "3445", "--expected-missing", "70"])
+    return run([str(PYTHON_EXE), str(ROOT / "tools" / "verify_dashboard_counts.py"), "--expected-players", "3653", "--expected-missing", "86"])
 
 
 if __name__ == "__main__":

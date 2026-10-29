@@ -3,7 +3,7 @@
     "description": "Ignored players are tracked separately and excluded from manual override workflow.",
     "editable_scope": "Reference only; these players are ignored based on dashboard classification rules.",
     "seeded_with": "Entries are refreshed from output/dashboard classification during refresh.",
-    "updated_at": "2026-06-16T19:34:53.392740+00:00"
+    "updated_at": "2026-10-29T05:56:29.584451+00:00"
   },
   "players": {
     "c65e0275": {

@@ -26,8 +26,8 @@ A standalone Python pipeline that reads Cricsheet registry files and builds a un
 
 Data paths used:
 
-- Input registry: `data/people.csv` and `data/names.csv`
-- Optional prompt-compatible path: `data/cricsheet/people.csv` and `data/cricsheet/names.csv`
+- Input registry: `data/registry_csv/people.csv` and `data/registry_csv/names.csv`
+- Optional compatibility paths: `data/cricsheet/people.csv` + `data/cricsheet/names.csv`, or `data/people.csv` + `data/names.csv`
 - Raw cache: `data/cache/profiles_raw.json`
 - Manual overrides: `data/manual_overrides.json`
 - Output: `output/player_profiles.json`
@@ -115,8 +115,94 @@ tools\run_second_pass_fast.bat
 Verify dashboard regression snapshot explicitly:
 
 ```powershell
-tools\verify_dashboard_counts.bat --expected-players 3445 --expected-missing 70
+tools\verify_dashboard_counts.bat --expected-players 3653 --expected-missing 106
 ```
+
+## Automated Data Refresh
+
+This is the automation path for both local one-click runs and GitHub scheduled runs.
+
+### Expected inputs
+
+- Register files from Cricsheet:
+  - `https://cricsheet.org/register/people.csv`
+  - `https://cricsheet.org/register/names.csv`
+- Match update zips from Cricsheet downloads:
+  - 2-day: `recently_added_2_male_json.zip`
+  - 7-day: `recently_added_7_male_json.zip`
+- Optional full bootstrap archive:
+  - `t20s_male_json.zip`
+
+### Expected outputs
+
+- Updated register files:
+  - `data/registry_csv/people.csv`
+  - `data/registry_csv/names.csv`
+- Updated match index/cache:
+  - `data/matches_json/*.json` (male `T20`/`IT20` only)
+  - `data/matches_json/README.txt` (compact merged index)
+- Enriched artifacts:
+  - `output/player_profiles.json`
+  - `output/dashboard_data.json`
+  - `output/dashboard.html`
+
+### One-click local scripts
+
+All scripts are in `tools/` and can be double-clicked from Explorer or run in terminal.
+
+- `tools\run_auto_2d.bat`: refresh 2-day feed + run pipeline
+- `tools\run_auto_7d.bat`: refresh 7-day feed + run pipeline
+- `tools\run_auto_complete.bat`: full archive refresh + run pipeline
+- `tools\run_auto_update_only_2d.bat`: refresh 2-day feed only (no pipeline)
+- `tools\run_auto_update_only_7d.bat`: refresh 7-day feed only (no pipeline)
+- `tools\run_auto_full_clean.bat`: delete runtime artifacts, rebuild from full archive, run pipeline
+
+Advanced flags can be passed through each script (for example `--workers 8` or `--no-fetch`).
+
+### Core updater behavior
+
+`tools/update_cricsheet_inputs.py` does the following:
+
+1. Downloads register CSVs.
+2. Downloads requested zip (`2-day`, `7-day`, or `full-archive`).
+3. Parses zip `README.txt`.
+4. Selects only male `T20`/`IT20` match IDs.
+5. Extracts only selected JSON files.
+6. Merges/updates compact `data/matches_json/README.txt`.
+7. Produces optional machine-readable delta summary (`--summary-json`).
+
+If `data/matches_json` is empty, it automatically bootstraps from `t20s_male_json.zip` unless `--no-bootstrap` is used.
+
+### GitHub automation (2-step schedule)
+
+Workflow: `.github/workflows/enrich-players.yml`
+
+- Step 1 schedule: every 2 days -> downloads 2-day feed.
+- Step 2 schedule: weekly consolidation -> downloads 7-day feed.
+
+Manual trigger supports:
+
+- `window_days`: `2` or `7`
+- `no_fetch`: pipeline cache-only mode
+- `workers`: pipeline fetch parallelism
+- `force_pipeline`: run enrichment even if inputs are unchanged
+
+Important runtime rule:
+
+- If updater detects no registry or match delta, pipeline/dashboard regeneration is skipped.
+- This avoids unnecessary dashboard churn when both 2-day and 7-day downloads carry no new data.
+
+### Keep dashboard always online (GitHub Pages)
+
+The workflow publishes dashboard artifacts to GitHub Pages every run.
+
+One-time repository setup:
+
+1. `Settings -> Actions -> General`: set workflow permissions to `Read and write`.
+2. `Settings -> Pages`: set source to `GitHub Actions`.
+3. If branch protection is enabled, allow workflow commits or switch to bot-PR flow.
+
+After setup, your dashboard is always accessible from the Pages URL even when a run skips regeneration due to no data changes.
 
 Supported override fields per player:
 
